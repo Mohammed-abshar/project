@@ -1,0 +1,1201 @@
+Billing ID,Hospital Name,Department Name,Service Type,Region,Usage Hours,Storage Used (GB),Monthly Cost,Date,Payment Status,Vendor Name,Resource ID,CPU Usage %,Memory Usage %,Forecast Demand,Cost Center,Network Bandwidth (GB),Data Egress Cost ($),Carbon Footprint (kgCO2e),Security Alerts,Compliance Status
+INV-10020,Manipal Hospitals,Pediatrics,Storage,eu-west-1,379.14,4042.23,137.72,2023-01-01,Paid,Azure,RES-6409,14.05,89.92,132.09,CC-780,313.46,15.67,19.91,2,Compliant
+INV-10227,Max Healthcare,Cardiology,Security,us-west-2,702.71,43.42,106.27,2023-01-01,Paid,Google Cloud,RES-2124,6.24,43.95,108.57,CC-115,459.99,23.0,22.64,0,Compliant
+INV-10652,Tata Memorial,IT Dept,Database,ap-southeast-1,231.12,234.74,59.04,2023-01-01,Paid,Google Cloud,RES-2579,18.15,20.9,59.61,CC-833,241.51,12.08,10.27,0,Compliant
+INV-10798,Narayana Health,Research,Networking,ap-southeast-1,351.52,93.69,54.6,2023-01-01,Paid,Azure,RES-7585,14.92,71.27,60.54,CC-304,336.57,16.83,17.33,0,Compliant
+INV-11072,Christian Medical College,Oncology,Storage,ap-south-1,633.84,3818.74,171.45,2023-01-01,Pending,Azure,RES-7607,1.04,11.75,173.69,CC-861,229.45,11.47,34.56,0,Compliant
+INV-10970,Narayana Health,Emergency,AI Services,us-west-2,89.15,455.51,56.21,2023-01-02,Pending,Azure,RES-8197,67.47,13.96,62.4,CC-933,466.55,23.33,3.26,0,Compliant
+INV-11073,Fortis Healthcare,Neurology,Backup,us-east-1,26.43,477.47,13.51,2023-01-02,Pending,Azure,RES-9101,17.16,42.68,14.7,CC-242,104.76,5.24,2.81,0,Review Pending
+INV-10779,Apollo Hospitals,Orthopedics,Backup,eu-central-1,386.83,20.27,58.43,2023-01-03,Overdue,Azure,RES-5483,19.09,48.19,60.12,CC-921,269.95,13.5,17.88,0,Non-Compliant
+INV-10470,Apollo Hospitals,IT Dept,Analytics,us-east-1,447.03,164.28,70.34,2023-01-04,Paid,Azure,RES-8058,41.5,10.44,67.23,CC-203,248.56,12.43,6.49,0,Compliant
+INV-10625,Max Healthcare,Orthopedics,Analytics,eu-west-1,541.51,341.01,88.05,2023-01-04,Pending,AWS,RES-9803,46.16,54.18,89.42,CC-366,64.89,3.24,23.46,0,Compliant
+INV-10690,Apollo Hospitals,Oncology,Compute,eu-west-1,280.66,281.36,57.27,2023-01-04,Paid,AWS,RES-9938,82.42,75.34,55.4,CC-677,41.59,2.08,11.4,2,Compliant
+INV-10853,Narayana Health,IT Dept,Backup,ap-south-1,147.85,314.06,28.46,2023-01-04,Overdue,AWS,RES-8884,3.28,67.41,30.54,CC-215,301.51,15.08,3.02,1,Compliant
+INV-10143,Max Healthcare,Oncology,Compute,ap-southeast-1,443.33,82.06,81.77,2023-01-05,Paid,Google Cloud,RES-4559,41.26,28.11,96.16,CC-553,47.91,2.4,6.54,0,Compliant
+INV-10696,Apollo Hospitals,Neurology,Compute,us-east-1,663.32,434.73,129.83,2023-01-05,Pending,AWS,RES-6039,39.5,17.65,130.74,CC-318,421.14,21.06,18.28,0,Compliant
+INV-10862,Apollo Hospitals,Pediatrics,Compute,us-east-1,638.69,259.8,121.2,2023-01-05,Paid,Azure,RES-3704,46.97,51.61,129.18,CC-645,384.63,19.23,17.7,0,Compliant
+INV-10467,Apollo Hospitals,Neurology,Backup,ap-southeast-1,693.14,211.99,108.21,2023-01-06,Overdue,Azure,RES-3042,10.66,72.12,114.11,CC-645,205.71,10.29,25.0,0,Compliant
+INV-11135,AIIMS,Pharmacy,Backup,eu-central-1,127.51,437.07,27.87,2023-01-06,Paid,Google Cloud,RES-1679,15.68,41.43,32.12,CC-672,144.03,7.2,4.44,0,Compliant
+INV-10527,Fortis Healthcare,Neurology,Analytics,us-east-1,486.05,234.08,77.59,2023-01-07,Pending,AWS,RES-6134,44.27,51.45,88.78,CC-626,381.44,19.07,11.58,0,Compliant
+INV-10534,Medanta,IT Dept,Backup,ap-south-1,597.7,150.57,92.67,2023-01-07,Pending,Azure,RES-2847,7.34,54.02,107.45,CC-595,138.62,6.93,18.93,0,Compliant
+INV-10629,Manipal Hospitals,Pharmacy,Backup,us-west-2,194.19,360.57,36.34,2023-01-07,Paid,Google Cloud,RES-3553,15.16,94.67,39.45,CC-452,295.63,14.78,6.95,0,Review Pending
+INV-10723,Medanta,Orthopedics,IoT Hub,us-east-1,163.66,90.46,26.36,2023-01-07,Paid,Azure,RES-3707,7.34,52.47,29.42,CC-500,460.81,23.04,5.09,0,Compliant
+INV-10979,Medanta,Neurology,IoT Hub,ap-south-1,640.82,35.87,96.84,2023-01-07,Paid,AWS,RES-4755,15.72,24.83,101.94,CC-508,287.6,14.38,25.0,0,Compliant
+INV-11062,Fortis Healthcare,Emergency,AI Services,us-east-1,116.01,199.68,53.49,2023-01-07,Paid,Azure,RES-6492,71.81,24.44,50.57,CC-708,390.82,19.54,3.17,0,Compliant
+INV-10297,Max Healthcare,Pharmacy,Backup,ap-south-1,536.41,301.91,86.5,2023-01-08,Paid,Azure,RES-4869,18.29,72.81,87.45,CC-901,245.03,12.25,23.86,0,Compliant
+INV-10843,Christian Medical College,Orthopedics,Networking,ap-southeast-1,269.21,1.13,40.4,2023-01-08,Paid,AWS,RES-3608,11.27,17.17,38.55,CC-435,47.66,2.38,6.93,0,Compliant
+INV-10975,Max Healthcare,Orthopedics,Networking,us-east-1,358.89,77.99,55.39,2023-01-08,Paid,AWS,RES-3996,2.9,64.81,66.14,CC-671,354.51,17.73,17.65,0,Compliant
+INV-10221,Manipal Hospitals,Emergency,Networking,us-west-2,153.67,429.8,31.65,2023-01-09,Paid,AWS,RES-1639,10.58,45.68,29.4,CC-729,439.49,21.97,6.53,0,Compliant
+INV-10510,Fortis Healthcare,Neurology,Compute,us-east-1,447.54,205.64,85.49,2023-01-09,Paid,Google Cloud,RES-1534,54.18,73.9,79.5,CC-695,335.52,16.78,20.1,0,Compliant
+INV-10072,Tata Memorial,Neurology,Networking,ap-southeast-1,267.44,90.13,41.92,2023-01-10,Paid,Azure,RES-5846,5.07,90.55,40.58,CC-179,422.99,21.15,4.12,1,Non-Compliant
+INV-10308,Fortis Healthcare,Cardiology,Database,eu-central-1,344.57,459.01,91.3,2023-01-10,Paid,Google Cloud,RES-2594,1.87,69.61,86.89,CC-414,230.81,11.54,7.34,1,Compliant
+INV-11126,AIIMS,IT Dept,Database,eu-central-1,535.16,133.06,124.4,2023-01-10,Overdue,AWS,RES-6224,10.16,65.97,125.49,CC-982,369.87,18.49,7.51,0,Compliant
+INV-10026,Manipal Hospitals,Emergency,Networking,ap-southeast-1,618.28,382.8,100.4,2023-01-11,Pending,Google Cloud,RES-7865,8.23,10.5,113.05,CC-955,271.42,13.57,25.96,1,Compliant
+INV-10582,Max Healthcare,Pharmacy,IoT Hub,us-east-1,579.71,45.13,87.86,2023-01-11,Paid,Google Cloud,RES-4448,14.39,87.54,93.65,CC-631,184.24,9.21,10.47,0,Non-Compliant
+INV-11056,Christian Medical College,Neurology,Analytics,ap-south-1,465.68,212.41,74.1,2023-01-11,Paid,AWS,RES-5439,59.2,57.6,69.04,CC-952,388.95,19.45,19.16,0,Compliant
+INV-10219,Christian Medical College,Orthopedics,Database,eu-west-1,183.01,63.94,43.1,2023-01-12,Paid,Azure,RES-5231,12.25,21.45,50.31,CC-270,461.61,23.08,5.78,3,Compliant
+INV-10605,Medanta,Oncology,Analytics,ap-southeast-1,321.7,308.31,54.42,2023-01-12,Paid,AWS,RES-7114,62.83,69.03,56.71,CC-840,302.47,15.12,10.23,0,Review Pending
+INV-10726,Christian Medical College,Pharmacy,IoT Hub,ap-south-1,509.04,239.86,81.15,2023-01-12,Paid,Azure,RES-8085,14.9,23.03,89.54,CC-609,416.07,20.8,14.66,0,Compliant
+INV-10890,Christian Medical College,Oncology,Compute,us-east-1,528.98,268.75,101.67,2023-01-12,Pending,Azure,RES-2156,65.71,91.99,107.0,CC-971,485.4,24.27,26.16,0,Compliant
+INV-10152,Tata Memorial,Orthopedics,Database,us-east-1,175.43,173.21,44.67,2023-01-13,Paid,Azure,RES-6038,16.95,84.56,40.22,CC-969,56.45,2.82,5.81,0,Compliant
+INV-10550,AIIMS,Research,AI Services,us-east-1,456.67,334.33,187.97,2023-01-13,Paid,Google Cloud,RES-2179,28.12,78.85,189.45,CC-659,173.65,8.68,18.65,0,Compliant
+INV-10598,Christian Medical College,Research,Compute,us-east-1,445.17,356.66,88.69,2023-01-15,Pending,Azure,RES-1918,72.8,25.04,82.02,CC-222,224.47,11.22,17.91,1,Compliant
+INV-10089,Manipal Hospitals,Pharmacy,Networking,ap-southeast-1,363.61,313.58,60.81,2023-01-16,Paid,Google Cloud,RES-8430,6.5,91.32,69.41,CC-404,41.12,2.06,5.37,0,Compliant
+INV-10266,Fortis Healthcare,Oncology,Security,us-west-2,553.46,440.07,91.82,2023-01-16,Pending,Google Cloud,RES-5485,8.87,44.96,108.36,CC-856,80.22,4.01,10.37,0,Review Pending
+INV-11063,Narayana Health,Orthopedics,Networking,ap-southeast-1,17.08,232.42,7.21,2023-01-16,Paid,Google Cloud,RES-1201,12.49,12.55,7.02,CC-917,17.87,0.89,1.29,0,Compliant
+INV-11081,AIIMS,Neurology,Security,us-east-1,474.95,132.25,73.89,2023-01-16,Pending,AWS,RES-5236,11.11,41.81,76.02,CC-329,159.47,7.97,19.18,0,Compliant
+INV-11150,Max Healthcare,Pediatrics,Backup,ap-southeast-1,478.96,9.62,72.04,2023-01-16,Paid,Azure,RES-8650,3.8,53.15,72.16,CC-756,317.52,15.88,6.52,0,Review Pending
+INV-10390,Tata Memorial,Neurology,AI Services,eu-central-1,540.01,472.03,226.11,2023-01-17,Paid,Azure,RES-5744,42.87,90.9,231.22,CC-685,24.94,1.25,9.88,3,Compliant
+INV-10497,Medanta,Orthopedics,IoT Hub,us-west-2,180.64,42.52,27.95,2023-01-17,Paid,Google Cloud,RES-6056,11.83,13.81,29.21,CC-195,9.2,0.46,4.47,0,Compliant
+INV-10631,Tata Memorial,Orthopedics,AI Services,ap-south-1,292.93,49.42,112.32,2023-01-17,Pending,Google Cloud,RES-2301,39.33,15.71,119.11,CC-993,485.37,24.27,3.75,0,Compliant
+INV-11133,AIIMS,Research,Security,eu-central-1,309.61,346.27,53.37,2023-01-17,Pending,Azure,RES-2138,16.01,61.37,63.64,CC-538,239.32,11.97,14.21,0,Compliant
+INV-10051,Max Healthcare,Neurology,Storage,ap-south-1,421.5,3675.18,136.73,2023-01-18,Paid,Azure,RES-6994,2.71,35.08,130.26,CC-652,267.77,13.39,35.5,0,Compliant
+INV-10317,Apollo Hospitals,Cardiology,Analytics,eu-west-1,312.25,197.16,50.78,2023-01-18,Paid,Google Cloud,RES-1203,82.06,69.22,53.25,CC-871,348.11,17.41,8.57,0,Compliant
+INV-10407,Fortis Healthcare,IT Dept,Compute,us-east-1,277.95,445.04,60.71,2023-01-18,Paid,AWS,RES-8075,71.71,76.52,69.25,CC-725,37.57,1.88,11.75,0,Compliant
+INV-10597,Medanta,Research,Storage,ap-southeast-1,469.52,3226.29,134.95,2023-01-18,Paid,Azure,RES-1498,8.57,94.64,132.55,CC-685,432.28,21.61,38.21,0,Compliant
+INV-10972,AIIMS,Research,Compute,eu-central-1,150.91,99.06,29.54,2023-01-18,Paid,AWS,RES-1438,65.4,39.84,33.46,CC-838,302.46,15.12,3.02,1,Compliant
+INV-10150,Christian Medical College,Radiology,Networking,us-west-2,402.53,456.97,69.52,2023-01-19,Pending,AWS,RES-2276,15.07,45.65,71.25,CC-377,287.91,14.4,7.64,0,Compliant
+INV-10180,Medanta,Emergency,Networking,eu-central-1,423.95,497.38,73.54,2023-01-19,Paid,Google Cloud,RES-6873,16.5,39.17,81.33,CC-587,256.12,12.81,20.75,1,Compliant
+INV-10563,Christian Medical College,Cardiology,Analytics,us-east-1,695.78,240.1,109.17,2023-01-19,Paid,Azure,RES-6145,85.14,28.52,129.0,CC-724,476.88,23.84,19.7,0,Compliant
+INV-10614,Apollo Hospitals,Pharmacy,Compute,ap-south-1,387.2,198.11,74.45,2023-01-19,Paid,Google Cloud,RES-6658,25.6,55.47,70.24,CC-381,486.07,24.3,14.93,1,Compliant
+INV-10613,Christian Medical College,Emergency,Storage,eu-central-1,96.3,2473.63,63.92,2023-01-21,Paid,Azure,RES-1385,7.97,85.58,62.37,CC-403,273.66,13.68,7.66,0,Compliant
+INV-10626,Christian Medical College,Cardiology,Backup,eu-central-1,268.0,358.31,47.37,2023-01-21,Paid,Google Cloud,RES-2831,10.72,65.22,44.4,CC-368,362.39,18.12,7.91,0,Compliant
+INV-10961,Max Healthcare,Neurology,IoT Hub,ap-southeast-1,389.0,246.5,63.28,2023-01-21,Overdue,Google Cloud,RES-4933,19.74,90.78,71.0,CC-251,363.56,18.18,18.96,0,Compliant
+INV-10502,AIIMS,Research,Analytics,ap-south-1,450.64,321.93,74.03,2023-01-22,Pending,Google Cloud,RES-7157,75.95,30.81,66.8,CC-397,83.31,4.17,12.12,0,Compliant
+INV-10722,Tata Memorial,Emergency,AI Services,us-west-2,285.09,53.36,109.58,2023-01-22,Paid,AWS,RES-4511,93.04,27.47,122.81,CC-806,443.89,22.19,12.31,0,Compliant
+INV-10992,Max Healthcare,Oncology,Storage,us-west-2,224.26,2855.09,90.74,2023-01-22,Paid,AWS,RES-1448,17.12,42.43,101.36,CC-155,75.01,3.75,15.77,0,Compliant
+INV-11172,Tata Memorial,IT Dept,Storage,ap-southeast-1,705.12,3592.41,177.62,2023-01-22,Paid,AWS,RES-4643,12.39,62.29,198.38,CC-388,44.04,2.2,28.58,0,Compliant
+INV-10045,Manipal Hospitals,Orthopedics,Networking,us-west-2,235.91,236.49,40.12,2023-01-23,Paid,Azure,RES-9115,18.36,42.4,45.65,CC-255,482.59,24.13,4.7,0,Compliant
+INV-10688,Tata Memorial,Orthopedics,AI Services,eu-west-1,413.85,474.29,178.91,2023-01-23,Paid,Azure,RES-1924,40.38,90.79,179.81,CC-759,198.7,9.94,7.7,0,Compliant
+INV-10811,Apollo Hospitals,Research,Networking,eu-central-1,435.44,1.4,65.34,2023-01-23,Paid,AWS,RES-5506,5.96,30.88,65.5,CC-628,267.37,13.37,11.42,0,Compliant
+INV-10880,Medanta,IT Dept,Networking,us-east-1,404.01,384.58,208.52,2023-01-23,Pending,AWS,RES-4765,16.15,53.71,244.69,CC-667,54.69,2.73,12.04,0,Compliant
+INV-10944,Tata Memorial,Emergency,Analytics,eu-central-1,562.59,447.72,93.34,2023-01-23,Pending,Azure,RES-4175,98.65,52.58,87.51,CC-323,287.29,14.36,13.62,3,Compliant
+INV-10002,Narayana Health,Pharmacy,AI Services,eu-west-1,479.5,386.53,199.14,2023-01-24,Paid,AWS,RES-6977,97.68,82.7,201.94,CC-954,85.51,4.28,13.03,0,Compliant
+INV-10035,Medanta,Cardiology,IoT Hub,us-west-2,701.75,276.68,110.8,2023-01-24,Pending,Azure,RES-5658,14.25,20.73,116.04,CC-687,237.35,11.87,19.86,0,Review Pending
+INV-10209,Apollo Hospitals,Pharmacy,Compute,eu-west-1,507.63,36.29,92.24,2023-01-24,Paid,Google Cloud,RES-8170,92.6,19.02,91.35,CC-883,193.8,9.69,21.81,0,Compliant
+INV-10522,Manipal Hospitals,Orthopedics,Storage,eu-central-1,713.08,2135.12,149.66,2023-01-24,Paid,Azure,RES-1292,3.36,24.55,151.88,CC-391,323.61,16.18,42.12,2,Compliant
+INV-10533,Apollo Hospitals,IT Dept,AI Services,eu-central-1,591.44,283.63,235.97,2023-01-24,Paid,AWS,RES-2638,98.15,81.01,224.22,CC-196,155.78,7.79,24.13,0,Review Pending
+INV-10855,Fortis Healthcare,Orthopedics,Networking,eu-central-1,21.4,310.39,9.42,2023-01-24,Paid,Azure,RES-2427,19.1,22.72,10.75,CC-888,22.42,1.12,1.39,0,Review Pending
+INV-10872,Christian Medical College,Neurology,Compute,us-west-2,459.64,365.88,91.52,2023-01-25,Overdue,Azure,RES-8644,20.28,23.38,107.74,CC-519,377.57,18.88,7.7,0,Compliant
+INV-10893,AIIMS,Pharmacy,Analytics,eu-west-1,199.67,294.42,35.84,2023-01-26,Paid,Google Cloud,RES-6809,30.41,20.02,33.21,CC-215,216.44,10.82,6.89,0,Compliant
+INV-10902,Narayana Health,Pharmacy,Backup,ap-south-1,88.56,306.85,19.42,2023-01-26,Paid,Google Cloud,RES-5036,14.73,67.76,21.48,CC-469,350.01,17.5,3.4,0,Compliant
+INV-10941,Manipal Hospitals,Oncology,Analytics,ap-southeast-1,670.83,354.15,372.8,2023-01-26,Paid,Google Cloud,RES-7433,62.5,41.12,419.51,CC-109,147.48,7.37,25.55,0,Compliant
+INV-10996,Narayana Health,Oncology,Backup,eu-central-1,118.62,402.36,25.84,2023-01-26,Paid,Google Cloud,RES-4085,2.7,66.33,30.15,CC-369,496.81,24.84,4.38,0,Compliant
+INV-10756,Tata Memorial,Neurology,AI Services,us-east-1,416.55,391.55,175.78,2023-01-27,Paid,Google Cloud,RES-3751,87.59,83.68,173.4,CC-533,121.94,6.1,18.32,0,Compliant
+INV-11030,Tata Memorial,Pediatrics,Networking,eu-central-1,366.88,239.93,59.83,2023-01-27,Paid,Google Cloud,RES-1572,14.7,11.66,62.32,CC-758,20.46,1.02,13.36,0,Compliant
+INV-11041,Medanta,Emergency,Networking,ap-south-1,442.81,287.56,72.17,2023-01-27,Paid,Azure,RES-4733,16.02,68.61,76.48,CC-591,290.83,14.54,14.4,2,Compliant
+INV-10953,Max Healthcare,Oncology,Analytics,us-west-2,136.12,106.88,22.56,2023-01-28,Paid,AWS,RES-1969,36.21,20.83,26.93,CC-259,129.72,6.49,3.19,0,Compliant
+INV-10064,Medanta,Cardiology,AI Services,eu-central-1,15.46,150.71,13.33,2023-01-29,Paid,Google Cloud,RES-8055,28.8,21.66,13.31,CC-864,91.97,4.6,0.96,0,Compliant
+INV-10967,Medanta,Radiology,Backup,us-west-2,331.49,206.32,53.85,2023-01-29,Overdue,Google Cloud,RES-9751,13.5,48.92,63.13,CC-130,324.58,16.23,13.62,0,Compliant
+INV-10106,Max Healthcare,Research,Networking,eu-central-1,406.75,336.38,67.74,2023-01-30,Paid,Google Cloud,RES-1742,6.86,11.85,61.03,CC-174,214.73,10.74,16.53,0,Non-Compliant
+INV-10137,AIIMS,Oncology,Database,us-west-2,414.75,266.14,101.3,2023-01-31,Paid,AWS,RES-9428,12.34,24.31,100.06,CC-978,492.82,24.64,15.78,3,Compliant
+INV-10191,AIIMS,Oncology,Compute,us-west-2,706.91,422.17,137.38,2023-01-31,Paid,Google Cloud,RES-7221,19.23,87.45,147.09,CC-725,390.69,19.53,26.23,1,Compliant
+INV-10453,Manipal Hospitals,IT Dept,Backup,eu-west-1,706.61,166.57,109.32,2023-01-31,Pending,Azure,RES-3933,16.73,27.9,124.97,CC-153,429.11,21.46,27.99,1,Review Pending
+INV-10742,AIIMS,Radiology,AI Services,ap-south-1,544.18,21.45,205.14,2023-01-31,Paid,Azure,RES-4681,38.52,43.54,229.34,CC-560,375.56,18.78,8.29,0,Non-Compliant
+INV-10856,Fortis Healthcare,Pharmacy,IoT Hub,eu-central-1,439.6,417.46,74.29,2023-01-31,Paid,Google Cloud,RES-6706,15.4,10.57,72.1,CC-671,204.09,10.2,22.03,0,Review Pending
+INV-10058,Tata Memorial,Pediatrics,Analytics,eu-west-1,719.0,423.65,116.32,2023-02-01,Pending,AWS,RES-3430,47.94,19.18,120.17,CC-429,37.51,1.88,16.6,0,Compliant
+INV-10105,Tata Memorial,Radiology,Compute,ap-southeast-1,598.43,451.44,118.55,2023-02-01,Paid,AWS,RES-4365,27.99,55.62,137.08,CC-796,359.87,17.99,19.76,0,Compliant
+INV-11122,Tata Memorial,Pediatrics,Security,us-west-2,145.65,352.58,28.9,2023-02-01,Paid,Azure,RES-4438,2.19,68.74,29.08,CC-377,361.3,18.07,3.44,0,Compliant
+INV-10783,Tata Memorial,Pediatrics,Storage,ap-southeast-1,125.23,1743.4,53.65,2023-02-02,Pending,AWS,RES-1488,10.92,68.61,64.24,CC-459,173.39,8.67,10.22,0,Compliant
+INV-11015,Manipal Hospitals,Oncology,Storage,ap-south-1,42.29,857.32,23.49,2023-02-02,Paid,Google Cloud,RES-2833,5.81,28.44,23.12,CC-623,49.57,2.48,4.27,1,Compliant
+INV-11039,Tata Memorial,Emergency,Database,ap-south-1,232.56,61.11,54.16,2023-02-02,Paid,Google Cloud,RES-8907,14.14,44.73,52.2,CC-331,407.02,20.35,9.69,0,Non-Compliant
+INV-10337,Apollo Hospitals,IT Dept,Compute,ap-south-1,224.17,5.14,40.47,2023-02-03,Paid,AWS,RES-6759,18.59,20.52,43.56,CC-786,19.48,0.97,3.57,0,Compliant
+INV-10813,Narayana Health,Cardiology,IoT Hub,us-west-2,53.11,401.0,15.99,2023-02-03,Pending,AWS,RES-1081,18.63,83.55,16.93,CC-641,134.5,6.73,4.03,0,Compliant
+INV-10083,Apollo Hospitals,Oncology,Analytics,us-east-1,177.56,322.58,109.41,2023-02-04,Paid,AWS,RES-2259,42.23,90.7,113.24,CC-554,289.09,14.45,6.37,0,Compliant
+INV-10343,Max Healthcare,Cardiology,Compute,eu-west-1,363.68,13.37,65.78,2023-02-04,Paid,AWS,RES-2253,25.94,61.39,65.18,CC-878,332.23,16.61,11.24,0,Compliant
+INV-11182,Fortis Healthcare,Radiology,AI Services,eu-west-1,323.27,339.7,138.21,2023-02-04,Paid,AWS,RES-9627,66.5,17.66,128.28,CC-455,222.82,11.14,4.55,0,Compliant
+INV-10056,Narayana Health,Orthopedics,Database,ap-southeast-1,599.17,277.1,143.13,2023-02-05,Pending,AWS,RES-1046,12.14,79.11,162.07,CC-710,142.25,7.11,30.95,0,Compliant
+INV-10127,Christian Medical College,Orthopedics,Analytics,ap-south-1,591.47,397.83,96.68,2023-02-05,Paid,Google Cloud,RES-7932,46.41,52.44,94.03,CC-832,395.59,19.78,9.64,0,Compliant
+INV-10303,Apollo Hospitals,Pediatrics,Backup,us-west-2,359.12,464.29,63.15,2023-02-05,Pending,Azure,RES-2740,12.6,25.17,59.56,CC-323,456.74,22.84,14.52,0,Compliant
+INV-10436,Max Healthcare,IT Dept,Storage,us-east-1,687.1,307.93,109.22,2023-02-05,Paid,Azure,RES-4348,19.85,89.75,103.99,CC-914,121.97,6.1,10.22,0,Compliant
+INV-10532,Medanta,Orthopedics,Database,ap-south-1,128.32,166.08,33.85,2023-02-05,Paid,Google Cloud,RES-2261,9.65,91.79,34.81,CC-370,89.51,4.48,5.36,0,Compliant
+INV-10689,Manipal Hospitals,Radiology,Analytics,us-east-1,608.83,300.83,97.34,2023-02-05,Paid,Azure,RES-7716,35.61,23.69,96.88,CC-166,261.43,13.07,7.68,0,Compliant
+INV-10252,Narayana Health,Cardiology,Backup,ap-southeast-1,602.46,38.97,91.15,2023-02-06,Paid,AWS,RES-9621,5.1,54.16,88.35,CC-297,330.15,16.51,19.95,0,Compliant
+INV-10732,Apollo Hospitals,Research,Compute,eu-central-1,503.41,153.28,94.29,2023-02-06,Overdue,AWS,RES-1385,77.27,35.74,102.92,CC-295,13.03,0.65,11.27,1,Compliant
+INV-10036,Christian Medical College,Neurology,Compute,eu-central-1,419.69,343.23,83.78,2023-02-07,Paid,Azure,RES-7818,23.5,78.95,77.54,CC-671,305.13,15.26,18.12,0,Compliant
+INV-10166,Christian Medical College,Pharmacy,AI Services,us-west-2,577.43,16.71,217.37,2023-02-07,Pending,Azure,RES-2228,11.79,32.2,217.92,CC-264,275.79,13.79,26.54,0,Compliant
+INV-10516,AIIMS,Neurology,Analytics,us-east-1,355.43,312.84,59.57,2023-02-07,Paid,Azure,RES-3945,28.72,45.69,64.94,CC-264,152.88,7.64,17.54,0,Non-Compliant
+INV-10549,Fortis Healthcare,Cardiology,Backup,us-east-1,323.49,187.16,52.27,2023-02-07,Paid,AWS,RES-4272,12.99,12.5,48.73,CC-236,101.88,5.09,10.28,0,Compliant
+INV-10633,Fortis Healthcare,Research,Storage,ap-south-1,149.46,626.21,34.94,2023-02-07,Paid,Google Cloud,RES-1157,2.58,26.78,33.7,CC-682,292.95,14.65,7.55,1,Compliant
+INV-10640,Medanta,Neurology,Analytics,us-west-2,240.43,387.62,43.82,2023-02-07,Paid,Google Cloud,RES-8180,46.83,22.9,43.37,CC-190,126.39,6.32,9.48,0,Compliant
+INV-10982,Fortis Healthcare,Oncology,Compute,us-west-2,677.97,285.79,128.89,2023-02-07,Paid,Azure,RES-8436,76.92,46.55,131.6,CC-762,205.96,10.3,23.02,0,Compliant
+INV-10989,Medanta,Orthopedics,Backup,eu-west-1,572.11,152.68,88.87,2023-02-07,Paid,Azure,RES-5234,3.3,58.4,86.5,CC-953,141.52,7.08,16.33,1,Non-Compliant
+INV-11097,Fortis Healthcare,Emergency,Backup,us-west-2,13.13,463.87,11.25,2023-02-07,Paid,Azure,RES-5227,5.13,40.94,13.35,CC-885,446.93,22.35,2.25,0,Compliant
+INV-10052,Christian Medical College,Pediatrics,Security,us-east-1,109.94,483.25,26.16,2023-02-08,Pending,Azure,RES-2479,17.34,71.56,31.14,CC-474,396.39,19.82,2.68,0,Compliant
+INV-10116,Max Healthcare,Research,Storage,ap-southeast-1,681.08,3357.67,169.32,2023-02-08,Pending,AWS,RES-4583,15.52,45.05,164.14,CC-109,255.34,12.77,28.63,0,Compliant
+INV-10743,Max Healthcare,Orthopedics,IoT Hub,ap-south-1,317.25,15.46,47.9,2023-02-08,Paid,Azure,RES-5544,2.26,17.21,45.2,CC-478,199.67,9.98,9.13,2,Compliant
+INV-10787,AIIMS,Oncology,Backup,ap-south-1,702.34,181.89,108.99,2023-02-08,Paid,Azure,RES-2524,10.47,72.78,98.95,CC-289,435.4,21.77,33.81,1,Compliant
+INV-10909,AIIMS,Pediatrics,Database,eu-west-1,114.57,55.45,27.44,2023-02-08,Pending,Azure,RES-4735,4.13,27.33,30.75,CC-450,217.89,10.89,4.55,1,Compliant
+INV-10007,Medanta,Orthopedics,Storage,us-west-2,70.81,2455.65,59.73,2023-02-10,Paid,Google Cloud,RES-3705,2.32,74.65,56.06,CC-662,136.2,6.81,9.79,0,Compliant
+INV-10112,Manipal Hospitals,Pediatrics,AI Services,ap-south-1,664.78,423.57,270.47,2023-02-10,Paid,Google Cloud,RES-1647,18.23,71.59,265.21,CC-717,437.44,21.87,13.37,0,Compliant
+INV-10444,AIIMS,IT Dept,Compute,eu-west-1,218.12,188.86,43.79,2023-02-10,Paid,AWS,RES-1155,34.63,39.08,45.69,CC-203,35.22,1.76,8.93,0,Review Pending
+INV-10705,Apollo Hospitals,IT Dept,Database,ap-southeast-1,134.85,98.86,33.31,2023-02-10,Pending,AWS,RES-4083,3.73,56.07,36.97,CC-177,97.59,4.88,3.57,0,Compliant
+INV-11009,Narayana Health,Pharmacy,Database,us-east-1,638.93,174.64,149.0,2023-02-11,Paid,Azure,RES-3472,2.59,78.81,163.34,CC-261,298.3,14.92,9.78,1,Review Pending
+INV-10075,Tata Memorial,Neurology,IoT Hub,us-east-1,551.81,136.4,85.5,2023-02-12,Paid,Azure,RES-6727,18.2,22.52,101.23,CC-561,465.58,23.28,15.03,0,Compliant
+INV-10505,AIIMS,Pediatrics,Backup,eu-west-1,110.63,136.95,19.33,2023-02-12,Paid,AWS,RES-4015,2.55,84.27,19.83,CC-365,416.12,20.81,2.15,0,Compliant
+INV-10938,Medanta,Cardiology,Compute,us-west-2,717.71,231.35,134.74,2023-02-12,Paid,AWS,RES-5832,55.17,42.97,149.02,CC-924,353.56,17.68,20.55,0,Compliant
+INV-11019,Manipal Hospitals,Orthopedics,Analytics,eu-central-1,369.02,317.5,61.7,2023-02-12,Pending,Google Cloud,RES-7515,88.61,91.9,69.41,CC-281,230.16,11.51,8.37,3,Compliant
+INV-11045,Max Healthcare,Research,Networking,ap-southeast-1,139.38,108.82,23.08,2023-02-12,Paid,AWS,RES-2342,1.56,54.89,23.78,CC-893,291.17,14.56,5.33,1,Compliant
+INV-10810,Tata Memorial,Pediatrics,Backup,ap-south-1,397.5,73.97,61.1,2023-02-13,Pending,AWS,RES-3879,13.69,55.9,64.56,CC-254,413.06,20.65,8.83,0,Compliant
+INV-10100,Medanta,Radiology,Backup,eu-west-1,473.13,116.11,354.95,2023-02-15,Pending,AWS,RES-7504,15.04,82.28,363.95,CC-137,395.04,19.75,8.72,1,Compliant
+INV-10442,AIIMS,Pharmacy,Backup,eu-west-1,87.58,286.31,18.86,2023-02-15,Pending,Azure,RES-6047,16.15,79.21,18.16,CC-815,8.18,0.41,2.32,0,Compliant
+INV-10682,Medanta,Cardiology,IoT Hub,us-east-1,228.06,293.73,40.08,2023-02-15,Paid,AWS,RES-5963,18.11,56.14,44.96,CC-148,195.53,9.78,6.42,1,Compliant
+INV-10917,Max Healthcare,Pediatrics,Networking,us-west-2,621.91,493.25,103.15,2023-02-15,Paid,AWS,RES-4709,11.27,91.9,98.25,CC-308,298.23,14.91,11.23,0,Compliant
+INV-10704,Max Healthcare,Orthopedics,Compute,us-west-2,12.73,395.8,11.79,2023-02-16,Paid,AWS,RES-4232,30.74,14.25,11.74,CC-587,355.58,17.78,1.89,0,Compliant
+INV-10386,Max Healthcare,Research,IoT Hub,ap-south-1,373.29,156.13,282.61,2023-02-17,Paid,AWS,RES-5979,7.47,64.03,300.13,CC-952,364.62,18.23,18.69,0,Compliant
+INV-10441,Medanta,Orthopedics,Database,us-east-1,467.52,458.44,118.95,2023-02-17,Paid,AWS,RES-3716,8.56,59.82,125.56,CC-533,415.73,20.79,10.42,3,Compliant
+INV-10556,Narayana Health,Emergency,Storage,us-west-2,427.92,1174.27,87.67,2023-02-17,Overdue,AWS,RES-5094,15.2,85.51,93.84,CC-115,407.25,20.36,7.36,0,Compliant
+INV-10770,Apollo Hospitals,Oncology,IoT Hub,eu-central-1,673.41,396.79,108.95,2023-02-17,Paid,Azure,RES-7009,14.25,22.91,113.46,CC-398,340.98,17.05,32.97,0,Compliant
+INV-10349,AIIMS,Orthopedics,Compute,eu-west-1,430.22,136.68,80.72,2023-02-18,Paid,Google Cloud,RES-5945,60.41,55.14,81.06,CC-943,254.8,12.74,9.96,0,Compliant
+INV-10653,Max Healthcare,Oncology,AI Services,eu-west-1,519.26,141.15,201.78,2023-02-18,Paid,AWS,RES-8571,64.74,31.23,225.79,CC-827,335.84,16.79,16.46,1,Compliant
+INV-11021,Apollo Hospitals,Emergency,Analytics,eu-central-1,471.96,211.25,75.02,2023-02-18,Pending,Azure,RES-9563,65.99,41.47,67.66,CC-651,54.72,2.74,17.51,0,Compliant
+INV-10289,Fortis Healthcare,Pharmacy,Analytics,ap-south-1,593.64,88.09,90.81,2023-02-19,Pending,Google Cloud,RES-6364,95.07,15.92,103.91,CC-488,249.68,12.48,21.73,1,Non-Compliant
+INV-10498,AIIMS,Radiology,Database,eu-west-1,245.24,448.26,68.63,2023-02-19,Pending,Google Cloud,RES-1612,10.57,52.69,62.25,CC-588,148.61,7.43,5.22,1,Compliant
+INV-10881,Tata Memorial,Cardiology,IoT Hub,us-east-1,586.76,335.1,420.5,2023-02-19,Pending,Google Cloud,RES-2383,9.51,22.59,501.35,CC-574,101.77,5.09,7.81,0,Compliant
+INV-11017,Narayana Health,Orthopedics,IoT Hub,eu-central-1,12.73,315.9,8.23,2023-02-19,Paid,AWS,RES-1031,7.21,25.25,8.71,CC-826,467.98,23.4,0.93,0,Compliant
+INV-10076,Fortis Healthcare,Radiology,AI Services,us-east-1,605.82,324.98,243.43,2023-02-20,Paid,Azure,RES-8685,80.43,21.7,279.68,CC-242,227.06,11.35,6.61,0,Compliant
+INV-10282,Christian Medical College,Research,Backup,ap-south-1,593.72,469.01,98.44,2023-02-20,Pending,AWS,RES-2897,13.86,21.28,102.16,CC-634,7.03,0.35,29.84,0,Compliant
+INV-10189,Christian Medical College,Oncology,Compute,ap-southeast-1,652.39,322.17,125.16,2023-02-21,Pending,AWS,RES-1646,50.65,93.07,114.52,CC-995,426.86,21.34,17.12,0,Compliant
+INV-10397,Apollo Hospitals,Pediatrics,IoT Hub,ap-southeast-1,184.88,277.35,33.28,2023-02-21,Paid,Google Cloud,RES-3332,15.92,35.89,30.79,CC-308,189.79,9.49,10.28,0,Compliant
+INV-10531,Manipal Hospitals,Pharmacy,Networking,eu-central-1,166.12,412.03,33.16,2023-02-21,Paid,Azure,RES-5718,14.14,52.09,31.87,CC-822,368.27,18.41,3.53,0,Compliant
+INV-10611,Christian Medical College,Neurology,Security,eu-west-1,475.67,202.24,75.4,2023-02-21,Paid,Google Cloud,RES-8964,16.33,23.68,79.33,CC-111,328.64,16.43,18.05,0,Compliant
+INV-10697,Christian Medical College,Radiology,Database,ap-south-1,579.66,79.91,132.82,2023-02-21,Paid,Azure,RES-8693,17.73,23.88,155.81,CC-675,351.43,17.57,12.67,0,Compliant
+INV-10524,Christian Medical College,IT Dept,Compute,ap-south-1,30.79,23.92,6.12,2023-02-22,Paid,Google Cloud,RES-2442,10.93,18.94,6.77,CC-274,99.62,4.98,1.48,2,Review Pending
+INV-10887,AIIMS,Emergency,IoT Hub,eu-west-1,301.73,191.0,49.08,2023-02-22,Paid,Azure,RES-5067,2.89,28.38,44.9,CC-372,120.48,6.02,5.56,0,Compliant
+INV-10388,Max Healthcare,Emergency,IoT Hub,eu-west-1,242.77,291.18,42.24,2023-02-23,Pending,AWS,RES-2511,16.63,40.71,47.03,CC-183,35.79,1.79,11.9,0,Compliant
+INV-10914,Medanta,Cardiology,Storage,eu-west-1,375.44,3590.02,128.12,2023-02-23,Pending,Google Cloud,RES-3822,8.53,50.3,150.09,CC-453,143.03,7.15,20.79,0,Compliant
+INV-10006,Apollo Hospitals,Pediatrics,IoT Hub,us-west-2,628.07,149.22,97.19,2023-02-24,Paid,Google Cloud,RES-9689,13.14,61.76,109.7,CC-897,459.65,22.98,21.77,0,Compliant
+INV-10101,Apollo Hospitals,Cardiology,Backup,ap-southeast-1,669.2,167.52,103.73,2023-02-24,Paid,Google Cloud,RES-8668,9.63,64.51,121.03,CC-616,140.05,7.0,28.73,0,Compliant
+INV-10339,Christian Medical College,Radiology,Database,eu-central-1,138.4,177.41,36.46,2023-02-24,Overdue,Google Cloud,RES-8633,8.21,28.21,34.05,CC-226,59.61,2.98,2.85,0,Compliant
+INV-10010,Fortis Healthcare,Cardiology,Networking,eu-west-1,186.55,95.1,29.88,2023-02-25,Overdue,Azure,RES-2604,9.52,45.86,29.13,CC-553,30.04,1.5,9.74,3,Review Pending
+INV-10053,Medanta,Pharmacy,Networking,eu-west-1,489.13,235.74,78.08,2023-02-25,Paid,Azure,RES-8606,12.77,90.17,84.56,CC-750,455.15,22.76,11.42,0,Review Pending
+INV-10276,Tata Memorial,Orthopedics,AI Services,ap-southeast-1,415.67,489.67,180.36,2023-02-25,Pending,AWS,RES-5705,57.08,17.45,195.05,CC-823,216.39,10.82,19.25,0,Compliant
+INV-10473,AIIMS,Research,Networking,us-west-2,572.83,63.06,87.19,2023-02-25,Pending,AWS,RES-1131,7.54,11.16,79.83,CC-539,219.99,11.0,12.55,0,Compliant
+INV-10817,Tata Memorial,Research,Storage,us-west-2,271.54,2802.65,96.78,2023-02-25,Overdue,Google Cloud,RES-2008,10.52,25.17,96.73,CC-576,338.47,16.92,12.46,0,Review Pending
+INV-10908,AIIMS,Cardiology,Storage,ap-southeast-1,346.96,2605.54,104.15,2023-02-25,Pending,AWS,RES-6871,8.53,70.43,97.73,CC-277,224.82,11.24,17.12,1,Compliant
+INV-10998,Apollo Hospitals,Oncology,Security,eu-central-1,163.02,438.91,33.23,2023-02-25,Paid,Google Cloud,RES-3012,5.36,28.65,34.58,CC-808,336.81,16.84,5.66,2,Compliant
+INV-11064,Apollo Hospitals,IT Dept,Database,us-west-2,154.98,406.5,47.07,2023-02-25,Paid,AWS,RES-4041,11.76,73.18,43.43,CC-245,64.38,3.22,7.35,1,Compliant
+INV-10355,Apollo Hospitals,IT Dept,IoT Hub,ap-south-1,234.71,211.89,39.44,2023-02-27,Paid,Google Cloud,RES-7025,13.97,91.88,46.58,CC-832,411.58,20.58,3.58,0,Compliant
+INV-10488,Medanta,Orthopedics,Networking,eu-west-1,359.19,495.38,63.79,2023-02-27,Paid,Google Cloud,RES-2389,5.27,91.3,58.87,CC-469,448.32,22.42,13.13,0,Compliant
+INV-10474,Max Healthcare,Research,Database,us-west-2,623.56,497.13,155.21,2023-02-28,Pending,Azure,RES-9230,5.7,79.75,172.58,CC-817,307.49,15.37,13.14,0,Compliant
+INV-10589,Tata Memorial,Neurology,Database,us-west-2,37.73,212.09,14.85,2023-02-28,Paid,Azure,RES-1151,4.24,78.27,16.7,CC-508,151.89,7.59,1.5,2,Compliant
+INV-10888,Tata Memorial,Pharmacy,Backup,ap-southeast-1,716.93,223.03,112.0,2023-02-28,Paid,Google Cloud,RES-3286,1.28,70.48,106.35,CC-776,18.02,0.9,21.25,1,Compliant
+INV-10325,Max Healthcare,Oncology,Database,us-west-2,39.22,158.31,13.57,2023-03-01,Paid,AWS,RES-6633,3.4,32.13,14.5,CC-424,78.23,3.91,1.87,0,Compliant
+INV-10327,Christian Medical College,Cardiology,Database,eu-west-1,228.74,200.81,57.49,2023-03-01,Paid,Google Cloud,RES-9625,16.98,47.91,52.69,CC-697,114.96,5.75,11.27,0,Compliant
+INV-10361,Tata Memorial,Emergency,Analytics,eu-west-1,169.38,101.57,27.44,2023-03-02,Paid,Azure,RES-4385,94.2,79.14,30.84,CC-541,302.04,15.1,8.65,0,Compliant
+INV-10479,Tata Memorial,Radiology,Security,eu-central-1,656.7,33.85,99.18,2023-03-02,Paid,Google Cloud,RES-3112,8.96,89.16,89.91,CC-813,148.38,7.42,31.72,3,Compliant
+INV-10924,Tata Memorial,Research,IoT Hub,eu-west-1,345.46,497.5,61.77,2023-03-02,Paid,Google Cloud,RES-8024,13.55,51.25,62.34,CC-705,94.4,4.72,10.37,0,Compliant
+INV-11075,Tata Memorial,Pediatrics,AI Services,us-west-2,642.13,361.51,258.87,2023-03-02,Paid,Azure,RES-7051,31.74,47.88,273.63,CC-194,348.68,17.43,15.46,0,Compliant
+INV-11155,AIIMS,Pediatrics,IoT Hub,ap-southeast-1,260.12,358.42,46.19,2023-03-02,Pending,AWS,RES-3494,9.58,52.37,45.4,CC-520,499.54,24.98,13.29,0,Compliant
+INV-10034,Christian Medical College,Pediatrics,Backup,ap-south-1,522.11,157.77,81.47,2023-03-03,Pending,AWS,RES-9595,15.11,90.82,78.0,CC-383,300.41,15.02,26.38,0,Compliant
+INV-10231,Manipal Hospitals,Orthopedics,Security,us-west-2,663.33,337.91,106.26,2023-03-03,Paid,AWS,RES-7081,13.61,62.18,112.9,CC-593,312.23,15.61,21.37,1,Non-Compliant
+INV-10725,Medanta,Emergency,Storage,ap-south-1,224.46,1350.49,60.68,2023-03-03,Overdue,AWS,RES-1497,18.67,85.43,58.34,CC-862,440.74,22.04,12.91,0,Compliant
+INV-11092,Tata Memorial,Radiology,Security,us-east-1,64.7,479.1,19.29,2023-03-03,Paid,Google Cloud,RES-9658,7.47,38.7,18.05,CC-270,339.62,16.98,4.29,0,Compliant
+INV-10305,Manipal Hospitals,Cardiology,Networking,eu-west-1,412.74,467.52,71.26,2023-03-04,Overdue,Azure,RES-6985,7.82,67.96,77.65,CC-192,269.64,13.48,20.61,0,Compliant
+INV-10382,Fortis Healthcare,Oncology,Security,ap-south-1,612.5,219.55,96.27,2023-03-04,Paid,AWS,RES-3805,8.9,75.37,110.01,CC-617,47.19,2.36,16.13,0,Compliant
+INV-10427,Fortis Healthcare,Orthopedics,Analytics,eu-central-1,716.67,38.27,108.27,2023-03-04,Paid,Google Cloud,RES-1731,19.36,75.16,112.09,CC-618,233.77,11.69,9.41,0,Compliant
+INV-10387,Tata Memorial,Radiology,Compute,us-east-1,328.6,286.22,66.02,2023-03-05,Paid,Google Cloud,RES-9737,10.46,38.81,74.19,CC-831,423.03,21.15,6.99,0,Compliant
+INV-10463,Apollo Hospitals,Pharmacy,AI Services,us-east-1,387.34,341.99,162.35,2023-03-05,Pending,Azure,RES-4698,46.2,38.0,190.4,CC-249,140.46,7.02,7.07,0,Review Pending
+INV-10822,Apollo Hospitals,Neurology,Backup,ap-southeast-1,628.3,319.64,100.64,2023-03-05,Paid,AWS,RES-1432,11.93,19.25,97.56,CC-451,295.35,14.77,26.14,0,Compliant
+INV-10171,Christian Medical College,Oncology,Database,us-west-2,40.3,39.18,10.24,2023-03-06,Paid,AWS,RES-2097,13.98,27.16,9.67,CC-427,48.08,2.4,1.43,1,Compliant
+INV-10238,Christian Medical College,Emergency,Database,us-west-2,526.72,331.01,128.44,2023-03-06,Paid,AWS,RES-8752,18.87,69.56,122.03,CC-165,276.47,13.82,6.68,0,Compliant
+INV-10108,Fortis Healthcare,Oncology,IoT Hub,eu-central-1,526.78,111.35,81.24,2023-03-07,Paid,Google Cloud,RES-7214,1.07,11.93,89.53,CC-644,412.56,20.63,10.75,0,Review Pending
+INV-10465,Tata Memorial,Research,Networking,eu-central-1,193.93,343.33,35.96,2023-03-07,Paid,Google Cloud,RES-7064,14.55,65.89,38.49,CC-842,355.21,17.76,5.05,0,Compliant
+INV-10687,Manipal Hospitals,Neurology,IoT Hub,eu-central-1,377.94,17.85,215.42,2023-03-07,Paid,AWS,RES-4960,10.1,19.47,199.28,CC-169,220.79,11.04,9.46,0,Compliant
+INV-10749,Medanta,Neurology,IoT Hub,ap-southeast-1,566.55,462.87,94.24,2023-03-07,Paid,Azure,RES-5541,14.05,27.42,100.83,CC-445,145.67,7.28,11.99,0,Compliant
+INV-10086,Tata Memorial,Pharmacy,Security,eu-central-1,444.48,43.11,67.53,2023-03-08,Pending,Google Cloud,RES-2208,6.88,94.97,71.43,CC-943,67.04,3.35,10.14,0,Compliant
+INV-10701,Christian Medical College,Neurology,Security,ap-southeast-1,629.15,463.27,103.64,2023-03-08,Paid,AWS,RES-1589,1.2,58.76,99.48,CC-497,349.17,17.46,14.25,0,Compliant
+INV-10815,Medanta,Oncology,Storage,us-west-2,271.46,3639.88,113.52,2023-03-08,Paid,Azure,RES-1668,11.04,28.18,128.67,CC-994,411.91,20.6,23.82,0,Compliant
+INV-10868,Narayana Health,Oncology,IoT Hub,ap-southeast-1,115.96,406.16,25.52,2023-03-08,Pending,AWS,RES-1889,15.3,18.38,26.01,CC-983,276.25,13.81,3.8,0,Compliant
+INV-10873,Fortis Healthcare,Neurology,Networking,eu-central-1,658.43,20.93,99.18,2023-03-08,Pending,AWS,RES-8170,12.73,12.71,99.47,CC-641,466.54,23.33,11.87,0,Compliant
+INV-10991,Max Healthcare,Neurology,Storage,ap-southeast-1,53.45,908.02,26.18,2023-03-08,Pending,Azure,RES-4157,17.35,74.74,25.93,CC-456,147.1,7.36,4.46,0,Compliant
+INV-10324,Tata Memorial,IT Dept,Analytics,ap-south-1,647.78,153.25,100.23,2023-03-09,Pending,Google Cloud,RES-6785,80.24,29.28,98.87,CC-251,145.77,7.29,31.79,0,Compliant
+INV-10584,Medanta,Neurology,Networking,eu-west-1,590.99,438.31,97.41,2023-03-09,Pending,Azure,RES-1241,17.38,16.5,108.23,CC-120,372.61,18.63,20.76,0,Compliant
+INV-10859,Narayana Health,Orthopedics,AI Services,us-east-1,466.28,412.91,195.5,2023-03-09,Paid,AWS,RES-6569,98.22,19.84,194.56,CC-431,242.86,12.14,15.85,0,Compliant
+INV-11068,Tata Memorial,Radiology,Compute,eu-central-1,85.1,287.49,22.22,2023-03-09,Paid,AWS,RES-8042,19.83,91.18,26.15,CC-924,272.54,13.63,3.39,0,Compliant
+INV-10199,Medanta,Emergency,Security,ap-south-1,108.11,301.26,22.24,2023-03-10,Paid,Azure,RES-4560,17.84,53.55,23.67,CC-854,104.44,5.22,4.43,0,Compliant
+INV-10472,Manipal Hospitals,Neurology,AI Services,ap-south-1,290.13,371.96,127.4,2023-03-10,Paid,AWS,RES-2946,90.19,23.63,132.98,CC-372,213.44,10.67,10.85,0,Compliant
+INV-11186,Max Healthcare,Pharmacy,Analytics,us-west-2,159.34,499.15,33.88,2023-03-10,Paid,Google Cloud,RES-3684,46.03,32.02,36.19,CC-345,408.66,20.43,9.84,0,Compliant
+INV-10107,Christian Medical College,Cardiology,Backup,eu-central-1,553.74,489.17,92.84,2023-03-11,Pending,AWS,RES-7154,13.27,45.73,94.21,CC-486,44.72,2.24,29.09,0,Non-Compliant
+INV-10241,Max Healthcare,Pediatrics,Storage,us-east-1,254.16,2372.53,85.57,2023-03-11,Paid,Google Cloud,RES-5799,1.16,88.38,89.26,CC-540,300.52,15.03,18.22,0,Non-Compliant
+INV-10279,Narayana Health,IT Dept,Analytics,us-east-1,351.86,313.6,59.05,2023-03-11,Paid,Google Cloud,RES-1917,89.39,55.64,67.03,CC-860,418.38,20.92,8.95,0,Compliant
+INV-10659,Tata Memorial,Emergency,Analytics,eu-central-1,522.3,150.0,81.34,2023-03-11,Pending,Azure,RES-2094,16.66,70.21,78.3,CC-708,34.32,1.72,14.03,1,Compliant
+INV-10699,Narayana Health,Neurology,Security,us-east-1,453.06,338.69,74.73,2023-03-11,Paid,AWS,RES-6254,18.42,19.43,88.79,CC-749,149.71,7.49,20.3,0,Review Pending
+INV-10800,Fortis Healthcare,Neurology,IoT Hub,eu-central-1,166.72,107.27,113.37,2023-03-11,Paid,Google Cloud,RES-8370,8.05,13.11,106.12,CC-702,447.09,22.35,2.79,0,Compliant
+INV-11024,AIIMS,Cardiology,Analytics,eu-west-1,421.33,303.91,69.28,2023-03-11,Paid,Azure,RES-2031,49.61,63.33,75.18,CC-411,383.41,19.17,14.67,0,Compliant
+INV-10265,Christian Medical College,Research,Database,us-west-2,422.53,342.02,105.33,2023-03-12,Overdue,Google Cloud,RES-3378,4.84,21.74,123.19,CC-540,329.83,16.49,14.33,0,Compliant
+INV-10540,Tata Memorial,Oncology,Networking,eu-central-1,383.87,347.07,64.52,2023-03-12,Paid,AWS,RES-8557,10.57,68.24,64.92,CC-520,18.7,0.94,14.1,0,Compliant
+INV-10576,Christian Medical College,Emergency,Analytics,ap-south-1,715.08,365.82,114.58,2023-03-12,Pending,AWS,RES-3567,20.37,40.07,130.39,CC-434,255.99,12.8,16.34,0,Compliant
+INV-10739,Narayana Health,IT Dept,Networking,ap-southeast-1,95.92,81.0,16.01,2023-03-12,Paid,AWS,RES-8829,11.84,66.49,19.2,CC-369,38.08,1.9,4.13,0,Compliant
+INV-10884,Narayana Health,Pharmacy,Compute,ap-southeast-1,506.63,237.5,96.89,2023-03-12,Paid,AWS,RES-1408,12.86,93.28,99.57,CC-438,378.77,18.94,21.46,0,Compliant
+INV-10000,Fortis Healthcare,Cardiology,Backup,us-west-2,532.89,338.35,86.7,2023-03-13,Paid,AWS,RES-1434,17.95,17.39,78.81,CC-617,282.82,14.14,21.88,0,Compliant
+INV-11181,Apollo Hospitals,Orthopedics,Networking,us-east-1,229.81,211.53,38.7,2023-03-13,Paid,Azure,RES-1262,9.51,35.19,36.62,CC-515,69.89,3.49,6.6,0,Compliant
+INV-10071,Max Healthcare,Radiology,Compute,ap-southeast-1,660.89,155.12,122.68,2023-03-14,Paid,Google Cloud,RES-7171,68.39,66.28,136.5,CC-672,323.53,16.18,15.53,0,Review Pending
+INV-10336,Apollo Hospitals,Neurology,AI Services,us-west-2,498.51,153.71,194.63,2023-03-14,Paid,Google Cloud,RES-8934,28.68,93.39,219.72,CC-119,379.88,18.99,6.05,0,Compliant
+INV-10830,Manipal Hospitals,Neurology,Database,us-west-2,561.15,214.94,132.71,2023-03-14,Paid,Azure,RES-8749,11.71,91.65,144.21,CC-671,81.73,4.09,20.59,0,Non-Compliant
+INV-11102,Narayana Health,Pediatrics,Networking,eu-central-1,36.04,32.33,6.05,2023-03-14,Paid,Azure,RES-5318,2.93,49.16,6.35,CC-493,378.58,18.93,1.21,0,Compliant
+INV-10046,Christian Medical College,Neurology,IoT Hub,eu-central-1,301.08,327.39,51.71,2023-03-15,Paid,AWS,RES-2315,3.93,49.91,51.79,CC-765,426.62,21.33,14.73,0,Compliant
+INV-10173,Christian Medical College,Cardiology,Database,ap-south-1,448.95,340.41,111.23,2023-03-15,Paid,Azure,RES-5400,8.63,43.64,123.15,CC-586,449.03,22.45,6.31,0,Compliant
+INV-10334,Narayana Health,Neurology,IoT Hub,ap-southeast-1,19.16,259.09,8.06,2023-03-15,Paid,Azure,RES-9247,8.09,51.22,9.46,CC-258,114.45,5.72,1.52,0,Compliant
+INV-10500,Fortis Healthcare,Oncology,Analytics,us-east-1,554.09,154.77,86.21,2023-03-15,Paid,AWS,RES-5843,87.21,77.78,90.49,CC-273,84.93,4.25,12.13,0,Compliant
+INV-10515,AIIMS,Pediatrics,Storage,ap-south-1,455.48,3210.01,132.52,2023-03-15,Paid,AWS,RES-5292,12.01,18.79,142.96,CC-389,447.83,22.39,15.8,0,Compliant
+INV-10651,Narayana Health,Cardiology,Analytics,us-east-1,658.64,23.25,99.26,2023-03-15,Paid,Google Cloud,RES-2509,43.56,60.87,94.04,CC-328,212.84,10.64,8.45,0,Compliant
+INV-10654,Max Healthcare,Radiology,Networking,ap-south-1,421.35,467.31,72.55,2023-03-16,Paid,Google Cloud,RES-1234,1.65,87.01,66.34,CC-286,75.76,3.79,6.74,0,Compliant
+INV-10351,Apollo Hospitals,Research,AI Services,ap-south-1,180.67,373.22,86.41,2023-03-17,Overdue,Azure,RES-4335,78.13,81.75,100.07,CC-749,423.75,21.19,4.54,0,Compliant
+INV-10385,Narayana Health,Cardiology,Backup,ap-southeast-1,507.21,223.09,80.54,2023-03-17,Paid,Google Cloud,RES-7627,4.9,56.28,88.24,CC-931,388.82,19.44,23.24,0,Compliant
+INV-10564,Christian Medical College,Oncology,AI Services,eu-west-1,628.58,327.99,252.12,2023-03-17,Paid,AWS,RES-1687,30.71,65.64,265.23,CC-424,278.94,13.95,13.59,3,Review Pending
+INV-10570,Fortis Healthcare,Neurology,Networking,eu-central-1,418.97,316.31,69.17,2023-03-17,Paid,Google Cloud,RES-8698,15.68,86.49,62.57,CC-369,372.71,18.64,6.67,0,Compliant
+INV-10158,Manipal Hospitals,Oncology,Backup,ap-south-1,34.6,309.59,11.38,2023-03-18,Paid,Azure,RES-7275,5.67,35.08,12.12,CC-386,72.93,3.65,2.03,0,Compliant
+INV-10280,Manipal Hospitals,Pharmacy,Security,ap-south-1,209.13,15.59,31.68,2023-03-18,Paid,AWS,RES-2914,19.69,63.25,33.94,CC-709,432.97,21.65,8.44,0,Compliant
+INV-10415,Manipal Hospitals,Cardiology,AI Services,ap-southeast-1,242.65,26.63,92.33,2023-03-18,Pending,Azure,RES-2333,80.81,84.19,109.92,CC-314,393.41,19.67,10.2,0,Compliant
+INV-11006,Max Healthcare,Oncology,Storage,ap-south-1,112.48,1909.62,55.06,2023-03-18,Paid,Azure,RES-4151,8.16,37.24,59.32,CC-970,454.84,22.74,6.38,0,Compliant
+INV-10650,Max Healthcare,Emergency,Database,us-west-2,536.8,405.16,132.93,2023-03-19,Paid,Google Cloud,RES-7613,4.45,84.72,126.11,CC-413,314.53,15.73,25.72,0,Compliant
+INV-10073,Apollo Hospitals,Radiology,Database,ap-southeast-1,125.2,415.67,40.64,2023-03-20,Paid,Azure,RES-4891,15.65,78.77,41.91,CC-792,484.95,24.25,5.98,0,Compliant
+INV-10848,Tata Memorial,Oncology,Networking,ap-southeast-1,604.3,64.74,91.94,2023-03-20,Paid,Azure,RES-9591,10.81,26.67,83.8,CC-425,5.32,0.27,21.84,0,Compliant
+INV-10204,Medanta,Cardiology,Security,eu-central-1,38.36,464.31,15.04,2023-03-21,Paid,Google Cloud,RES-6866,12.34,75.76,17.34,CC-908,41.08,2.05,2.91,3,Compliant
+INV-11149,Apollo Hospitals,Neurology,Analytics,us-east-1,302.71,149.17,206.05,2023-03-21,Paid,Google Cloud,RES-2074,49.72,14.07,187.39,CC-986,229.86,11.49,8.36,0,Compliant
+INV-11153,Manipal Hospitals,Emergency,Storage,ap-southeast-1,689.35,2319.72,149.8,2023-03-21,Paid,AWS,RES-1963,5.72,25.52,160.43,CC-935,128.71,6.44,26.66,0,Review Pending
+INV-10049,Apollo Hospitals,IT Dept,Backup,eu-west-1,62.44,472.62,18.82,2023-03-22,Paid,Google Cloud,RES-4263,19.77,35.43,20.84,CC-409,499.69,24.98,3.43,0,Compliant
+INV-10063,Medanta,Radiology,Compute,us-east-1,545.65,24.88,98.81,2023-03-22,Paid,AWS,RES-9394,17.26,47.66,106.92,CC-320,61.34,3.07,14.89,0,Compliant
+INV-10163,Fortis Healthcare,Radiology,Backup,ap-south-1,529.97,218.43,83.86,2023-03-22,Paid,AWS,RES-6846,13.15,51.41,93.27,CC-728,115.5,5.78,18.16,0,Compliant
+INV-10379,Fortis Healthcare,IT Dept,Database,us-west-2,440.08,50.45,100.53,2023-03-22,Paid,AWS,RES-6878,8.9,94.47,96.79,CC-118,441.05,22.05,10.77,1,Non-Compliant
+INV-10772,Max Healthcare,Neurology,Analytics,ap-southeast-1,466.86,349.97,77.03,2023-03-22,Pending,Azure,RES-3667,18.55,61.55,70.07,CC-780,348.98,17.45,20.65,0,Compliant
+INV-10918,Fortis Healthcare,Research,Analytics,us-east-1,680.03,283.29,107.67,2023-03-22,Paid,Azure,RES-3748,97.52,53.95,98.5,CC-317,77.12,3.86,8.43,0,Compliant
+INV-11020,Fortis Healthcare,Orthopedics,Database,eu-west-1,152.8,112.8,37.76,2023-03-22,Overdue,Google Cloud,RES-4061,12.57,18.43,39.74,CC-457,233.24,11.66,5.69,0,Compliant
+INV-11195,Medanta,Emergency,Compute,us-west-2,520.21,292.86,100.67,2023-03-22,Overdue,AWS,RES-5723,93.18,55.36,110.55,CC-437,283.38,14.17,12.85,0,Compliant
+INV-10131,Max Healthcare,Orthopedics,IoT Hub,us-west-2,245.0,213.18,41.01,2023-03-23,Paid,Google Cloud,RES-1478,9.78,77.81,39.2,CC-505,370.01,18.5,11.7,0,Compliant
+INV-10668,Christian Medical College,Radiology,Security,eu-central-1,691.11,161.38,106.89,2023-03-23,Paid,Azure,RES-9818,3.12,59.46,118.66,CC-874,93.06,4.65,24.22,0,Compliant
+INV-10889,Max Healthcare,Neurology,Compute,eu-central-1,479.14,329.63,94.16,2023-03-23,Overdue,AWS,RES-2371,66.14,66.14,108.74,CC-658,121.43,6.07,19.23,0,Compliant
+INV-10201,Max Healthcare,Cardiology,Storage,us-west-2,708.31,3432.78,174.9,2023-03-24,Paid,Azure,RES-8415,3.78,15.27,168.11,CC-467,55.73,2.79,45.26,1,Compliant
+INV-10318,Fortis Healthcare,Cardiology,Analytics,eu-west-1,509.35,428.96,84.98,2023-03-24,Pending,Azure,RES-4030,76.51,12.08,96.16,CC-515,395.98,19.8,13.87,0,Non-Compliant
+INV-10675,Fortis Healthcare,Pharmacy,Compute,ap-southeast-1,530.11,124.4,98.41,2023-03-24,Paid,Azure,RES-2957,63.54,74.5,93.92,CC-606,169.24,8.46,7.62,0,Compliant
+INV-10837,Fortis Healthcare,IT Dept,Analytics,eu-central-1,411.45,466.24,346.2,2023-03-24,Paid,AWS,RES-4251,15.94,76.11,381.65,CC-299,105.32,5.27,10.15,3,Compliant
+INV-11016,Medanta,Pharmacy,IoT Hub,us-east-1,374.72,99.58,58.2,2023-03-24,Paid,Google Cloud,RES-3754,14.97,11.69,59.92,CC-855,354.58,17.73,4.92,0,Compliant
+INV-10718,Fortis Healthcare,Oncology,Database,us-east-1,677.49,117.51,155.96,2023-03-25,Pending,Google Cloud,RES-7562,15.34,92.65,159.67,CC-604,274.83,13.74,21.41,0,Compliant
+INV-10480,AIIMS,IT Dept,IoT Hub,ap-southeast-1,320.8,254.64,53.21,2023-03-26,Paid,AWS,RES-4568,11.69,43.17,51.19,CC-685,298.1,14.91,4.52,0,Compliant
+INV-10590,Tata Memorial,Radiology,Security,ap-southeast-1,110.48,261.63,21.8,2023-03-26,Paid,Google Cloud,RES-4450,4.88,62.19,23.02,CC-573,468.42,23.42,6.22,1,Compliant
+INV-10828,Max Healthcare,Cardiology,Analytics,ap-south-1,296.03,298.93,50.38,2023-03-26,Pending,Google Cloud,RES-5856,60.98,90.12,54.78,CC-990,415.99,20.8,11.77,0,Compliant
+INV-10623,AIIMS,Cardiology,Security,ap-southeast-1,414.21,235.96,66.85,2023-03-27,Paid,AWS,RES-9377,2.73,41.48,77.88,CC-665,432.4,21.62,18.62,0,Non-Compliant
+INV-10022,Christian Medical College,IT Dept,AI Services,ap-southeast-1,477.78,141.89,186.26,2023-03-28,Paid,Azure,RES-4680,69.08,62.64,220.83,CC-417,404.25,20.21,7.76,3,Compliant
+INV-10186,Max Healthcare,Orthopedics,Storage,ap-southeast-1,97.45,3569.99,86.02,2023-03-28,Paid,Google Cloud,RES-1785,16.05,41.89,97.32,CC-708,332.68,16.63,7.37,0,Compliant
+INV-10347,Fortis Healthcare,Neurology,Backup,us-east-1,24.0,163.06,6.86,2023-03-28,Paid,Azure,RES-8695,9.76,83.39,8.03,CC-812,296.05,14.8,1.6,0,Compliant
+INV-10960,AIIMS,Oncology,Analytics,us-west-2,283.59,216.92,46.88,2023-03-28,Pending,AWS,RES-3251,84.23,17.52,45.79,CC-781,460.22,23.01,12.25,0,Compliant
+INV-11083,AIIMS,Neurology,Analytics,eu-central-1,125.86,158.93,22.06,2023-03-28,Paid,Google Cloud,RES-1062,19.04,67.75,24.28,CC-563,257.15,12.86,6.13,0,Compliant
+INV-11095,Narayana Health,IT Dept,IoT Hub,us-east-1,472.45,334.56,77.56,2023-03-28,Overdue,AWS,RES-2991,6.57,77.86,90.19,CC-266,198.4,9.92,7.11,0,Compliant
+INV-11191,AIIMS,Cardiology,Security,ap-southeast-1,452.97,398.07,75.91,2023-03-28,Paid,Azure,RES-5874,3.57,34.45,69.18,CC-825,365.32,18.27,8.11,0,Compliant
+INV-10190,Apollo Hospitals,Cardiology,Database,eu-west-1,243.35,447.26,68.17,2023-03-29,Paid,Google Cloud,RES-7566,19.15,32.81,68.97,CC-216,203.12,10.16,8.82,0,Compliant
+INV-10708,Narayana Health,Research,AI Services,us-west-2,40.32,176.45,23.94,2023-03-29,Overdue,Google Cloud,RES-8608,51.38,49.24,27.63,CC-574,228.83,11.44,1.34,0,Compliant
+INV-11012,Fortis Healthcare,Neurology,Database,us-west-2,565.3,186.06,132.77,2023-03-30,Paid,AWS,RES-8134,6.63,66.33,147.82,CC-990,274.0,13.7,18.69,0,Compliant
+INV-10320,Christian Medical College,Pharmacy,Storage,ap-south-1,470.2,3539.12,141.31,2023-03-31,Paid,Azure,RES-8839,11.65,75.75,141.38,CC-764,370.0,18.5,34.72,0,Compliant
+INV-10413,Manipal Hospitals,Pediatrics,Database,us-west-2,251.27,277.25,64.85,2023-03-31,Paid,Azure,RES-3248,4.39,11.83,76.08,CC-793,192.57,9.63,10.83,2,Compliant
+INV-10162,Apollo Hospitals,Radiology,AI Services,us-west-2,662.33,422.14,269.48,2023-04-01,Pending,Azure,RES-9622,38.8,11.86,316.68,CC-966,431.03,21.55,33.12,2,Compliant
+INV-10183,Max Healthcare,Neurology,Analytics,ap-south-1,232.52,29.01,35.46,2023-04-01,Paid,Google Cloud,RES-2442,50.23,27.8,38.04,CC-904,69.06,3.45,6.44,0,Compliant
+INV-10530,AIIMS,Orthopedics,Backup,us-west-2,431.77,264.78,70.06,2023-04-01,Overdue,Azure,RES-2887,10.38,46.85,76.64,CC-324,31.3,1.57,5.48,0,Compliant
+INV-11144,Apollo Hospitals,IT Dept,AI Services,ap-southeast-1,554.38,254.49,220.62,2023-04-01,Paid,Google Cloud,RES-3521,64.8,67.2,234.07,CC-222,212.25,10.61,13.86,0,Compliant
+INV-10416,Tata Memorial,Radiology,Analytics,ap-southeast-1,238.49,186.94,39.51,2023-04-02,Paid,Azure,RES-1599,71.81,70.83,38.74,CC-909,107.56,5.38,11.45,0,Compliant
+INV-10426,Medanta,Emergency,Database,eu-central-1,648.97,366.62,157.02,2023-04-02,Paid,AWS,RES-4927,9.7,87.42,168.1,CC-144,443.34,22.17,12.25,0,Compliant
+INV-10456,Max Healthcare,Cardiology,Compute,ap-south-1,680.99,58.67,123.99,2023-04-02,Pending,Azure,RES-1556,55.87,38.77,117.12,CC-350,63.81,3.19,17.74,0,Compliant
+INV-10591,Tata Memorial,IT Dept,Storage,ap-south-1,116.75,381.89,25.15,2023-04-02,Paid,Azure,RES-2551,19.56,36.51,27.87,CC-438,35.25,1.76,3.98,0,Compliant
+INV-10782,Fortis Healthcare,Cardiology,AI Services,us-east-1,90.49,225.65,45.22,2023-04-02,Paid,Azure,RES-5559,20.81,75.11,47.01,CC-784,393.82,19.69,2.5,0,Compliant
+INV-10367,Manipal Hospitals,Pharmacy,Storage,ap-southeast-1,305.66,430.34,54.46,2023-04-03,Paid,Google Cloud,RES-2998,15.6,67.54,49.44,CC-796,200.11,10.01,12.34,1,Compliant
+INV-10459,Tata Memorial,Neurology,AI Services,eu-west-1,622.02,347.61,250.64,2023-04-03,Paid,AWS,RES-3641,10.47,48.01,228.52,CC-768,48.47,2.42,14.0,0,Compliant
+INV-10679,Medanta,Pediatrics,Compute,ap-south-1,428.98,83.69,79.22,2023-04-03,Paid,Google Cloud,RES-9978,18.88,26.42,85.87,CC-565,416.73,20.84,18.14,0,Compliant
+INV-11110,Manipal Hospitals,Pharmacy,Database,us-west-2,540.28,497.45,681.58,2023-04-03,Paid,AWS,RES-5401,19.69,77.55,795.5,CC-507,250.25,12.51,8.41,0,Compliant
+INV-10676,AIIMS,Emergency,Analytics,us-west-2,78.06,177.58,15.26,2023-04-04,Paid,Azure,RES-6754,72.95,84.72,14.58,CC-332,492.89,24.64,3.18,0,Compliant
+INV-10686,Fortis Healthcare,Neurology,Database,eu-central-1,391.23,83.68,90.54,2023-04-04,Paid,AWS,RES-5664,15.06,91.2,100.36,CC-393,428.48,21.42,8.34,0,Non-Compliant
+INV-10788,Fortis Healthcare,Pediatrics,Security,ap-south-1,419.25,291.11,68.71,2023-04-04,Pending,AWS,RES-2305,2.5,14.17,77.52,CC-979,406.73,20.34,14.36,0,Compliant
+INV-10841,Max Healthcare,Neurology,Analytics,ap-southeast-1,82.66,96.69,14.33,2023-04-04,Pending,Google Cloud,RES-8175,56.23,92.76,15.24,CC-603,120.76,6.04,2.65,1,Compliant
+INV-11127,Max Healthcare,Radiology,Storage,us-east-1,260.39,3989.28,118.84,2023-04-04,Paid,Google Cloud,RES-7736,18.74,44.49,142.21,CC-665,98.41,4.92,28.57,0,Compliant
+INV-10274,Medanta,Pharmacy,IoT Hub,us-west-2,115.26,326.64,23.82,2023-04-05,Paid,AWS,RES-1803,1.7,82.58,27.43,CC-189,58.9,2.95,6.27,0,Compliant
+INV-10983,Christian Medical College,IT Dept,AI Services,us-east-1,103.61,326.02,55.15,2023-04-05,Overdue,Google Cloud,RES-8784,70.07,12.41,61.14,CC-647,326.13,16.31,3.41,0,Compliant
+INV-11129,Apollo Hospitals,Pharmacy,Security,eu-central-1,57.39,417.98,16.97,2023-04-05,Pending,AWS,RES-4598,13.29,11.59,15.65,CC-186,126.58,6.33,3.64,0,Compliant
+INV-11152,Manipal Hospitals,Radiology,Networking,eu-west-1,465.77,167.0,73.21,2023-04-05,Paid,Google Cloud,RES-5837,10.92,79.81,66.02,CC-853,406.2,20.31,22.25,0,Non-Compliant
+INV-10134,Tata Memorial,Oncology,Analytics,ap-south-1,233.35,225.5,129.33,2023-04-06,Overdue,AWS,RES-9109,14.77,40.52,148.03,CC-617,207.52,10.38,7.79,0,Compliant
+INV-10461,Manipal Hospitals,Neurology,Storage,us-west-2,110.58,4287.62,102.34,2023-04-07,Paid,AWS,RES-7914,5.09,21.41,110.27,CC-846,41.81,2.09,13.07,2,Compliant
+INV-10602,Medanta,Oncology,Security,eu-central-1,203.69,99.61,32.55,2023-04-07,Paid,AWS,RES-6715,19.61,32.05,30.2,CC-472,387.32,19.37,6.73,0,Compliant
+INV-10680,Manipal Hospitals,Radiology,Database,us-west-2,573.78,20.8,129.72,2023-04-07,Paid,Azure,RES-2618,2.11,93.5,149.58,CC-872,424.65,21.23,7.9,2,Compliant
+INV-10791,Apollo Hospitals,Research,Backup,ap-southeast-1,359.78,118.96,56.35,2023-04-07,Paid,Google Cloud,RES-7627,9.16,62.13,64.66,CC-239,486.99,24.35,9.91,0,Compliant
+INV-11044,Fortis Healthcare,Oncology,Backup,ap-southeast-1,463.9,453.65,287.6,2023-04-07,Paid,Google Cloud,RES-6385,9.59,16.97,308.93,CC-368,406.39,20.32,21.19,0,Compliant
+INV-10197,Manipal Hospitals,Neurology,Networking,us-west-2,518.92,53.88,78.92,2023-04-08,Pending,Azure,RES-8493,8.87,88.76,84.97,CC-561,330.94,16.55,25.12,0,Compliant
+INV-10352,Manipal Hospitals,Emergency,AI Services,us-east-1,29.67,398.52,31.05,2023-04-09,Overdue,AWS,RES-3610,37.64,51.26,31.88,CC-306,139.99,7.0,1.99,0,Compliant
+INV-10475,Fortis Healthcare,Oncology,Networking,us-east-1,669.66,213.15,104.71,2023-04-09,Paid,Azure,RES-4791,12.71,17.73,107.03,CC-748,114.78,5.74,18.38,0,Compliant
+INV-11107,Christian Medical College,Emergency,Backup,us-east-1,494.09,368.93,81.49,2023-04-09,Paid,Azure,RES-6554,8.82,14.91,87.9,CC-827,175.41,8.77,9.7,0,Non-Compliant
+INV-10023,Fortis Healthcare,IT Dept,Networking,eu-west-1,520.03,191.99,81.84,2023-04-10,Pending,Google Cloud,RES-7965,8.59,22.54,95.57,CC-209,113.33,5.67,22.65,0,Compliant
+INV-10575,Max Healthcare,Cardiology,Storage,ap-southeast-1,14.73,4170.9,85.63,2023-04-10,Pending,Google Cloud,RES-3067,1.49,27.27,91.74,CC-633,416.36,20.82,6.32,0,Compliant
+INV-10936,Manipal Hospitals,Pediatrics,Backup,ap-southeast-1,398.49,483.84,69.45,2023-04-10,Paid,Google Cloud,RES-5881,7.04,29.37,79.13,CC-970,205.92,10.3,6.76,0,Compliant
+INV-11111,Christian Medical College,Cardiology,AI Services,us-east-1,326.41,389.27,141.87,2023-04-10,Paid,Azure,RES-7770,89.05,68.25,140.08,CC-289,418.39,20.92,7.48,0,Compliant
+INV-10203,Manipal Hospitals,Radiology,IoT Hub,eu-west-1,561.06,482.14,93.8,2023-04-11,Paid,Google Cloud,RES-2955,6.59,25.08,89.68,CC-626,191.71,9.59,16.78,0,Compliant
+INV-10067,Max Healthcare,Orthopedics,Compute,us-west-2,133.18,76.43,25.81,2023-04-12,Paid,Azure,RES-8354,77.56,16.41,28.09,CC-677,342.16,17.11,6.3,3,Compliant
+INV-10236,AIIMS,Neurology,Security,eu-west-1,419.57,324.93,69.43,2023-04-12,Paid,Google Cloud,RES-8322,11.23,93.25,69.26,CC-893,445.37,22.27,11.29,0,Compliant
+INV-10246,Fortis Healthcare,Pediatrics,Analytics,eu-west-1,265.9,26.04,40.41,2023-04-12,Paid,Azure,RES-5523,69.34,92.73,41.63,CC-913,294.42,14.72,6.92,3,Compliant
+INV-10080,Christian Medical College,Cardiology,Backup,us-west-2,638.91,157.8,98.99,2023-04-13,Paid,AWS,RES-4131,6.89,43.85,103.15,CC-762,146.62,7.33,28.61,0,Compliant
+INV-10370,Max Healthcare,Radiology,Compute,ap-south-1,357.63,442.71,75.0,2023-04-13,Pending,Google Cloud,RES-4053,52.4,57.86,84.52,CC-728,219.88,10.99,10.18,0,Compliant
+INV-10518,Fortis Healthcare,Oncology,Backup,ap-south-1,686.79,174.28,106.5,2023-04-13,Paid,Azure,RES-4163,11.48,35.02,111.69,CC-509,128.8,6.44,13.07,0,Review Pending
+INV-10645,Narayana Health,Research,Analytics,eu-west-1,556.65,287.22,89.24,2023-04-13,Pending,Google Cloud,RES-6054,41.56,84.83,84.4,CC-311,94.89,4.74,7.13,1,Compliant
+INV-10681,Tata Memorial,Research,Networking,ap-southeast-1,210.62,67.74,32.95,2023-04-13,Paid,Google Cloud,RES-1390,15.51,34.9,33.65,CC-602,248.16,12.41,5.01,0,Compliant
+INV-10976,Medanta,Research,Backup,eu-central-1,240.26,376.88,43.58,2023-04-13,Paid,Azure,RES-3320,3.49,27.83,42.06,CC-256,476.38,23.82,12.38,0,Compliant
+INV-10278,Narayana Health,Research,AI Services,us-east-1,499.91,127.21,193.83,2023-04-14,Paid,Google Cloud,RES-6592,16.04,35.52,219.05,CC-441,201.04,10.05,16.99,1,Compliant
+INV-10396,Narayana Health,Pediatrics,Networking,us-east-1,180.13,298.5,32.99,2023-04-14,Paid,AWS,RES-8615,5.49,53.23,39.09,CC-425,278.79,13.94,2.61,0,Review Pending
+INV-10638,Max Healthcare,IT Dept,Backup,us-east-1,158.11,358.34,30.88,2023-04-14,Paid,Google Cloud,RES-4267,6.6,41.75,35.12,CC-673,399.75,19.99,6.48,0,Compliant
+INV-10727,Fortis Healthcare,Pediatrics,Backup,eu-west-1,579.38,12.21,87.15,2023-04-14,Paid,Azure,RES-1722,6.17,84.12,90.15,CC-765,437.39,21.87,25.19,3,Compliant
+INV-10934,Fortis Healthcare,Pharmacy,IoT Hub,us-west-2,581.39,405.47,95.32,2023-04-14,Paid,Azure,RES-3518,2.57,86.64,87.81,CC-146,179.14,8.96,20.27,0,Compliant
+INV-10224,Narayana Health,Pharmacy,Backup,eu-west-1,303.39,391.89,53.35,2023-04-15,Paid,Azure,RES-7522,10.17,41.47,52.08,CC-452,369.21,18.46,14.84,0,Compliant
+INV-10795,Apollo Hospitals,Cardiology,Analytics,ap-southeast-1,303.52,440.65,54.34,2023-04-15,Pending,Azure,RES-2069,22.52,33.74,49.13,CC-642,295.31,14.77,8.83,0,Compliant
+INV-10883,AIIMS,Pharmacy,Backup,eu-central-1,95.55,2.73,14.39,2023-04-15,Paid,AWS,RES-8200,4.78,67.04,13.82,CC-942,461.37,23.07,4.17,0,Compliant
+INV-10730,Narayana Health,Research,Database,ap-southeast-1,595.53,198.18,139.94,2023-04-16,Paid,AWS,RES-1066,16.65,84.86,148.78,CC-689,131.08,6.55,20.01,0,Compliant
+INV-11057,Tata Memorial,Research,Compute,ap-southeast-1,399.35,221.59,77.2,2023-04-16,Paid,Azure,RES-8780,76.52,91.75,74.9,CC-879,227.51,11.38,17.55,0,Compliant
+INV-10619,Fortis Healthcare,IT Dept,IoT Hub,ap-south-1,541.09,264.8,86.46,2023-04-17,Paid,AWS,RES-3731,6.78,73.82,89.94,CC-698,314.01,15.7,18.34,0,Compliant
+INV-10854,Manipal Hospitals,Pediatrics,Storage,us-east-1,290.12,486.63,53.25,2023-04-18,Paid,Azure,RES-6998,6.58,19.14,51.16,CC-277,311.59,15.58,6.69,0,Review Pending
+INV-10113,Christian Medical College,Orthopedics,Security,ap-south-1,675.38,481.04,110.93,2023-04-19,Paid,AWS,RES-7498,3.23,94.96,107.91,CC-309,457.99,22.9,23.64,0,Compliant
+INV-11049,Medanta,Radiology,Storage,us-west-2,517.39,1072.59,99.06,2023-04-19,Paid,Azure,RES-7587,2.32,39.18,112.54,CC-488,74.23,3.71,16.28,0,Compliant
+INV-10011,Manipal Hospitals,Oncology,Networking,eu-central-1,623.9,451.22,102.61,2023-04-20,Pending,Azure,RES-7930,4.13,10.18,120.87,CC-392,349.81,17.49,26.33,0,Compliant
+INV-10595,Tata Memorial,Radiology,IoT Hub,us-east-1,688.31,472.74,112.7,2023-04-20,Paid,Google Cloud,RES-5104,16.84,70.46,120.38,CC-907,344.26,17.21,23.54,0,Compliant
+INV-10596,Narayana Health,IT Dept,Security,eu-west-1,448.05,438.15,75.97,2023-04-20,Overdue,Azure,RES-8243,18.49,26.23,89.64,CC-300,183.69,9.18,9.44,0,Review Pending
+INV-10780,Medanta,Pharmacy,Storage,eu-central-1,389.2,2784.18,114.06,2023-04-20,Pending,Google Cloud,RES-9930,15.81,82.69,115.97,CC-281,329.77,16.49,11.68,0,Compliant
+INV-10940,Apollo Hospitals,Neurology,Security,us-east-1,622.6,465.25,102.69,2023-04-20,Paid,Azure,RES-6567,18.22,39.5,113.57,CC-550,20.84,1.04,15.51,0,Compliant
+INV-10146,Apollo Hospitals,Pharmacy,Compute,us-east-1,38.28,30.23,7.62,2023-04-21,Paid,Azure,RES-7590,80.25,53.06,8.0,CC-818,45.8,2.29,1.31,0,Compliant
+INV-10316,Manipal Hospitals,Neurology,Networking,ap-southeast-1,430.02,418.49,72.87,2023-04-21,Paid,Azure,RES-4643,6.3,72.05,70.98,CC-693,446.45,22.32,15.15,0,Compliant
+INV-10952,Manipal Hospitals,IT Dept,IoT Hub,eu-west-1,57.69,489.54,18.44,2023-04-21,Paid,Google Cloud,RES-5523,12.56,23.14,19.25,CC-621,169.19,8.46,4.8,0,Review Pending
+INV-10601,Max Healthcare,Radiology,Storage,us-west-2,462.94,2328.73,116.02,2023-04-22,Overdue,AWS,RES-4130,17.67,90.18,128.12,CC-985,374.97,18.75,23.52,0,Compliant
+INV-11131,Christian Medical College,Emergency,Database,eu-central-1,513.19,356.61,126.17,2023-04-22,Paid,Azure,RES-2476,7.73,11.25,131.08,CC-533,225.12,11.26,14.43,0,Compliant
+INV-10670,Medanta,Cardiology,Analytics,us-west-2,184.2,112.92,104.23,2023-04-23,Paid,Google Cloud,RES-8191,67.66,28.36,94.46,CC-958,210.19,10.51,6.27,0,Compliant
+INV-11080,Apollo Hospitals,Cardiology,Analytics,ap-southeast-1,49.32,213.24,11.66,2023-04-23,Paid,AWS,RES-2470,12.09,17.25,12.32,CC-130,363.09,18.15,2.33,3,Compliant
+INV-10129,AIIMS,Neurology,Storage,us-east-1,372.58,2618.05,108.25,2023-04-24,Pending,Azure,RES-9199,12.03,58.9,110.13,CC-702,79.62,3.98,26.27,0,Review Pending
+INV-10196,Narayana Health,IT Dept,Compute,us-east-1,11.56,177.57,6.34,2023-04-24,Paid,Google Cloud,RES-9067,66.4,77.99,6.42,CC-268,74.52,3.73,1.14,0,Compliant
+INV-10232,Christian Medical College,Oncology,IoT Hub,ap-south-1,542.62,64.12,82.68,2023-04-24,Paid,Azure,RES-3863,10.99,45.97,75.22,CC-981,231.31,11.57,8.24,0,Compliant
+INV-10194,Manipal Hospitals,Radiology,Backup,us-east-1,400.85,189.32,63.91,2023-04-25,Paid,Google Cloud,RES-8324,16.52,16.7,68.51,CC-610,161.45,8.07,20.49,0,Compliant
+INV-10215,Tata Memorial,IT Dept,Database,ap-south-1,642.92,294.8,153.5,2023-04-25,Paid,Azure,RES-4913,17.29,21.38,142.32,CC-110,424.75,21.24,28.19,0,Compliant
+INV-10450,Tata Memorial,IT Dept,Compute,eu-west-1,671.56,383.17,130.08,2023-04-25,Pending,Azure,RES-8159,63.46,64.74,145.07,CC-490,405.18,20.26,13.28,0,Compliant
+INV-11033,Tata Memorial,Pediatrics,Security,ap-south-1,436.56,163.13,68.75,2023-04-25,Paid,Google Cloud,RES-2340,2.83,80.05,66.52,CC-950,484.88,24.24,10.02,0,Compliant
+INV-10099,Manipal Hospitals,Orthopedics,Storage,eu-west-1,462.94,309.83,75.64,2023-04-26,Paid,Google Cloud,RES-3587,8.85,70.98,85.57,CC-663,206.42,10.32,23.34,0,Compliant
+INV-10135,Apollo Hospitals,Orthopedics,Backup,us-east-1,391.7,84.1,60.44,2023-04-26,Paid,Azure,RES-5389,9.69,73.11,64.36,CC-216,388.68,19.43,17.02,1,Compliant
+INV-10471,Christian Medical College,Cardiology,Database,eu-west-1,344.2,187.15,83.06,2023-04-26,Overdue,Azure,RES-8198,7.93,85.84,81.47,CC-772,85.11,4.26,8.82,0,Non-Compliant
+INV-11113,Narayana Health,Neurology,AI Services,eu-west-1,100.33,350.36,55.14,2023-04-26,Pending,Google Cloud,RES-7350,98.23,51.93,51.07,CC-220,114.99,5.75,4.39,0,Compliant
+INV-11117,Narayana Health,Radiology,Storage,us-east-1,712.41,1454.22,640.39,2023-04-26,Pending,Google Cloud,RES-5666,16.13,68.05,687.95,CC-927,349.1,17.46,15.64,0,Compliant
+INV-10420,Christian Medical College,Research,Database,eu-central-1,523.57,104.94,120.95,2023-04-27,Pending,AWS,RES-2406,5.44,59.9,125.86,CC-448,159.97,8.0,9.6,0,Compliant
+INV-10495,Tata Memorial,Pediatrics,IoT Hub,ap-south-1,310.81,78.4,48.19,2023-04-27,Paid,Google Cloud,RES-1917,19.49,54.33,45.18,CC-733,113.36,5.67,5.7,0,Compliant
+INV-10831,Christian Medical College,Oncology,AI Services,ap-south-1,379.2,110.2,147.71,2023-04-27,Overdue,Google Cloud,RES-1286,69.64,61.2,143.75,CC-241,418.81,20.94,19.15,1,Review Pending
+INV-10933,Medanta,Research,Security,eu-west-1,585.62,70.42,89.25,2023-04-27,Pending,Azure,RES-6646,11.78,49.81,95.67,CC-522,70.1,3.5,12.22,0,Compliant
+INV-11136,Fortis Healthcare,Cardiology,Storage,ap-southeast-1,365.61,1719.22,89.23,2023-04-27,Paid,Azure,RES-4841,17.83,50.95,84.98,CC-385,164.04,8.2,14.11,0,Compliant
+INV-10646,Tata Memorial,Radiology,Compute,ap-south-1,477.3,100.85,88.33,2023-04-28,Pending,Azure,RES-3249,24.53,94.24,103.87,CC-127,439.43,21.97,22.95,2,Compliant
+INV-10816,Narayana Health,Pediatrics,Storage,us-west-2,522.0,1876.79,115.84,2023-04-28,Pending,Azure,RES-2386,11.33,25.89,134.33,CC-784,237.57,11.88,19.47,1,Compliant
+INV-10267,Medanta,Pharmacy,AI Services,ap-southeast-1,498.04,179.63,195.75,2023-04-29,Pending,AWS,RES-4014,71.24,50.51,211.69,CC-482,426.8,21.34,15.05,0,Compliant
+INV-10548,Fortis Healthcare,Cardiology,Storage,eu-west-1,78.54,575.79,23.3,2023-04-29,Pending,AWS,RES-4876,18.75,50.5,27.83,CC-850,57.19,2.86,5.81,0,Review Pending
+INV-10827,Tata Memorial,Oncology,Networking,us-east-1,468.05,307.25,76.35,2023-04-30,Paid,AWS,RES-1778,3.36,18.71,84.54,CC-941,256.16,12.81,24.3,0,Compliant
+INV-10891,Fortis Healthcare,IT Dept,Security,ap-southeast-1,415.47,220.18,223.2,2023-04-30,Paid,Google Cloud,RES-7861,10.63,47.2,255.24,CC-147,239.78,11.99,12.32,1,Compliant
+INV-10047,Christian Medical College,Research,Storage,ap-southeast-1,458.12,4608.6,160.89,2023-05-01,Paid,AWS,RES-2646,19.95,73.48,149.55,CC-993,224.62,11.23,38.56,0,Compliant
+INV-10362,AIIMS,Oncology,Storage,ap-south-1,448.55,4541.27,158.11,2023-05-01,Paid,Azure,RES-7513,8.02,68.16,142.79,CC-431,344.99,17.25,34.69,0,Compliant
+INV-10363,Fortis Healthcare,Research,Storage,us-east-1,344.36,1803.79,87.73,2023-05-01,Pending,Azure,RES-5155,12.52,67.02,97.63,CC-105,254.75,12.74,17.55,0,Compliant
+INV-10870,Apollo Hospitals,Orthopedics,Storage,ap-south-1,665.01,3244.76,164.65,2023-05-01,Paid,Azure,RES-3670,16.48,82.69,153.59,CC-955,477.28,23.86,40.5,2,Compliant
+INV-10920,AIIMS,Neurology,Backup,us-east-1,647.4,144.68,100.0,2023-05-01,Pending,Google Cloud,RES-8906,7.07,30.74,107.69,CC-905,141.8,7.09,27.34,0,Compliant
+INV-10057,Fortis Healthcare,Cardiology,Database,us-east-1,428.09,7.89,96.56,2023-05-02,Paid,Azure,RES-6931,6.04,20.77,90.2,CC-559,259.05,12.95,6.17,2,Compliant
+INV-10691,Medanta,Pharmacy,Networking,eu-central-1,494.85,306.3,80.35,2023-05-02,Paid,Google Cloud,RES-6900,7.56,93.98,94.48,CC-649,115.8,5.79,11.83,3,Compliant
+INV-10703,Max Healthcare,Radiology,Compute,us-west-2,563.0,431.85,111.7,2023-05-02,Paid,Google Cloud,RES-8549,10.86,11.14,129.69,CC-259,317.35,15.87,14.66,0,Compliant
+INV-11187,Max Healthcare,Pediatrics,Database,eu-central-1,451.58,354.55,112.24,2023-05-02,Paid,Azure,RES-3987,5.25,55.47,105.75,CC-802,15.74,0.79,7.54,0,Compliant
+INV-10823,Manipal Hospitals,Pharmacy,IoT Hub,us-west-2,330.42,167.6,52.91,2023-05-03,Pending,AWS,RES-3130,8.95,17.84,58.66,CC-401,262.24,13.11,9.36,1,Compliant
+INV-10033,Fortis Healthcare,Orthopedics,Networking,eu-central-1,500.33,322.95,81.51,2023-05-04,Paid,Google Cloud,RES-7046,10.33,77.4,78.78,CC-413,239.26,11.96,16.5,0,Compliant
+INV-10109,Fortis Healthcare,Cardiology,Networking,ap-southeast-1,156.32,50.45,24.46,2023-05-04,Pending,AWS,RES-8191,1.64,60.81,22.37,CC-511,121.0,6.05,3.15,0,Compliant
+INV-10160,Manipal Hospitals,Oncology,Compute,us-west-2,199.23,408.14,45.66,2023-05-04,Pending,Google Cloud,RES-7363,91.64,14.75,44.1,CC-916,180.63,9.03,10.47,0,Compliant
+INV-10338,Narayana Health,Oncology,IoT Hub,eu-west-1,368.49,34.17,55.96,2023-05-04,Overdue,Google Cloud,RES-9800,16.57,74.88,62.38,CC-275,7.14,0.36,14.54,2,Non-Compliant
+INV-10526,AIIMS,IT Dept,Compute,ap-southeast-1,420.3,330.63,83.59,2023-05-04,Paid,Google Cloud,RES-2356,96.9,37.36,80.89,CC-403,179.74,8.99,18.9,0,Non-Compliant
+INV-10735,Fortis Healthcare,IT Dept,Networking,eu-west-1,438.56,234.64,70.48,2023-05-04,Paid,Azure,RES-1168,7.13,56.97,72.97,CC-197,343.49,17.17,15.66,0,Compliant
+INV-10801,Medanta,Pharmacy,IoT Hub,eu-west-1,41.36,344.5,13.09,2023-05-04,Pending,Google Cloud,RES-4544,11.28,65.87,11.81,CC-936,398.88,19.94,2.36,0,Compliant
+INV-10819,Fortis Healthcare,Research,Storage,ap-southeast-1,431.26,3172.82,128.15,2023-05-04,Paid,AWS,RES-1569,4.76,28.43,127.75,CC-516,363.06,18.15,35.63,0,Compliant
+INV-11050,AIIMS,Pharmacy,AI Services,us-west-2,576.92,30.18,217.85,2023-05-04,Pending,Azure,RES-2480,10.63,38.38,253.17,CC-540,186.53,9.33,27.91,0,Compliant
+INV-10912,Fortis Healthcare,IT Dept,Analytics,eu-central-1,481.79,322.53,78.72,2023-05-05,Pending,AWS,RES-7217,70.39,24.14,75.37,CC-651,344.12,17.21,22.09,0,Compliant
+INV-10003,Fortis Healthcare,Pharmacy,Database,ap-southeast-1,126.02,189.73,34.05,2023-05-06,Pending,Google Cloud,RES-1916,19.8,64.4,37.64,CC-894,118.38,5.92,1.85,0,Compliant
+INV-10048,Medanta,Radiology,Security,eu-central-1,387.13,282.96,63.73,2023-05-06,Paid,AWS,RES-9153,16.06,24.45,74.01,CC-346,456.85,22.84,6.89,0,Compliant
+INV-10394,Tata Memorial,Oncology,Storage,ap-south-1,599.08,4202.64,173.91,2023-05-06,Paid,AWS,RES-1381,12.01,17.2,173.24,CC-603,173.28,8.66,14.92,0,Compliant
+INV-10485,Manipal Hospitals,Neurology,Database,us-east-1,333.07,322.56,84.62,2023-05-06,Paid,Azure,RES-7191,8.65,71.57,95.21,CC-202,195.08,9.75,5.14,1,Review Pending
+INV-10535,Manipal Hospitals,Oncology,Security,eu-central-1,420.08,347.9,69.97,2023-05-06,Paid,AWS,RES-5487,9.18,27.54,82.3,CC-210,439.19,21.96,17.21,0,Review Pending
+INV-10245,Apollo Hospitals,Neurology,AI Services,eu-central-1,533.71,16.76,200.98,2023-05-07,Paid,Azure,RES-6113,51.01,75.53,240.1,CC-797,468.43,23.42,8.79,0,Compliant
+INV-10913,Tata Memorial,Cardiology,Compute,ap-southeast-1,596.96,127.46,110.51,2023-05-07,Overdue,Azure,RES-9934,73.61,26.52,132.42,CC-432,254.01,12.7,9.87,0,Compliant
+INV-10138,Apollo Hospitals,Pediatrics,Database,eu-west-1,113.83,161.05,30.44,2023-05-08,Paid,AWS,RES-7786,5.7,81.7,28.69,CC-742,190.71,9.54,2.16,0,Compliant
+INV-10247,Christian Medical College,Pharmacy,Database,ap-south-1,121.97,45.7,28.81,2023-05-08,Paid,AWS,RES-3521,12.75,89.12,31.33,CC-760,352.16,17.61,5.15,0,Review Pending
+INV-10469,Max Healthcare,Radiology,Compute,ap-south-1,600.53,425.39,118.3,2023-05-08,Paid,Google Cloud,RES-7449,86.34,34.66,115.87,CC-746,112.64,5.63,15.34,0,Compliant
+INV-10737,Max Healthcare,Neurology,AI Services,eu-central-1,14.04,387.87,24.66,2023-05-08,Paid,Azure,RES-9083,81.81,86.96,22.52,CC-448,118.22,5.91,1.87,2,Compliant
+INV-10428,AIIMS,Orthopedics,Networking,us-east-1,91.42,458.57,22.88,2023-05-09,Paid,AWS,RES-8171,7.22,73.64,21.06,CC-348,74.43,3.72,5.92,0,Compliant
+INV-10980,Medanta,IT Dept,Storage,ap-south-1,413.76,4006.45,142.19,2023-05-09,Pending,Azure,RES-2269,18.8,66.07,146.23,CC-173,285.28,14.26,28.83,0,Compliant
+INV-10178,Medanta,Emergency,Networking,ap-south-1,164.93,151.07,27.76,2023-05-10,Overdue,Azure,RES-7131,10.89,63.01,25.05,CC-963,282.92,14.15,5.89,0,Compliant
+INV-10273,Fortis Healthcare,Oncology,AI Services,us-east-1,18.67,248.81,19.44,2023-05-10,Paid,Google Cloud,RES-8794,54.38,78.63,20.37,CC-775,229.6,11.48,1.36,0,Non-Compliant
+INV-10700,Christian Medical College,Cardiology,Networking,us-west-2,146.34,140.12,24.75,2023-05-10,Paid,Azure,RES-6023,10.89,87.85,29.0,CC-344,135.24,6.76,7.62,0,Review Pending
+INV-11031,Apollo Hospitals,Orthopedics,Backup,ap-south-1,103.38,297.65,21.46,2023-05-10,Paid,Azure,RES-7131,1.82,51.14,25.46,CC-510,86.59,4.33,5.67,0,Compliant
+INV-10300,Medanta,Radiology,Backup,ap-south-1,474.58,195.58,75.1,2023-05-11,Paid,AWS,RES-3947,15.69,73.67,80.85,CC-445,160.07,8.0,5.15,0,Compliant
+INV-10369,Fortis Healthcare,Research,Networking,us-east-1,136.39,482.52,30.11,2023-05-11,Pending,Azure,RES-3525,17.44,17.58,28.57,CC-391,64.7,3.24,5.36,1,Compliant
+INV-11179,Narayana Health,IT Dept,Backup,eu-west-1,586.04,490.74,97.72,2023-05-12,Overdue,Azure,RES-5674,12.22,21.65,109.85,CC-388,463.24,23.16,11.81,0,Compliant
+INV-10332,Narayana Health,Pharmacy,Analytics,ap-southeast-1,455.88,238.02,73.14,2023-05-13,Pending,Azure,RES-1958,71.79,20.16,78.45,CC-266,77.34,3.87,13.86,0,Compliant
+INV-10781,Christian Medical College,Cardiology,Compute,us-west-2,130.01,146.16,26.91,2023-05-13,Paid,Google Cloud,RES-5731,32.88,23.76,30.11,CC-883,158.2,7.91,4.59,0,Review Pending
+INV-11001,Narayana Health,Cardiology,Analytics,eu-west-1,478.99,273.23,77.31,2023-05-13,Paid,Azure,RES-6261,74.94,91.47,80.63,CC-607,413.3,20.67,13.67,1,Review Pending
+INV-11011,AIIMS,Emergency,Compute,ap-south-1,452.69,13.53,81.81,2023-05-13,Paid,Google Cloud,RES-1662,69.53,38.87,91.39,CC-651,26.59,1.33,14.98,0,Non-Compliant
+INV-11088,AIIMS,Research,Storage,eu-central-1,624.98,140.52,96.56,2023-05-13,Paid,Azure,RES-7079,17.09,79.41,92.17,CC-999,158.95,7.95,22.96,1,Compliant
+INV-10553,Medanta,Cardiology,Storage,ap-south-1,152.36,4445.74,111.77,2023-05-14,Pending,Azure,RES-2021,2.13,27.36,111.65,CC-999,121.63,6.08,23.27,2,Compliant
+INV-10702,AIIMS,Emergency,Security,us-west-2,402.19,244.42,65.22,2023-05-14,Paid,Azure,RES-9336,6.07,87.64,60.36,CC-426,448.43,22.42,4.76,0,Compliant
+INV-10719,Fortis Healthcare,Orthopedics,Analytics,us-west-2,171.45,28.26,26.28,2023-05-14,Paid,AWS,RES-4588,70.83,12.06,29.15,CC-143,380.47,19.02,8.37,0,Compliant
+INV-10863,Max Healthcare,Radiology,Analytics,eu-central-1,540.25,181.59,84.67,2023-05-14,Overdue,Azure,RES-3333,65.87,51.13,98.12,CC-433,311.21,15.56,17.19,0,Compliant
+INV-11168,Tata Memorial,Neurology,Compute,ap-south-1,202.59,400.38,46.08,2023-05-14,Paid,Azure,RES-9059,44.92,41.09,43.09,CC-762,411.52,20.58,2.9,0,Non-Compliant
+INV-10188,Fortis Healthcare,IT Dept,AI Services,ap-southeast-1,600.36,486.56,249.46,2023-05-15,Overdue,AWS,RES-8875,41.86,44.83,265.54,CC-804,168.65,8.43,7.86,2,Compliant
+INV-10214,Fortis Healthcare,Pediatrics,Database,ap-southeast-1,530.82,313.31,128.83,2023-05-15,Pending,AWS,RES-7637,14.82,85.83,140.36,CC-692,385.75,19.29,10.18,0,Non-Compliant
+INV-10331,Christian Medical College,Orthopedics,Storage,us-east-1,223.12,3220.75,97.88,2023-05-15,Paid,AWS,RES-5009,13.09,20.56,96.54,CC-804,19.08,0.95,18.63,3,Compliant
+INV-10014,Fortis Healthcare,Neurology,IoT Hub,us-west-2,104.04,174.5,19.1,2023-05-16,Paid,Google Cloud,RES-9666,2.31,30.76,19.7,CC-409,8.87,0.44,4.82,0,Review Pending
+INV-10165,Max Healthcare,Neurology,Security,eu-central-1,158.88,346.59,30.76,2023-05-16,Paid,AWS,RES-3725,7.66,76.9,28.13,CC-529,442.85,22.14,5.59,0,Compliant
+INV-10389,Tata Memorial,Emergency,IoT Hub,ap-southeast-1,424.86,318.23,70.09,2023-05-16,Paid,Azure,RES-3364,19.93,68.57,78.47,CC-266,255.36,12.77,13.39,3,Compliant
+INV-10995,Manipal Hospitals,Pediatrics,Analytics,ap-south-1,298.67,328.01,51.36,2023-05-16,Paid,AWS,RES-7492,11.67,29.72,55.15,CC-809,391.81,19.59,9.81,0,Review Pending
+INV-11077,Apollo Hospitals,Neurology,Storage,ap-southeast-1,635.68,3619.04,167.73,2023-05-17,Paid,AWS,RES-4645,16.39,70.04,155.57,CC-241,259.1,12.96,36.25,3,Compliant
+INV-10368,Fortis Healthcare,IT Dept,Analytics,eu-central-1,431.89,2.9,64.84,2023-05-18,Pending,Google Cloud,RES-3118,96.31,65.77,64.68,CC-851,109.63,5.48,5.17,0,Compliant
+INV-10568,Christian Medical College,Research,IoT Hub,eu-central-1,148.47,287.62,28.02,2023-05-18,Paid,Azure,RES-2890,18.31,37.94,33.43,CC-422,348.07,17.4,5.52,0,Compliant
+INV-10606,Manipal Hospitals,Research,Compute,eu-central-1,687.33,200.38,128.53,2023-05-18,Overdue,Azure,RES-4251,12.54,53.54,149.86,CC-636,475.99,23.8,22.8,0,Compliant
+INV-10939,Apollo Hospitals,Emergency,Security,us-west-2,506.03,41.58,76.74,2023-05-18,Paid,Azure,RES-6854,4.37,10.06,72.18,CC-421,436.6,21.83,6.33,0,Compliant
+INV-11059,Narayana Health,IT Dept,Analytics,us-west-2,548.15,33.14,82.89,2023-05-18,Paid,AWS,RES-4524,15.04,68.66,95.46,CC-678,83.98,4.2,13.76,1,Compliant
+INV-10234,Max Healthcare,Pharmacy,AI Services,us-east-1,580.9,277.67,231.72,2023-05-19,Paid,Google Cloud,RES-3893,86.21,26.67,259.89,CC-109,213.65,10.68,10.2,0,Compliant
+INV-10747,Christian Medical College,Radiology,AI Services,eu-central-1,672.06,229.54,263.5,2023-05-19,Paid,Azure,RES-7440,40.38,31.65,246.99,CC-663,6.62,0.33,12.89,2,Compliant
+INV-10062,Tata Memorial,Cardiology,Backup,us-east-1,508.92,154.49,79.43,2023-05-20,Paid,AWS,RES-1502,7.46,10.52,84.98,CC-245,50.42,2.52,16.28,0,Compliant
+INV-10154,Narayana Health,Emergency,Security,ap-south-1,175.86,471.78,35.81,2023-05-20,Paid,Azure,RES-7660,3.59,75.46,33.36,CC-421,64.76,3.24,6.2,0,Compliant
+INV-10330,AIIMS,Neurology,Storage,eu-central-1,304.3,2801.28,101.67,2023-05-20,Paid,Google Cloud,RES-9037,14.49,74.2,97.18,CC-667,25.91,1.3,25.25,0,Compliant
+INV-10752,Max Healthcare,Emergency,Networking,us-east-1,155.64,336.66,30.08,2023-05-20,Paid,Google Cloud,RES-8244,9.3,84.39,27.26,CC-497,305.24,15.26,5.16,0,Compliant
+INV-10025,Medanta,Research,Analytics,eu-west-1,322.31,356.77,55.48,2023-05-21,Paid,AWS,RES-3503,30.87,38.55,51.27,CC-492,354.68,17.73,4.99,0,Compliant
+INV-10050,Medanta,Pediatrics,Storage,eu-west-1,15.75,4332.08,89.0,2023-05-21,Pending,Azure,RES-4770,15.79,92.76,100.0,CC-393,305.5,15.28,15.74,0,Compliant
+INV-10457,AIIMS,Neurology,Analytics,eu-west-1,458.96,222.56,73.3,2023-05-21,Overdue,Azure,RES-1377,11.03,19.91,80.07,CC-330,295.49,14.77,23.37,0,Compliant
+INV-10545,Fortis Healthcare,Pharmacy,Analytics,ap-south-1,287.74,348.83,50.14,2023-05-21,Paid,Google Cloud,RES-7380,19.55,45.44,45.55,CC-677,10.45,0.52,7.61,1,Compliant
+INV-10793,Apollo Hospitals,Neurology,Networking,us-west-2,691.17,287.29,109.42,2023-05-22,Paid,AWS,RES-8324,13.39,70.97,98.93,CC-311,76.47,3.82,28.13,1,Compliant
+INV-10840,Medanta,Research,Storage,us-east-1,212.18,311.86,38.06,2023-05-22,Paid,Azure,RES-8589,9.58,67.97,38.8,CC-245,371.75,18.59,7.31,2,Compliant
+INV-10097,Narayana Health,Pediatrics,Analytics,us-west-2,406.24,112.43,63.18,2023-05-23,Pending,AWS,RES-8861,96.59,35.3,60.79,CC-424,177.66,8.88,19.7,0,Compliant
+INV-11040,Narayana Health,Emergency,Analytics,us-west-2,627.24,248.28,99.05,2023-05-23,Pending,Azure,RES-2069,75.43,47.63,93.98,CC-702,493.53,24.68,12.96,0,Compliant
+INV-11147,Medanta,Orthopedics,IoT Hub,ap-southeast-1,477.67,122.68,74.1,2023-05-23,Pending,Google Cloud,RES-9827,2.03,22.47,81.77,CC-577,60.26,3.01,14.33,0,Compliant
+INV-10836,Max Healthcare,Cardiology,Security,us-west-2,201.79,447.86,39.23,2023-05-24,Overdue,Google Cloud,RES-7606,9.37,60.9,35.99,CC-243,382.67,19.13,6.02,0,Compliant
+INV-10151,Tata Memorial,Cardiology,Networking,us-east-1,559.2,155.35,86.99,2023-05-25,Pending,Azure,RES-4974,2.64,48.82,85.9,CC-857,234.64,11.73,19.29,0,Compliant
+INV-11014,Tata Memorial,Radiology,Networking,eu-west-1,681.47,199.65,106.21,2023-05-25,Paid,Azure,RES-3953,6.91,73.36,118.66,CC-774,60.34,3.02,11.6,1,Compliant
+INV-11193,AIIMS,Pediatrics,Networking,eu-west-1,417.31,133.63,65.27,2023-05-25,Paid,AWS,RES-8936,12.31,64.88,68.98,CC-701,375.54,18.78,18.68,1,Compliant
+INV-10301,Tata Memorial,Neurology,Analytics,ap-south-1,188.85,17.02,28.67,2023-05-26,Paid,AWS,RES-2995,65.13,14.83,33.49,CC-713,355.5,17.78,2.87,0,Compliant
+INV-10592,Manipal Hospitals,Radiology,Storage,us-west-2,592.74,4347.06,175.85,2023-05-26,Paid,Azure,RES-4319,12.1,35.99,179.54,CC-654,43.35,2.17,26.59,0,Compliant
+INV-10617,Apollo Hospitals,Pharmacy,Networking,us-west-2,203.6,203.59,34.61,2023-05-26,Paid,Google Cloud,RES-6212,1.36,45.22,33.92,CC-750,53.09,2.65,4.65,0,Compliant
+INV-10778,Tata Memorial,Pediatrics,IoT Hub,eu-central-1,246.15,203.67,41.0,2023-05-26,Overdue,AWS,RES-4783,12.91,77.31,47.7,CC-723,461.93,23.1,11.07,0,Non-Compliant
+INV-10395,Fortis Healthcare,Neurology,Compute,ap-southeast-1,112.26,127.78,23.27,2023-05-27,Paid,AWS,RES-3973,17.98,36.08,22.12,CC-433,18.45,0.92,1.71,0,Compliant
+INV-10706,Medanta,Pharmacy,Networking,ap-southeast-1,164.96,125.47,130.3,2023-05-27,Paid,Google Cloud,RES-2059,7.55,30.47,143.99,CC-265,35.5,1.78,5.49,0,Compliant
+INV-10911,AIIMS,Pediatrics,Backup,eu-west-1,473.07,169.27,74.35,2023-05-27,Overdue,Azure,RES-8331,3.77,26.73,69.4,CC-257,146.31,7.32,15.58,0,Compliant
+INV-10041,Max Healthcare,Radiology,Networking,eu-west-1,480.43,200.23,76.07,2023-05-28,Paid,Azure,RES-7622,15.45,13.12,74.22,CC-891,433.13,21.66,20.86,1,Compliant
+INV-10077,Tata Memorial,Pharmacy,IoT Hub,eu-central-1,178.72,60.92,28.03,2023-05-28,Pending,AWS,RES-9782,5.53,64.31,25.76,CC-611,13.14,0.66,5.59,0,Compliant
+INV-10202,Tata Memorial,Emergency,AI Services,ap-southeast-1,501.98,23.49,189.42,2023-05-28,Overdue,Google Cloud,RES-1212,43.96,45.41,209.41,CC-155,373.12,18.66,9.2,1,Compliant
+INV-10858,AIIMS,Radiology,Security,eu-west-1,136.22,64.45,21.72,2023-05-28,Paid,Google Cloud,RES-1416,19.2,87.39,24.84,CC-440,72.38,3.62,6.29,0,Compliant
+INV-11128,Max Healthcare,Oncology,AI Services,ap-south-1,414.51,87.5,159.82,2023-05-28,Paid,AWS,RES-8264,11.02,11.14,163.86,CC-810,24.68,1.23,11.03,2,Non-Compliant
+INV-10098,Tata Memorial,Emergency,Networking,ap-south-1,39.87,477.66,15.53,2023-05-29,Paid,AWS,RES-9824,2.5,88.54,17.46,CC-947,139.21,6.96,2.29,0,Compliant
+INV-11099,Christian Medical College,Radiology,IoT Hub,eu-central-1,297.04,397.09,52.5,2023-05-29,Paid,Google Cloud,RES-2531,5.39,83.76,52.45,CC-192,6.55,0.33,3.76,0,Review Pending
+INV-10290,Apollo Hospitals,Oncology,Database,eu-central-1,286.89,288.97,73.22,2023-05-30,Overdue,Google Cloud,RES-8122,4.72,67.93,78.42,CC-411,360.31,18.02,14.8,0,Compliant
+INV-10333,Narayana Health,Emergency,Security,us-east-1,386.02,468.16,67.27,2023-05-30,Pending,Azure,RES-6285,10.76,75.15,62.45,CC-656,436.86,21.84,18.38,0,Compliant
+INV-11098,Tata Memorial,Orthopedics,Database,ap-south-1,367.41,110.2,85.97,2023-05-30,Pending,Google Cloud,RES-1253,1.19,87.59,92.87,CC-933,161.61,8.08,7.21,0,Compliant
+INV-10624,Max Healthcare,IT Dept,AI Services,ap-south-1,56.02,15.44,21.78,2023-05-31,Paid,AWS,RES-8559,61.41,49.03,22.5,CC-281,252.61,12.63,0.86,0,Review Pending
+INV-10850,AIIMS,Orthopedics,Database,ap-south-1,141.84,123.31,35.61,2023-05-31,Pending,Google Cloud,RES-4640,19.08,68.1,41.09,CC-950,433.81,21.69,3.12,2,Review Pending
+INV-11188,Manipal Hospitals,Orthopedics,Database,ap-southeast-1,108.19,480.76,38.77,2023-05-31,Paid,Azure,RES-8917,10.4,16.0,36.63,CC-918,169.04,8.45,3.11,1,Compliant
+INV-10122,Max Healthcare,Pharmacy,Networking,us-east-1,576.62,356.55,93.62,2023-06-01,Pending,Google Cloud,RES-6909,2.56,23.11,102.06,CC-424,57.74,2.89,6.68,0,Compliant
+INV-10319,Fortis Healthcare,Emergency,Security,ap-southeast-1,312.39,134.89,49.56,2023-06-01,Paid,AWS,RES-1898,18.98,56.11,56.32,CC-443,259.79,12.99,14.83,0,Compliant
+INV-10210,AIIMS,Research,Backup,eu-west-1,490.88,457.08,82.77,2023-06-02,Paid,AWS,RES-3316,16.11,71.99,98.07,CC-668,66.0,3.3,6.56,0,Review Pending
+INV-11061,Max Healthcare,Oncology,Security,us-east-1,573.35,92.76,87.86,2023-06-02,Paid,Azure,RES-2767,1.27,80.75,96.82,CC-202,269.12,13.46,20.1,0,Compliant
+INV-10094,Narayana Health,Oncology,Networking,ap-southeast-1,431.54,253.66,69.8,2023-06-03,Paid,Google Cloud,RES-2795,10.68,51.64,72.76,CC-439,490.05,24.5,15.45,0,Compliant
+INV-10438,Christian Medical College,Cardiology,Networking,eu-central-1,432.58,76.4,66.42,2023-06-03,Paid,AWS,RES-8878,14.81,31.87,68.82,CC-720,40.61,2.03,6.91,0,Compliant
+INV-10767,AIIMS,IT Dept,Backup,ap-south-1,364.2,362.14,61.87,2023-06-03,Paid,Google Cloud,RES-4663,8.69,90.93,71.7,CC-251,423.02,21.15,8.58,0,Compliant
+INV-11053,Narayana Health,Orthopedics,Security,ap-southeast-1,300.81,132.8,207.29,2023-06-03,Paid,Google Cloud,RES-1135,19.53,91.88,220.57,CC-319,135.71,6.79,9.11,0,Non-Compliant
+INV-11082,Max Healthcare,IT Dept,Networking,us-west-2,281.8,483.2,51.93,2023-06-03,Pending,Google Cloud,RES-4358,3.03,17.49,52.44,CC-917,482.2,24.11,8.42,0,Compliant
+INV-11184,Tata Memorial,Pharmacy,IoT Hub,eu-central-1,611.8,202.31,95.82,2023-06-03,Paid,Azure,RES-9108,5.08,38.06,102.16,CC-430,135.6,6.78,23.1,0,Compliant
+INV-10375,Manipal Hospitals,Emergency,IoT Hub,us-west-2,556.5,74.08,84.96,2023-06-04,Paid,AWS,RES-8724,9.02,19.9,95.29,CC-596,14.72,0.74,15.72,0,Compliant
+INV-10610,Max Healthcare,IT Dept,AI Services,us-east-1,319.13,169.79,128.16,2023-06-04,Pending,AWS,RES-5276,68.21,46.19,130.22,CC-135,479.46,23.97,8.86,0,Compliant
+INV-11124,Tata Memorial,Neurology,Database,eu-west-1,557.88,241.55,132.77,2023-06-04,Overdue,AWS,RES-3787,1.79,51.88,142.38,CC-340,296.51,14.83,28.24,0,Non-Compliant
+INV-10437,Manipal Hospitals,Emergency,Database,ap-southeast-1,212.6,224.14,54.56,2023-06-05,Overdue,AWS,RES-7188,13.08,33.11,50.41,CC-507,88.04,4.4,6.56,0,Compliant
+INV-10525,Apollo Hospitals,Pediatrics,Storage,us-east-1,63.28,1680.18,43.1,2023-06-05,Paid,AWS,RES-2964,12.64,79.06,40.99,CC-571,67.51,3.38,9.56,1,Review Pending
+INV-10637,AIIMS,Pediatrics,AI Services,ap-south-1,273.26,153.12,110.13,2023-06-05,Paid,Azure,RES-7834,74.68,80.48,109.29,CC-880,7.81,0.39,13.19,0,Compliant
+INV-11085,Apollo Hospitals,Cardiology,Networking,us-east-1,365.42,241.69,59.65,2023-06-05,Pending,Google Cloud,RES-1878,6.73,22.37,69.15,CC-414,157.08,7.85,10.74,0,Compliant
+INV-11007,Medanta,Pediatrics,Backup,eu-central-1,366.56,259.28,60.17,2023-06-06,Paid,AWS,RES-1169,10.66,59.31,59.04,CC-270,430.79,21.54,13.32,0,Compliant
+INV-11103,Apollo Hospitals,Orthopedics,Compute,eu-central-1,704.88,265.04,133.24,2023-06-07,Paid,Azure,RES-6313,79.09,85.54,122.83,CC-966,354.31,17.72,26.66,0,Compliant
+INV-10356,Apollo Hospitals,Orthopedics,Backup,ap-southeast-1,463.65,350.31,76.55,2023-06-08,Paid,Azure,RES-7438,18.16,68.25,74.32,CC-108,464.12,23.21,22.43,2,Compliant
+INV-10674,Max Healthcare,Emergency,AI Services,eu-west-1,392.26,337.33,163.96,2023-06-08,Paid,Azure,RES-6152,39.42,58.44,194.11,CC-652,432.05,21.6,19.57,0,Compliant
+INV-11060,Apollo Hospitals,Pharmacy,Analytics,eu-west-1,80.14,317.15,18.36,2023-06-08,Paid,Google Cloud,RES-8776,22.86,73.81,19.09,CC-853,79.76,3.99,2.69,2,Compliant
+INV-10283,Christian Medical College,Cardiology,Compute,ap-southeast-1,25.96,379.25,13.77,2023-06-09,Paid,Google Cloud,RES-8227,66.86,27.84,13.58,CC-891,337.21,16.86,1.16,0,Review Pending
+INV-10345,Medanta,Oncology,Analytics,eu-central-1,518.16,243.73,82.6,2023-06-09,Paid,AWS,RES-3560,19.73,67.38,91.32,CC-587,255.81,12.79,14.02,3,Compliant
+INV-10789,Tata Memorial,Pediatrics,Compute,eu-central-1,662.38,210.09,124.27,2023-06-09,Overdue,AWS,RES-1065,68.55,32.87,114.41,CC-702,57.88,2.89,19.87,0,Compliant
+INV-10133,Max Healthcare,Pediatrics,Compute,eu-west-1,93.68,152.69,20.53,2023-06-10,Paid,AWS,RES-7931,26.29,68.94,21.05,CC-492,96.95,4.85,3.89,0,Review Pending
+INV-10213,Narayana Health,Radiology,Networking,us-west-2,184.78,110.76,29.93,2023-06-10,Pending,AWS,RES-8863,15.06,47.07,28.14,CC-998,234.11,11.71,4.75,0,Compliant
+INV-10353,Apollo Hospitals,IT Dept,Storage,us-east-1,437.14,4342.5,152.42,2023-06-10,Paid,AWS,RES-3302,18.11,44.6,167.24,CC-959,121.84,6.09,27.39,0,Compliant
+INV-10574,AIIMS,Research,Backup,ap-southeast-1,80.62,142.4,14.94,2023-06-10,Paid,Google Cloud,RES-2738,3.25,33.28,17.41,CC-365,462.64,23.13,3.18,0,Compliant
+INV-10753,AIIMS,Oncology,Networking,us-west-2,260.82,137.07,41.86,2023-06-10,Overdue,AWS,RES-4998,14.58,86.37,48.7,CC-802,324.51,16.23,3.81,0,Compliant
+INV-10988,Manipal Hospitals,Emergency,Backup,us-west-2,446.0,458.08,76.06,2023-06-10,Paid,AWS,RES-7782,12.79,57.57,76.11,CC-388,330.44,16.52,11.12,0,Non-Compliant
+INV-11047,Manipal Hospitals,Radiology,Compute,eu-west-1,538.6,269.23,103.41,2023-06-10,Pending,Google Cloud,RES-4197,11.84,71.36,93.44,CC-426,67.64,3.38,14.96,0,Compliant
+INV-11119,Apollo Hospitals,IT Dept,Security,ap-southeast-1,654.45,305.86,104.28,2023-06-10,Paid,Azure,RES-2232,12.68,90.87,101.45,CC-302,243.16,12.16,15.39,0,Review Pending
+INV-11032,Narayana Health,Radiology,Networking,eu-central-1,672.03,384.06,108.49,2023-06-11,Paid,AWS,RES-5831,4.5,82.68,97.9,CC-750,222.59,11.13,8.66,0,Compliant
+INV-10357,Medanta,Orthopedics,Database,eu-central-1,634.42,383.37,154.25,2023-06-12,Overdue,Google Cloud,RES-7765,8.72,12.88,176.92,CC-582,463.62,23.18,15.82,2,Compliant
+INV-10599,Manipal Hospitals,Pharmacy,Storage,ap-south-1,647.39,887.61,114.86,2023-06-12,Paid,Google Cloud,RES-2007,19.74,71.38,103.86,CC-526,37.15,1.86,30.51,0,Compliant
+INV-11010,AIIMS,Orthopedics,Storage,us-west-2,234.22,3340.96,101.95,2023-06-12,Pending,Google Cloud,RES-7694,12.05,29.77,112.2,CC-761,90.32,4.52,15.48,0,Compliant
+INV-10326,Apollo Hospitals,Emergency,Analytics,us-west-2,120.8,485.08,27.82,2023-06-13,Pending,Azure,RES-3409,58.61,53.13,27.5,CC-872,400.79,20.04,7.0,0,Compliant
+INV-10558,Tata Memorial,Pediatrics,AI Services,ap-southeast-1,505.42,251.72,202.12,2023-06-13,Paid,Azure,RES-3246,14.81,86.54,219.62,CC-308,421.51,21.08,16.15,0,Compliant
+INV-10842,Fortis Healthcare,Research,Database,ap-southeast-1,299.98,169.24,72.57,2023-06-13,Pending,Google Cloud,RES-8023,11.88,48.22,76.04,CC-657,204.38,10.22,14.37,0,Compliant
+INV-10206,Christian Medical College,Orthopedics,AI Services,us-east-1,280.77,398.1,125.19,2023-06-14,Paid,Google Cloud,RES-7143,20.09,31.81,113.6,CC-888,259.58,12.98,9.69,0,Compliant
+INV-10521,Apollo Hospitals,Radiology,AI Services,eu-central-1,648.11,280.82,257.08,2023-06-14,Paid,Google Cloud,RES-2225,44.32,61.15,239.31,CC-722,289.1,14.46,24.28,0,Compliant
+INV-11035,Narayana Health,Research,Security,eu-west-1,403.44,85.48,62.23,2023-06-14,Pending,Google Cloud,RES-2661,12.1,35.95,62.47,CC-420,206.01,10.3,20.01,0,Compliant
+INV-10200,Max Healthcare,Research,IoT Hub,eu-west-1,514.35,380.39,84.76,2023-06-15,Paid,Google Cloud,RES-9747,11.68,59.54,94.34,CC-961,146.53,7.33,24.19,0,Compliant
+INV-10594,Max Healthcare,Oncology,Database,eu-central-1,65.23,484.92,29.22,2023-06-15,Paid,AWS,RES-2921,3.6,78.61,30.43,CC-878,124.18,6.21,3.66,0,Compliant
+INV-10256,AIIMS,Pharmacy,AI Services,eu-west-1,572.96,86.45,219.18,2023-06-16,Paid,AWS,RES-1612,83.49,68.62,256.94,CC-407,366.74,18.34,19.05,0,Compliant
+INV-10615,Tata Memorial,Pharmacy,Analytics,us-east-1,274.68,73.38,42.67,2023-06-17,Overdue,AWS,RES-6534,96.94,64.21,43.29,CC-180,464.08,23.2,11.18,0,Review Pending
+INV-10712,Christian Medical College,Radiology,Networking,us-west-2,498.68,455.07,83.9,2023-06-17,Paid,AWS,RES-6424,18.15,63.88,87.5,CC-448,350.67,17.53,25.19,0,Compliant
+INV-10773,AIIMS,Emergency,AI Services,ap-south-1,159.49,230.64,71.34,2023-06-17,Paid,Google Cloud,RES-3066,72.59,13.13,82.94,CC-559,78.92,3.95,3.0,0,Compliant
+INV-10618,Christian Medical College,Pharmacy,Networking,eu-west-1,394.44,237.8,63.92,2023-06-18,Paid,Google Cloud,RES-9175,11.6,39.15,73.3,CC-974,109.27,5.46,15.83,0,Compliant
+INV-10663,Medanta,Pediatrics,Backup,eu-west-1,307.95,418.15,54.56,2023-06-18,Paid,Google Cloud,RES-4627,19.68,17.06,62.3,CC-606,297.59,14.88,11.87,0,Compliant
+INV-10119,Max Healthcare,Neurology,Analytics,eu-central-1,411.76,428.98,240.77,2023-06-19,Pending,Google Cloud,RES-5441,18.49,54.89,279.4,CC-586,28.05,1.4,7.36,1,Compliant
+INV-10208,Fortis Healthcare,Oncology,Storage,eu-central-1,36.9,412.58,13.79,2023-06-19,Overdue,Google Cloud,RES-7357,4.38,31.41,15.81,CC-517,228.31,11.42,1.9,0,Compliant
+INV-10261,Fortis Healthcare,Pediatrics,Analytics,eu-central-1,158.4,269.0,29.14,2023-06-19,Pending,AWS,RES-1301,28.14,54.48,30.45,CC-244,191.42,9.57,8.16,0,Compliant
+INV-10536,Tata Memorial,Oncology,Backup,eu-west-1,287.63,208.65,191.17,2023-06-19,Paid,Azure,RES-8455,19.88,36.29,191.74,CC-543,285.5,14.28,12.49,0,Compliant
+INV-10684,Fortis Healthcare,Pediatrics,Storage,us-west-2,708.93,4936.07,205.06,2023-06-19,Paid,Google Cloud,RES-5230,16.7,41.6,187.31,CC-352,441.56,22.08,35.28,1,Compliant
+INV-10821,Tata Memorial,Cardiology,AI Services,eu-west-1,345.31,351.42,147.06,2023-06-20,Pending,Azure,RES-1050,33.49,34.11,137.63,CC-525,441.73,22.09,13.75,0,Compliant
+INV-10622,Max Healthcare,Emergency,Backup,us-east-1,551.68,328.1,89.31,2023-06-21,Paid,Google Cloud,RES-1475,13.98,18.36,91.58,CC-293,311.34,15.57,9.72,3,Compliant
+INV-10790,Medanta,Oncology,IoT Hub,us-west-2,129.55,324.24,25.92,2023-06-21,Paid,AWS,RES-3075,11.81,83.67,23.46,CC-825,88.84,4.44,7.7,0,Review Pending
+INV-10926,Narayana Health,Oncology,Compute,eu-central-1,372.45,485.76,78.7,2023-06-21,Pending,Azure,RES-5862,20.48,51.37,72.96,CC-599,195.62,9.78,7.11,0,Compliant
+INV-10027,Medanta,Emergency,Analytics,us-east-1,484.9,399.07,80.72,2023-06-22,Paid,Azure,RES-1444,74.45,81.44,96.4,CC-503,46.55,2.33,14.95,0,Compliant
+INV-10523,AIIMS,Cardiology,IoT Hub,ap-southeast-1,467.79,34.73,70.86,2023-06-22,Pending,AWS,RES-2306,2.81,78.21,69.61,CC-509,280.44,14.02,10.66,0,Compliant
+INV-10846,Tata Memorial,Pediatrics,Database,ap-south-1,610.76,304.86,146.57,2023-06-22,Paid,Google Cloud,RES-8501,11.52,15.61,147.16,CC-619,481.4,24.07,24.81,0,Compliant
+INV-10093,Fortis Healthcare,Oncology,Compute,eu-central-1,406.06,182.8,77.48,2023-06-23,Paid,Azure,RES-6456,22.84,61.21,70.67,CC-830,402.96,20.15,12.79,1,Compliant
+INV-10225,Max Healthcare,Neurology,AI Services,ap-southeast-1,578.61,307.01,232.33,2023-06-23,Pending,Azure,RES-3381,70.93,14.42,253.42,CC-943,238.48,11.92,20.09,0,Compliant
+INV-10962,AIIMS,Pediatrics,AI Services,us-west-2,581.55,443.68,240.27,2023-06-23,Overdue,Google Cloud,RES-1943,74.09,91.8,249.47,CC-474,185.51,9.28,12.18,2,Review Pending
+INV-10001,Medanta,Cardiology,Database,eu-west-1,207.29,107.66,49.87,2023-06-24,Paid,Azure,RES-1711,15.51,18.69,50.25,CC-370,366.22,18.31,7.05,0,Compliant
+INV-10573,Medanta,Neurology,AI Services,ap-south-1,44.28,258.84,29.55,2023-06-24,Paid,Azure,RES-3923,56.74,53.2,29.12,CC-875,476.99,23.85,1.75,1,Compliant
+INV-10786,Christian Medical College,IT Dept,IoT Hub,ap-southeast-1,95.02,405.41,22.36,2023-06-24,Paid,Google Cloud,RES-2746,15.94,64.24,23.73,CC-139,32.18,1.61,4.06,0,Compliant
+INV-10130,Fortis Healthcare,Neurology,Database,ap-south-1,333.29,103.43,78.09,2023-06-25,Paid,Azure,RES-1732,10.18,50.47,86.6,CC-407,406.04,20.3,5.32,0,Compliant
+INV-10344,Christian Medical College,IT Dept,IoT Hub,ap-south-1,584.73,270.26,93.11,2023-06-25,Paid,Google Cloud,RES-6153,1.34,74.94,108.38,CC-560,427.17,21.36,16.51,0,Compliant
+INV-10929,Apollo Hospitals,Neurology,Networking,us-west-2,301.11,475.32,54.67,2023-06-25,Paid,Google Cloud,RES-9242,9.73,27.96,63.1,CC-281,85.66,4.28,10.85,0,Compliant
+INV-11066,Max Healthcare,Neurology,Networking,us-east-1,138.57,455.68,29.9,2023-06-25,Paid,AWS,RES-5449,6.13,16.99,35.11,CC-117,156.02,7.8,7.86,0,Compliant
+INV-10609,AIIMS,Pharmacy,Networking,ap-southeast-1,356.7,370.21,60.91,2023-06-27,Paid,AWS,RES-9215,12.14,28.84,68.85,CC-448,412.5,20.62,13.76,2,Compliant
+INV-10928,Narayana Health,Pediatrics,Database,us-east-1,493.52,186.42,116.63,2023-06-27,Paid,Google Cloud,RES-3318,16.84,13.86,122.66,CC-691,67.53,3.38,22.66,0,Compliant
+INV-10999,AIIMS,Oncology,Analytics,ap-southeast-1,543.14,157.59,84.62,2023-06-27,Paid,Google Cloud,RES-4781,89.98,14.82,85.56,CC-277,368.68,18.43,17.83,0,Compliant
+INV-11004,Christian Medical College,Research,Storage,us-west-2,707.59,2786.35,782.24,2023-06-27,Paid,Google Cloud,RES-1810,16.34,73.13,933.06,CC-975,432.16,21.61,31.31,0,Review Pending
+INV-10489,AIIMS,Oncology,Backup,ap-southeast-1,631.54,135.55,97.44,2023-06-28,Pending,Azure,RES-1035,10.49,41.37,114.21,CC-907,431.55,21.58,31.58,0,Compliant
+INV-10492,Tata Memorial,IT Dept,Database,us-east-1,266.21,424.66,72.64,2023-06-28,Paid,AWS,RES-4973,15.79,21.84,83.58,CC-531,109.31,5.47,6.75,0,Compliant
+INV-10871,Max Healthcare,Pharmacy,Database,eu-west-1,481.45,46.24,109.71,2023-06-28,Paid,Google Cloud,RES-4216,4.78,33.56,115.57,CC-943,456.27,22.81,16.15,0,Compliant
+INV-10942,Manipal Hospitals,Pharmacy,Compute,us-east-1,99.5,15.72,18.29,2023-06-28,Paid,Azure,RES-9892,29.09,13.88,21.8,CC-173,153.45,7.67,3.46,0,Compliant
+INV-10284,Tata Memorial,Research,Compute,us-west-2,400.05,135.53,75.26,2023-06-29,Paid,Google Cloud,RES-9856,93.95,78.34,71.6,CC-446,224.61,11.23,6.47,0,Compliant
+INV-11180,Fortis Healthcare,Research,Networking,ap-south-1,385.87,141.7,60.71,2023-06-29,Paid,Google Cloud,RES-7078,16.94,34.05,72.49,CC-271,78.96,3.95,11.9,0,Compliant
+INV-10161,Narayana Health,Pharmacy,Storage,eu-west-1,682.77,2839.85,159.21,2023-06-30,Paid,Google Cloud,RES-3876,11.7,26.0,185.4,CC-416,247.77,12.39,14.78,0,Compliant
+INV-10666,Christian Medical College,Pediatrics,Security,eu-west-1,701.24,124.35,107.67,2023-06-30,Paid,Azure,RES-3631,9.47,14.06,128.91,CC-912,108.64,5.43,29.03,0,Compliant
+INV-10667,Narayana Health,Oncology,Analytics,us-east-1,447.65,369.93,74.55,2023-06-30,Pending,Azure,RES-7652,84.42,29.34,69.36,CC-754,159.9,8.0,14.02,0,Compliant
+INV-11025,Christian Medical College,Pediatrics,Analytics,ap-south-1,496.76,425.3,83.02,2023-06-30,Paid,Google Cloud,RES-5952,35.3,33.44,79.54,CC-616,60.71,3.04,15.07,0,Review Pending
+INV-10762,AIIMS,Emergency,Compute,ap-southeast-1,592.98,275.8,113.36,2023-07-01,Paid,Azure,RES-9302,13.61,93.42,104.33,CC-417,87.14,4.36,29.9,0,Compliant
+INV-10785,Apollo Hospitals,IT Dept,AI Services,us-east-1,22.16,332.29,24.92,2023-07-01,Paid,Google Cloud,RES-2396,43.16,38.79,22.48,CC-574,71.37,3.57,1.33,0,Compliant
+INV-10818,Medanta,Orthopedics,AI Services,us-west-2,147.97,263.11,68.64,2023-07-01,Pending,AWS,RES-2674,62.25,85.1,76.78,CC-925,49.58,2.48,6.43,0,Non-Compliant
+INV-10551,Manipal Hospitals,Orthopedics,Analytics,ap-southeast-1,449.12,279.35,72.95,2023-07-02,Paid,Azure,RES-3083,22.27,15.71,73.89,CC-180,392.28,19.61,10.26,0,Compliant
+INV-10799,Manipal Hospitals,Orthopedics,Security,us-east-1,344.68,120.58,54.11,2023-07-02,Paid,Azure,RES-3244,7.34,29.34,48.97,CC-678,119.5,5.98,15.61,0,Review Pending
+INV-10802,Medanta,Cardiology,Networking,eu-west-1,544.86,278.14,87.29,2023-07-02,Paid,Azure,RES-3819,4.12,72.81,93.53,CC-297,412.05,20.6,10.88,0,Compliant
+INV-10733,Fortis Healthcare,Pediatrics,Analytics,us-east-1,479.73,5.28,72.07,2023-07-03,Paid,Azure,RES-1686,63.18,39.17,71.43,CC-589,341.16,17.06,23.56,0,Compliant
+INV-11146,Narayana Health,Pediatrics,Storage,us-east-1,560.31,3071.95,145.49,2023-07-03,Paid,Azure,RES-9824,8.95,12.28,138.78,CC-939,222.4,11.12,11.9,0,Compliant
+INV-10275,Tata Memorial,Oncology,Analytics,eu-west-1,671.35,46.56,101.63,2023-07-04,Paid,Google Cloud,RES-2063,36.64,41.33,93.53,CC-663,149.95,7.5,10.5,0,Compliant
+INV-10447,Manipal Hospitals,Cardiology,Security,us-east-1,630.14,484.8,104.22,2023-07-04,Pending,Google Cloud,RES-2333,14.98,67.62,108.95,CC-913,177.43,8.87,32.28,0,Compliant
+INV-10882,Manipal Hospitals,Radiology,Compute,us-east-1,698.68,476.94,137.21,2023-07-04,Paid,Azure,RES-8128,53.79,26.96,128.19,CC-117,94.95,4.75,23.33,0,Compliant
+INV-10954,Max Healthcare,Research,Compute,us-east-1,419.86,355.27,84.1,2023-07-04,Paid,Azure,RES-4405,72.4,67.22,94.23,CC-749,489.44,24.47,10.22,0,Non-Compliant
+INV-10055,Narayana Health,Orthopedics,Analytics,eu-central-1,80.54,342.84,18.94,2023-07-05,Paid,AWS,RES-8450,58.46,93.12,19.31,CC-225,50.38,2.52,2.71,3,Compliant
+INV-10628,Medanta,Cardiology,AI Services,ap-south-1,516.8,153.33,201.47,2023-07-05,Paid,Google Cloud,RES-3106,73.71,58.25,224.42,CC-258,77.53,3.88,11.6,0,Compliant
+INV-10746,Max Healthcare,Pediatrics,AI Services,eu-west-1,515.96,276.45,207.31,2023-07-05,Pending,Google Cloud,RES-5047,28.2,49.33,193.87,CC-398,106.84,5.34,22.66,0,Compliant
+INV-10070,Christian Medical College,Research,IoT Hub,ap-southeast-1,274.72,141.45,44.04,2023-07-06,Paid,AWS,RES-6401,8.77,38.76,50.06,CC-167,51.78,2.59,10.5,0,Compliant
+INV-10294,Tata Memorial,Pediatrics,Networking,ap-southeast-1,33.76,18.93,5.44,2023-07-07,Paid,Google Cloud,RES-9624,10.18,41.33,6.47,CC-847,491.87,24.59,1.74,0,Compliant
+INV-10738,Max Healthcare,Oncology,Storage,eu-central-1,573.98,2178.37,129.66,2023-07-07,Paid,Azure,RES-5569,14.46,86.3,137.83,CC-134,220.96,11.05,24.62,0,Non-Compliant
+INV-10958,AIIMS,IT Dept,Storage,ap-southeast-1,298.16,4429.75,133.32,2023-07-07,Overdue,AWS,RES-1664,19.41,45.5,135.72,CC-998,194.67,9.73,32.24,0,Compliant
+INV-10963,Apollo Hospitals,Orthopedics,Compute,us-east-1,612.32,264.5,116.57,2023-07-07,Paid,Google Cloud,RES-7396,46.1,41.78,117.85,CC-845,458.49,22.92,20.48,0,Compliant
+INV-10440,Narayana Health,Research,Analytics,eu-west-1,504.48,325.45,82.18,2023-07-08,Pending,Google Cloud,RES-1462,92.46,72.53,74.81,CC-746,350.25,17.51,18.73,0,Compliant
+INV-10910,Christian Medical College,Research,Security,eu-west-1,708.21,473.99,115.71,2023-07-08,Paid,AWS,RES-5148,4.32,20.87,128.25,CC-432,184.2,9.21,30.67,0,Compliant
+INV-10222,Tata Memorial,Cardiology,Networking,ap-southeast-1,631.13,348.82,101.65,2023-07-09,Paid,Azure,RES-2600,9.15,89.77,114.93,CC-923,215.62,10.78,14.15,2,Compliant
+INV-10291,Tata Memorial,Emergency,Database,ap-south-1,649.76,483.95,160.71,2023-07-09,Paid,AWS,RES-4854,1.02,57.6,149.93,CC-131,218.7,10.94,23.53,0,Compliant
+INV-10683,AIIMS,Research,IoT Hub,us-west-2,493.6,22.36,74.49,2023-07-09,Paid,Google Cloud,RES-4335,5.08,48.86,71.99,CC-831,250.16,12.51,16.29,0,Compliant
+INV-10852,Manipal Hospitals,Radiology,IoT Hub,ap-southeast-1,82.58,430.23,20.99,2023-07-09,Paid,Google Cloud,RES-9022,18.85,19.03,21.22,CC-761,261.87,13.09,6.05,0,Compliant
+INV-10493,Max Healthcare,Emergency,Storage,eu-west-1,48.4,574.75,18.76,2023-07-10,Paid,Azure,RES-2294,12.05,50.53,17.77,CC-244,126.3,6.32,2.99,0,Compliant
+INV-10763,Apollo Hospitals,Research,AI Services,eu-west-1,27.14,201.71,20.26,2023-07-10,Paid,Google Cloud,RES-3020,81.07,49.12,19.97,CC-629,442.35,22.12,1.65,0,Compliant
+INV-10008,Manipal Hospitals,Pediatrics,Networking,eu-west-1,321.05,258.79,53.33,2023-07-11,Paid,Google Cloud,RES-1117,3.3,29.1,57.41,CC-325,40.14,2.01,11.81,2,Non-Compliant
+INV-10184,Apollo Hospitals,Cardiology,IoT Hub,us-west-2,684.55,446.0,335.73,2023-07-11,Paid,Google Cloud,RES-6641,15.38,55.14,376.04,CC-998,159.49,7.97,11.0,0,Compliant
+INV-10512,AIIMS,Cardiology,Storage,us-east-1,606.95,2618.87,143.42,2023-07-11,Paid,AWS,RES-7412,15.08,36.99,153.7,CC-669,100.37,5.02,33.01,1,Compliant
+INV-10731,Narayana Health,IT Dept,Compute,ap-south-1,399.4,197.48,76.63,2023-07-11,Paid,Google Cloud,RES-4699,68.46,43.39,86.2,CC-208,322.03,16.1,12.1,1,Compliant
+INV-10943,Max Healthcare,Research,Security,ap-south-1,497.08,170.23,297.45,2023-07-11,Overdue,AWS,RES-1314,1.87,42.97,311.15,CC-113,201.9,10.1,14.28,1,Compliant
+INV-10412,Manipal Hospitals,Orthopedics,Analytics,eu-west-1,155.77,92.12,25.21,2023-07-12,Paid,Azure,RES-8215,98.1,40.84,22.92,CC-397,101.23,5.06,5.58,0,Compliant
+INV-10248,Narayana Health,IT Dept,AI Services,us-east-1,264.3,67.37,102.48,2023-07-13,Paid,Google Cloud,RES-4057,89.98,51.25,101.29,CC-294,274.09,13.7,6.26,1,Compliant
+INV-10508,Manipal Hospitals,Emergency,IoT Hub,us-west-2,163.46,104.88,26.62,2023-07-13,Paid,Google Cloud,RES-6029,4.63,67.77,26.91,CC-409,253.53,12.68,7.71,0,Compliant
+INV-10764,Tata Memorial,Pharmacy,IoT Hub,us-east-1,244.41,357.14,43.8,2023-07-13,Paid,AWS,RES-7289,14.9,63.99,49.43,CC-731,141.5,7.08,5.02,0,Compliant
+INV-10814,Christian Medical College,IT Dept,AI Services,ap-southeast-1,519.91,93.84,199.66,2023-07-13,Paid,AWS,RES-5835,67.65,43.98,220.01,CC-509,364.36,18.22,16.39,0,Compliant
+INV-10894,Tata Memorial,Research,AI Services,ap-south-1,261.37,389.52,117.49,2023-07-13,Paid,Google Cloud,RES-1740,50.96,77.82,129.36,CC-399,442.96,22.15,13.78,0,Compliant
+INV-10028,Narayana Health,Orthopedics,Analytics,ap-south-1,207.56,475.6,40.65,2023-07-14,Paid,Azure,RES-4673,47.52,80.97,45.72,CC-458,326.82,16.34,10.28,0,Review Pending
+INV-10115,Medanta,Oncology,AI Services,ap-south-1,414.55,122.87,161.6,2023-07-14,Paid,AWS,RES-9037,59.01,90.19,182.45,CC-840,233.11,11.66,16.59,0,Compliant
+INV-10124,Manipal Hospitals,Pharmacy,IoT Hub,us-west-2,130.35,134.46,22.24,2023-07-14,Paid,Google Cloud,RES-2260,6.1,22.4,21.86,CC-901,183.76,9.19,6.75,0,Compliant
+INV-10272,Tata Memorial,Pharmacy,Database,eu-central-1,41.17,85.44,11.83,2023-07-14,Paid,Google Cloud,RES-1840,7.37,84.06,11.22,CC-887,212.69,10.63,1.27,0,Compliant
+INV-10451,Manipal Hospitals,Neurology,Security,us-west-2,419.61,0.84,62.96,2023-07-14,Paid,Azure,RES-3069,2.18,55.53,75.17,CC-473,262.28,13.11,14.3,0,Compliant
+INV-10555,Apollo Hospitals,Cardiology,AI Services,ap-southeast-1,494.18,368.96,203.77,2023-07-14,Paid,Google Cloud,RES-3257,59.17,14.43,225.91,CC-537,62.21,3.11,8.55,2,Compliant
+INV-10630,Max Healthcare,Research,Analytics,us-west-2,20.11,473.47,12.49,2023-07-14,Pending,Azure,RES-2959,40.47,36.29,12.28,CC-908,326.75,16.34,1.83,2,Review Pending
+INV-10169,Fortis Healthcare,Research,Networking,us-west-2,272.28,222.89,45.3,2023-07-15,Paid,Azure,RES-2584,6.0,49.53,44.42,CC-870,47.43,2.37,7.17,3,Compliant
+INV-10698,Max Healthcare,IT Dept,Compute,us-east-1,345.7,238.44,67.95,2023-07-15,Paid,AWS,RES-3979,78.28,59.82,68.54,CC-685,226.43,11.32,4.44,0,Compliant
+INV-11130,Christian Medical College,Neurology,Compute,ap-southeast-1,615.05,347.41,119.05,2023-07-15,Paid,AWS,RES-7553,47.37,11.81,123.62,CC-428,144.09,7.2,10.18,0,Compliant
+INV-10298,Max Healthcare,Pharmacy,Database,eu-central-1,178.94,220.09,46.86,2023-07-16,Paid,Azure,RES-2900,13.11,27.92,47.03,CC-873,31.0,1.55,5.75,0,Review Pending
+INV-10593,Fortis Healthcare,Oncology,IoT Hub,ap-southeast-1,244.41,385.99,44.38,2023-07-16,Paid,Google Cloud,RES-4429,12.25,33.57,51.54,CC-584,88.21,4.41,12.02,0,Compliant
+INV-10005,Max Healthcare,Oncology,Networking,ap-southeast-1,280.95,498.06,52.1,2023-07-17,Pending,AWS,RES-9797,11.05,92.54,47.07,CC-798,376.68,18.83,12.62,0,Compliant
+INV-10081,Narayana Health,Emergency,Networking,eu-west-1,250.72,93.41,39.48,2023-07-17,Paid,Azure,RES-2293,14.15,41.22,38.69,CC-534,218.15,10.91,12.65,0,Compliant
+INV-10340,Apollo Hospitals,Neurology,Security,eu-central-1,211.36,300.19,37.71,2023-07-17,Paid,AWS,RES-8011,6.93,92.98,40.21,CC-975,98.45,4.92,4.01,0,Compliant
+INV-10919,Apollo Hospitals,Cardiology,Compute,eu-west-1,337.53,189.7,65.31,2023-07-17,Pending,Google Cloud,RES-8878,14.03,12.53,70.47,CC-921,358.86,17.94,5.62,1,Compliant
+INV-10986,Christian Medical College,Pediatrics,Compute,eu-central-1,642.27,213.32,120.73,2023-07-17,Paid,AWS,RES-4614,98.16,31.84,109.49,CC-422,237.78,11.89,8.23,3,Compliant
+INV-10084,Fortis Healthcare,Cardiology,Database,eu-central-1,658.62,58.88,149.96,2023-07-18,Paid,Google Cloud,RES-4279,15.72,69.84,162.49,CC-602,65.71,3.29,29.22,1,Compliant
+INV-10561,AIIMS,Emergency,Storage,us-east-1,686.26,4665.74,196.25,2023-07-18,Pending,Google Cloud,RES-9501,6.46,94.23,201.58,CC-887,133.75,6.69,46.61,3,Compliant
+INV-10741,Christian Medical College,IT Dept,AI Services,us-east-1,402.65,313.51,166.67,2023-07-18,Paid,AWS,RES-2114,86.42,16.03,192.9,CC-878,241.46,12.07,20.37,0,Compliant
+INV-10239,Medanta,Pharmacy,Database,us-east-1,229.65,123.7,55.38,2023-07-19,Paid,Google Cloud,RES-6846,6.4,63.25,63.77,CC-779,430.88,21.54,5.64,3,Compliant
+INV-10299,Tata Memorial,Orthopedics,Networking,eu-west-1,346.96,72.57,53.5,2023-07-19,Paid,Google Cloud,RES-1672,17.54,11.01,55.35,CC-642,53.2,2.66,11.02,1,Compliant
+INV-10552,Narayana Health,Cardiology,AI Services,ap-south-1,509.32,33.98,192.69,2023-07-19,Pending,Azure,RES-9192,87.56,92.29,206.68,CC-725,159.56,7.98,17.8,1,Compliant
+INV-10847,Max Healthcare,Orthopedics,IoT Hub,eu-central-1,349.1,269.64,57.76,2023-07-19,Paid,Azure,RES-2040,19.47,25.87,59.82,CC-179,361.11,18.06,13.53,0,Compliant
+INV-10922,Apollo Hospitals,Cardiology,Networking,eu-central-1,309.68,46.01,47.37,2023-07-19,Paid,Google Cloud,RES-4683,1.25,65.02,46.88,CC-192,493.46,24.67,3.24,0,Compliant
+INV-11029,Apollo Hospitals,Orthopedics,Storage,eu-west-1,549.44,2046.32,123.34,2023-07-19,Paid,Azure,RES-7347,12.25,83.9,134.87,CC-466,149.93,7.5,26.08,0,Compliant
+INV-10147,Tata Memorial,Orthopedics,Database,ap-southeast-1,426.37,381.61,107.38,2023-07-20,Overdue,Azure,RES-1948,13.35,64.67,110.74,CC-344,126.02,6.3,20.59,0,Compliant
+INV-10164,Max Healthcare,Oncology,Storage,eu-west-1,614.04,3865.61,169.42,2023-07-20,Paid,Google Cloud,RES-2705,11.78,25.48,193.59,CC-754,468.66,23.43,24.99,0,Review Pending
+INV-10322,Fortis Healthcare,Orthopedics,Analytics,us-east-1,647.54,144.19,100.01,2023-07-20,Paid,AWS,RES-4346,95.14,19.3,110.92,CC-995,262.74,13.14,23.04,3,Compliant
+INV-10429,Fortis Healthcare,Oncology,Backup,us-east-1,129.6,335.7,26.15,2023-07-20,Pending,Google Cloud,RES-9721,1.21,33.23,24.93,CC-791,112.0,5.6,6.37,1,Compliant
+INV-10660,Manipal Hospitals,Emergency,Database,eu-west-1,429.91,124.29,100.46,2023-07-20,Paid,Azure,RES-3487,7.66,29.24,94.65,CC-843,106.89,5.34,7.01,0,Compliant
+INV-10586,Tata Memorial,Orthopedics,Networking,us-east-1,685.53,381.35,110.46,2023-07-21,Pending,Azure,RES-7059,14.58,48.44,100.24,CC-557,241.02,12.05,10.7,0,Compliant
+INV-10125,Christian Medical College,Neurology,Database,ap-south-1,245.87,310.1,64.62,2023-07-22,Pending,AWS,RES-3230,16.28,38.01,73.97,CC-708,153.72,7.69,9.56,0,Compliant
+INV-10341,Max Healthcare,Cardiology,Analytics,eu-west-1,321.02,329.27,54.74,2023-07-22,Paid,AWS,RES-2060,17.57,22.19,58.96,CC-272,185.04,9.25,6.36,1,Compliant
+INV-10399,Tata Memorial,Pharmacy,Compute,ap-south-1,505.88,415.25,101.02,2023-07-22,Paid,AWS,RES-6215,74.53,94.9,97.31,CC-921,442.55,22.13,25.66,3,Compliant
+INV-11199,Apollo Hospitals,Pharmacy,Analytics,us-west-2,580.83,25.35,87.63,2023-07-22,Paid,AWS,RES-2621,58.33,58.78,81.07,CC-107,212.25,10.61,14.14,0,Compliant
+INV-10956,Manipal Hospitals,IT Dept,Analytics,eu-central-1,651.2,47.98,98.64,2023-07-23,Paid,Azure,RES-2468,57.82,21.22,89.45,CC-712,210.78,10.54,29.7,0,Compliant
+INV-10994,Medanta,Orthopedics,Backup,eu-west-1,285.4,42.32,43.66,2023-07-23,Paid,Azure,RES-4121,5.23,56.07,50.89,CC-287,415.26,20.76,4.81,0,Non-Compliant
+INV-11018,Max Healthcare,Pharmacy,Storage,us-east-1,389.13,2189.37,102.16,2023-07-23,Paid,Azure,RES-4388,16.63,74.28,118.23,CC-669,441.6,22.08,21.71,0,Non-Compliant
+INV-10090,Max Healthcare,Radiology,Security,eu-west-1,102.84,185.27,19.13,2023-07-24,Paid,Azure,RES-1829,11.67,37.12,18.75,CC-199,148.65,7.43,3.25,0,Non-Compliant
+INV-10581,Narayana Health,Emergency,Networking,eu-central-1,195.1,27.32,29.81,2023-07-24,Paid,Azure,RES-3728,10.22,28.61,27.24,CC-326,270.33,13.52,8.07,3,Compliant
+INV-10647,Manipal Hospitals,Emergency,Storage,eu-central-1,151.03,3866.37,99.98,2023-07-24,Paid,Azure,RES-2993,12.21,20.6,105.18,CC-628,85.63,4.28,21.19,0,Compliant
+INV-10709,Max Healthcare,Radiology,Networking,eu-west-1,269.65,217.19,44.79,2023-07-24,Paid,AWS,RES-7410,16.53,86.96,53.02,CC-116,238.78,11.94,6.01,0,Compliant
+INV-10768,Fortis Healthcare,Research,IoT Hub,ap-south-1,307.7,165.61,49.47,2023-07-24,Paid,Azure,RES-1932,2.54,23.81,58.3,CC-421,220.63,11.03,13.38,0,Compliant
+INV-11023,Max Healthcare,Emergency,Networking,ap-south-1,389.05,381.86,65.99,2023-07-24,Paid,Google Cloud,RES-9310,12.62,40.08,62.13,CC-415,298.62,14.93,18.39,0,Compliant
+INV-11162,Fortis Healthcare,Pharmacy,Backup,ap-southeast-1,98.82,468.85,24.2,2023-07-25,Pending,Google Cloud,RES-7062,18.86,80.32,28.84,CC-764,204.14,10.21,1.99,0,Compliant
+INV-10205,Tata Memorial,Oncology,Networking,ap-southeast-1,75.28,110.6,13.5,2023-07-26,Pending,Google Cloud,RES-8780,5.05,38.21,13.03,CC-643,498.33,24.92,3.78,0,Compliant
+INV-10892,AIIMS,Pharmacy,Compute,ap-south-1,74.97,323.98,21.27,2023-07-26,Paid,Google Cloud,RES-3709,17.48,23.42,23.45,CC-910,301.95,15.1,3.51,0,Compliant
+INV-10118,Narayana Health,Pediatrics,Networking,us-east-1,335.89,121.6,52.82,2023-07-27,Overdue,Azure,RES-1519,14.25,35.5,48.82,CC-765,51.28,2.56,8.84,0,Compliant
+INV-10496,Christian Medical College,IT Dept,Security,eu-west-1,597.35,82.41,91.25,2023-07-27,Paid,Google Cloud,RES-6496,16.26,64.97,85.09,CC-717,18.88,0.94,12.98,0,Compliant
+INV-10844,Tata Memorial,IT Dept,Compute,eu-west-1,414.3,366.24,83.36,2023-07-27,Paid,Azure,RES-7519,56.53,75.46,99.57,CC-681,484.61,24.23,18.42,0,Compliant
+INV-10634,Manipal Hospitals,Pharmacy,Analytics,us-east-1,436.96,246.3,70.47,2023-07-28,Paid,Azure,RES-9719,25.71,53.12,83.54,CC-988,128.27,6.41,9.98,0,Compliant
+INV-10820,Narayana Health,Emergency,Compute,eu-central-1,563.03,360.14,109.99,2023-07-28,Paid,Google Cloud,RES-1481,56.68,10.71,105.88,CC-930,295.11,14.76,14.12,0,Compliant
+INV-10111,AIIMS,Research,Security,eu-west-1,115.94,188.23,21.16,2023-07-29,Pending,Azure,RES-8586,15.33,50.25,20.95,CC-925,457.8,22.89,4.68,0,Compliant
+INV-10177,Manipal Hospitals,Orthopedics,AI Services,ap-south-1,374.43,432.31,162.03,2023-07-29,Paid,Google Cloud,RES-1138,96.08,67.99,152.26,CC-920,115.77,5.79,14.92,0,Compliant
+INV-11042,Max Healthcare,Neurology,Compute,ap-southeast-1,481.14,145.25,90.09,2023-07-29,Paid,Google Cloud,RES-5874,35.59,65.3,100.98,CC-629,311.53,15.58,23.52,0,Compliant
+INV-11052,Max Healthcare,Research,Networking,eu-west-1,13.33,457.06,11.14,2023-07-29,Paid,Azure,RES-7753,6.6,54.31,10.88,CC-821,42.89,2.14,2.21,0,Review Pending
+INV-10359,Manipal Hospitals,Research,Database,ap-southeast-1,572.78,159.7,133.67,2023-07-30,Pending,Google Cloud,RES-5616,10.09,72.49,147.87,CC-918,103.34,5.17,15.5,1,Review Pending
+INV-10314,Fortis Healthcare,Radiology,AI Services,us-east-1,627.62,187.77,244.75,2023-07-31,Paid,AWS,RES-8454,29.64,50.03,285.66,CC-724,93.14,4.66,16.18,0,Compliant
+INV-10583,Manipal Hospitals,Pediatrics,Database,ap-south-1,163.09,366.67,232.79,2023-07-31,Paid,Azure,RES-1692,18.86,13.07,216.67,CC-596,82.69,4.13,4.3,0,Compliant
+INV-10172,Apollo Hospitals,Pharmacy,IoT Hub,eu-central-1,116.25,283.3,23.1,2023-08-01,Pending,AWS,RES-5687,12.07,92.01,21.52,CC-904,434.4,21.72,6.53,0,Compliant
+INV-10439,Apollo Hospitals,Research,Security,eu-central-1,677.6,485.25,111.34,2023-08-01,Paid,Azure,RES-3039,8.09,51.61,119.86,CC-139,195.49,9.77,22.97,0,Compliant
+INV-10685,Manipal Hospitals,Pediatrics,Networking,eu-west-1,594.72,188.57,92.98,2023-08-01,Paid,AWS,RES-7479,17.01,26.11,90.75,CC-809,25.69,1.28,24.48,0,Compliant
+INV-10335,Tata Memorial,Research,IoT Hub,eu-west-1,336.95,38.2,51.31,2023-08-02,Paid,AWS,RES-8240,16.56,88.49,50.98,CC-936,445.41,22.27,11.58,0,Compliant
+INV-11105,Narayana Health,Orthopedics,IoT Hub,eu-central-1,501.06,179.07,78.74,2023-08-02,Paid,Azure,RES-7659,3.38,85.91,82.77,CC-153,448.48,22.42,19.67,0,Review Pending
+INV-11157,AIIMS,Pharmacy,Database,us-east-1,292.69,483.25,80.35,2023-08-02,Paid,Azure,RES-3528,19.02,58.38,76.87,CC-724,296.05,14.8,13.57,0,Compliant
+INV-11171,Manipal Hospitals,Orthopedics,AI Services,ap-south-1,103.83,27.75,40.32,2023-08-02,Paid,Google Cloud,RES-1875,26.9,93.76,46.57,CC-619,382.23,19.11,4.61,0,Review Pending
+INV-10013,Manipal Hospitals,Pharmacy,Storage,ap-southeast-1,476.73,2847.87,128.47,2023-08-03,Paid,AWS,RES-5915,7.01,32.17,127.73,CC-234,231.33,11.57,35.99,0,Compliant
+INV-10424,AIIMS,Oncology,Compute,us-west-2,349.56,34.38,63.75,2023-08-03,Paid,Google Cloud,RES-8778,95.0,83.58,61.31,CC-826,83.6,4.18,11.61,0,Compliant
+INV-10906,AIIMS,Emergency,Database,eu-west-1,248.92,144.6,60.34,2023-08-03,Overdue,AWS,RES-7971,3.06,63.77,60.59,CC-109,84.33,4.22,4.59,0,Review Pending
+INV-11058,Fortis Healthcare,Radiology,AI Services,ap-southeast-1,698.22,93.14,266.49,2023-08-03,Paid,Google Cloud,RES-2111,21.37,21.33,253.18,CC-368,329.33,16.47,12.16,1,Compliant
+INV-11115,Tata Memorial,Research,Networking,ap-south-1,541.21,496.86,281.48,2023-08-03,Pending,AWS,RES-3814,15.32,81.95,254.2,CC-205,299.54,14.98,11.03,2,Compliant
+INV-10358,Max Healthcare,Pediatrics,IoT Hub,us-east-1,437.5,406.71,228.96,2023-08-04,Paid,Azure,RES-3229,15.02,48.53,250.13,CC-910,6.52,0.33,8.78,0,Compliant
+INV-10391,Christian Medical College,Cardiology,Database,us-west-2,44.54,447.13,23.44,2023-08-04,Paid,Google Cloud,RES-2106,17.89,28.32,24.53,CC-457,435.86,21.79,2.66,0,Review Pending
+INV-10748,Tata Memorial,Pharmacy,Backup,ap-southeast-1,151.42,25.5,23.22,2023-08-04,Paid,Google Cloud,RES-3289,9.13,93.44,24.22,CC-222,94.65,4.73,3.81,0,Compliant
+INV-10270,AIIMS,Pediatrics,Backup,eu-central-1,219.04,459.52,42.05,2023-08-05,Paid,AWS,RES-2854,14.11,86.81,46.0,CC-612,93.99,4.7,9.42,0,Compliant
+INV-10377,Christian Medical College,Orthopedics,Storage,ap-southeast-1,419.25,2788.62,118.66,2023-08-05,Paid,AWS,RES-6681,6.09,65.11,110.96,CC-761,226.92,11.35,16.1,0,Compliant
+INV-10454,Max Healthcare,Cardiology,IoT Hub,eu-central-1,491.31,495.16,83.6,2023-08-05,Paid,Azure,RES-9978,15.4,43.24,82.34,CC-299,199.92,10.0,9.47,0,Compliant
+INV-10571,Fortis Healthcare,Oncology,IoT Hub,ap-southeast-1,261.6,201.16,43.26,2023-08-05,Pending,Azure,RES-2765,11.58,70.52,50.58,CC-705,497.1,24.86,3.88,0,Compliant
+INV-10901,Max Healthcare,Emergency,Networking,ap-south-1,447.69,269.2,72.54,2023-08-05,Paid,Google Cloud,RES-6105,16.29,31.16,73.9,CC-550,465.5,23.28,11.91,1,Compliant
+INV-10974,Manipal Hospitals,Radiology,AI Services,us-west-2,313.04,253.64,130.07,2023-08-05,Overdue,AWS,RES-9379,96.51,49.91,118.97,CC-146,97.78,4.89,11.79,0,Compliant
+INV-11109,Christian Medical College,Emergency,Compute,eu-central-1,126.71,389.72,32.16,2023-08-05,Pending,AWS,RES-4812,24.03,85.06,31.73,CC-513,21.03,1.05,2.71,0,Compliant
+INV-10016,Medanta,Oncology,Analytics,ap-southeast-1,408.24,55.94,62.35,2023-08-07,Paid,Google Cloud,RES-3426,94.11,68.74,56.79,CC-665,217.74,10.89,4.9,2,Review Pending
+INV-10082,Narayana Health,Pediatrics,Backup,eu-central-1,128.32,221.95,23.69,2023-08-07,Paid,Google Cloud,RES-1939,9.5,71.78,25.69,CC-754,42.15,2.11,5.1,1,Compliant
+INV-10168,Christian Medical College,Oncology,Storage,ap-south-1,72.22,4128.29,93.4,2023-08-07,Paid,AWS,RES-8758,12.88,50.83,89.86,CC-183,422.67,21.13,12.3,0,Compliant
+INV-10309,Christian Medical College,Pharmacy,AI Services,us-east-1,249.51,417.95,114.46,2023-08-07,Paid,AWS,RES-4493,75.68,44.17,126.5,CC-429,383.29,19.16,9.39,0,Compliant
+INV-10490,Christian Medical College,IT Dept,Compute,us-east-1,691.31,139.24,127.78,2023-08-07,Paid,Google Cloud,RES-8885,18.05,94.56,129.76,CC-534,348.24,17.41,18.94,0,Compliant
+INV-10642,Apollo Hospitals,Oncology,Compute,eu-west-1,291.38,243.18,58.28,2023-08-07,Paid,Azure,RES-1525,14.27,54.91,61.41,CC-547,480.1,24.01,13.65,0,Compliant
+INV-10765,AIIMS,Pharmacy,AI Services,eu-central-1,398.41,127.57,155.78,2023-08-07,Paid,AWS,RES-2082,91.53,10.05,180.34,CC-594,113.45,5.67,18.78,0,Compliant
+INV-10383,Max Healthcare,Research,Networking,us-west-2,303.52,204.65,49.62,2023-08-08,Paid,AWS,RES-1162,9.72,82.45,50.04,CC-249,360.22,18.01,9.58,0,Compliant
+INV-10434,Apollo Hospitals,Pharmacy,Compute,ap-south-1,547.64,309.88,106.01,2023-08-08,Paid,AWS,RES-4900,15.33,41.83,100.23,CC-138,462.09,23.1,20.06,0,Compliant
+INV-10466,Narayana Health,IT Dept,IoT Hub,ap-south-1,379.62,359.23,64.13,2023-08-08,Paid,Azure,RES-6123,18.55,29.44,59.39,CC-889,423.4,21.17,13.9,0,Compliant
+INV-11069,Tata Memorial,Emergency,Backup,eu-central-1,571.73,454.15,94.84,2023-08-08,Paid,Google Cloud,RES-9195,10.76,45.81,96.15,CC-109,265.13,13.26,13.78,0,Compliant
+INV-11177,Max Healthcare,Research,Compute,eu-west-1,198.85,4.01,35.89,2023-08-08,Paid,Google Cloud,RES-1961,58.51,20.26,38.62,CC-268,403.72,20.19,3.88,0,Compliant
+INV-11192,AIIMS,IT Dept,Security,ap-southeast-1,331.94,68.86,51.17,2023-08-08,Paid,AWS,RES-5015,11.81,10.21,58.8,CC-140,354.76,17.74,6.06,3,Compliant
+INV-10059,Tata Memorial,Pediatrics,Analytics,ap-southeast-1,80.42,350.89,19.08,2023-08-09,Paid,Google Cloud,RES-4743,85.9,65.33,21.3,CC-562,209.84,10.49,4.38,0,Compliant
+INV-10092,Christian Medical College,Pediatrics,IoT Hub,us-east-1,105.09,132.24,57.11,2023-08-09,Paid,AWS,RES-2204,7.95,44.28,61.02,CC-395,196.24,9.81,3.37,1,Compliant
+INV-10443,AIIMS,Research,Networking,eu-west-1,131.15,187.33,23.42,2023-08-09,Paid,Azure,RES-4482,14.38,26.83,27.74,CC-933,96.89,4.84,1.95,0,Compliant
+INV-10925,Manipal Hospitals,Oncology,Storage,us-east-1,635.64,3831.8,171.98,2023-08-09,Pending,AWS,RES-7228,7.81,82.19,184.57,CC-291,12.27,0.61,43.53,0,Review Pending
+INV-11166,Medanta,Research,Storage,ap-south-1,28.23,3761.47,79.46,2023-08-09,Paid,Azure,RES-8707,11.16,83.61,79.03,CC-105,209.7,10.48,15.52,0,Compliant
+INV-10258,Christian Medical College,Pharmacy,IoT Hub,us-east-1,215.75,197.16,36.31,2023-08-10,Paid,AWS,RES-7529,3.51,17.02,33.22,CC-187,253.4,12.67,9.14,0,Compliant
+INV-10692,Medanta,Oncology,Security,eu-west-1,581.87,71.99,88.72,2023-08-10,Paid,AWS,RES-6782,9.74,70.41,85.89,CC-960,108.01,5.4,15.59,0,Compliant
+INV-10729,Max Healthcare,IT Dept,IoT Hub,eu-central-1,71.38,126.6,13.24,2023-08-10,Paid,Azure,RES-3691,3.62,88.6,13.71,CC-796,445.42,22.27,2.29,3,Compliant
+INV-11086,Fortis Healthcare,Oncology,Compute,ap-south-1,608.87,302.3,116.85,2023-08-10,Paid,Google Cloud,RES-5528,76.86,23.91,132.71,CC-509,401.51,20.08,22.15,0,Compliant
+INV-10458,Max Healthcare,Emergency,Analytics,eu-west-1,221.84,62.62,34.53,2023-08-11,Paid,Google Cloud,RES-1323,38.95,70.67,36.65,CC-817,199.93,10.0,9.73,0,Compliant
+INV-10484,AIIMS,Oncology,Analytics,us-west-2,271.73,451.08,49.78,2023-08-11,Paid,Google Cloud,RES-3955,18.34,25.43,57.68,CC-602,325.54,16.28,3.69,0,Compliant
+INV-10824,Narayana Health,Orthopedics,Analytics,eu-central-1,696.06,371.88,111.85,2023-08-11,Pending,Azure,RES-4161,56.22,18.16,114.98,CC-143,438.04,21.9,10.19,0,Compliant
+INV-10065,Narayana Health,Neurology,Networking,eu-west-1,23.31,460.58,12.71,2023-08-12,Paid,AWS,RES-7636,17.38,58.94,14.14,CC-217,15.32,0.77,2.47,0,Compliant
+INV-10066,Narayana Health,Neurology,Networking,us-east-1,428.1,261.98,69.45,2023-08-12,Paid,AWS,RES-2868,8.52,36.37,69.44,CC-622,267.65,13.38,8.68,0,Review Pending
+INV-10121,Fortis Healthcare,Research,Security,us-east-1,174.82,38.01,26.98,2023-08-12,Paid,AWS,RES-5478,12.5,62.18,32.12,CC-749,392.86,19.64,4.97,0,Compliant
+INV-10964,Medanta,Radiology,AI Services,ap-south-1,273.21,236.09,114.26,2023-08-12,Paid,AWS,RES-2041,86.29,43.41,123.22,CC-926,218.3,10.92,12.99,0,Compliant
+INV-11071,Manipal Hospitals,Pediatrics,IoT Hub,ap-south-1,202.0,472.27,39.75,2023-08-12,Paid,Google Cloud,RES-8072,1.74,23.41,47.29,CC-380,97.81,4.89,8.28,0,Compliant
+INV-11189,Max Healthcare,Emergency,Storage,eu-central-1,413.56,3066.29,123.36,2023-08-12,Pending,Azure,RES-5658,2.32,56.84,112.11,CC-502,492.42,24.62,12.63,0,Compliant
+INV-10310,AIIMS,Oncology,Security,ap-southeast-1,182.99,290.99,33.27,2023-08-13,Paid,AWS,RES-2322,3.53,77.24,33.7,CC-598,8.14,0.41,3.54,0,Non-Compliant
+INV-10761,AIIMS,Orthopedics,Database,us-east-1,189.57,199.62,48.64,2023-08-13,Overdue,AWS,RES-3384,14.54,41.58,45.68,CC-351,449.03,22.45,9.33,0,Compliant
+INV-10869,Christian Medical College,Research,IoT Hub,ap-southeast-1,258.01,105.29,40.81,2023-08-13,Paid,Google Cloud,RES-9765,15.06,69.92,43.03,CC-752,200.2,10.01,3.67,0,Review Pending
+INV-10935,Christian Medical College,Pediatrics,AI Services,eu-west-1,191.78,381.97,91.02,2023-08-13,Paid,Azure,RES-5472,83.32,38.68,93.41,CC-982,489.61,24.48,6.78,0,Compliant
+INV-10192,Max Healthcare,IT Dept,Analytics,us-east-1,42.64,130.81,9.01,2023-08-14,Paid,Azure,RES-4669,37.97,69.89,10.18,CC-678,489.06,24.45,1.88,0,Compliant
+INV-10260,Narayana Health,Pharmacy,Analytics,ap-southeast-1,41.86,409.09,14.46,2023-08-14,Paid,AWS,RES-4982,27.77,41.77,16.71,CC-155,474.73,23.74,3.8,1,Compliant
+INV-10068,Narayana Health,Oncology,Analytics,us-east-1,458.28,398.16,76.71,2023-08-15,Paid,Azure,RES-5703,62.64,39.92,79.67,CC-477,42.98,2.15,22.19,0,Compliant
+INV-10174,Christian Medical College,Neurology,AI Services,us-west-2,559.56,160.43,217.86,2023-08-15,Overdue,Azure,RES-8937,74.86,61.42,224.94,CC-516,380.95,19.05,25.69,0,Compliant
+INV-10329,Fortis Healthcare,Orthopedics,Analytics,eu-west-1,214.93,402.84,40.3,2023-08-15,Paid,Azure,RES-3353,96.36,46.03,37.96,CC-188,107.85,5.39,8.03,3,Compliant
+INV-10366,Christian Medical College,Emergency,Compute,eu-central-1,263.13,354.51,55.87,2023-08-15,Paid,AWS,RES-4337,53.18,51.9,64.81,CC-195,434.75,21.74,5.13,0,Compliant
+INV-10455,Medanta,IT Dept,Database,ap-southeast-1,504.13,145.54,117.8,2023-08-15,Paid,AWS,RES-2670,3.75,28.54,132.01,CC-843,340.77,17.04,25.21,3,Compliant
+INV-10905,Medanta,Radiology,Networking,ap-south-1,251.34,446.23,46.63,2023-08-15,Paid,Azure,RES-9297,11.85,76.51,46.43,CC-900,403.61,20.18,3.48,1,Compliant
+INV-10157,Fortis Healthcare,Cardiology,Compute,us-west-2,584.6,45.99,106.33,2023-08-16,Paid,Google Cloud,RES-8096,85.41,78.76,125.75,CC-687,411.73,20.59,15.13,0,Compliant
+INV-10794,AIIMS,Emergency,IoT Hub,eu-west-1,480.82,428.88,80.7,2023-08-16,Overdue,Azure,RES-9026,3.77,43.08,88.75,CC-348,247.01,12.35,10.59,0,Compliant
+INV-11112,Fortis Healthcare,IT Dept,Database,ap-southeast-1,317.59,120.83,75.08,2023-08-16,Paid,Azure,RES-5261,11.55,55.89,68.3,CC-432,35.13,1.76,14.79,0,Review Pending
+INV-11140,Narayana Health,Cardiology,AI Services,eu-west-1,199.58,212.4,85.46,2023-08-16,Paid,AWS,RES-7628,55.32,27.96,93.44,CC-122,238.15,11.91,9.3,0,Compliant
+INV-10176,Apollo Hospitals,Orthopedics,Security,eu-central-1,136.08,435.24,29.12,2023-08-17,Pending,Google Cloud,RES-2480,12.15,39.73,34.02,CC-805,146.11,7.31,4.18,0,Review Pending
+INV-10425,Christian Medical College,Pediatrics,AI Services,us-east-1,55.42,199.62,30.76,2023-08-17,Paid,AWS,RES-1640,81.87,54.7,35.8,CC-689,369.96,18.5,2.1,0,Compliant
+INV-10478,Fortis Healthcare,Cardiology,AI Services,us-west-2,667.11,37.44,252.04,2023-08-17,Paid,Google Cloud,RES-3517,58.65,39.15,301.67,CC-838,26.69,1.33,11.91,0,Non-Compliant
+INV-10754,Narayana Health,Emergency,Storage,eu-central-1,655.52,492.83,108.18,2023-08-17,Paid,Azure,RES-4590,5.84,29.43,129.72,CC-272,427.56,21.38,25.14,1,Compliant
+INV-10405,Manipal Hospitals,Cardiology,Backup,eu-central-1,234.53,195.93,39.1,2023-08-18,Paid,Google Cloud,RES-7943,7.36,84.81,46.81,CC-806,479.1,23.96,11.3,0,Compliant
+INV-10673,AIIMS,Neurology,Database,us-east-1,406.89,28.77,92.41,2023-08-18,Paid,Google Cloud,RES-5523,7.6,83.74,102.08,CC-836,287.03,14.35,19.6,0,Compliant
+INV-10937,Christian Medical College,Pediatrics,Storage,eu-central-1,450.11,1794.57,103.41,2023-08-18,Pending,Azure,RES-1557,7.92,43.75,98.74,CC-708,272.72,13.64,17.79,0,Compliant
+INV-10069,Christian Medical College,Pharmacy,IoT Hub,eu-west-1,655.43,285.83,104.03,2023-08-19,Paid,AWS,RES-6626,4.58,61.43,123.52,CC-930,491.28,24.56,9.79,0,Compliant
+INV-10249,Tata Memorial,Oncology,Compute,ap-southeast-1,219.93,131.67,42.75,2023-08-19,Paid,AWS,RES-6965,42.67,10.06,43.34,CC-119,389.13,19.46,4.81,0,Compliant
+INV-10307,Fortis Healthcare,Research,Backup,eu-central-1,696.27,8.21,104.6,2023-08-19,Paid,Google Cloud,RES-9570,7.45,38.71,106.86,CC-769,231.89,11.59,25.88,0,Compliant
+INV-11104,Medanta,Emergency,IoT Hub,eu-central-1,142.01,258.1,26.46,2023-08-19,Paid,AWS,RES-7180,6.7,13.88,25.8,CC-768,343.18,17.16,3.47,1,Compliant
+INV-11197,Tata Memorial,Research,Database,us-west-2,383.36,273.02,94.45,2023-08-19,Paid,AWS,RES-1810,10.18,38.04,109.03,CC-634,195.29,9.76,6.09,0,Compliant
+INV-10281,AIIMS,Neurology,Analytics,us-west-2,598.91,151.31,92.86,2023-08-20,Paid,Azure,RES-8270,56.73,24.88,84.62,CC-194,255.47,12.77,25.83,0,Compliant
+INV-10879,Narayana Health,Emergency,Analytics,ap-southeast-1,271.68,446.52,49.68,2023-08-20,Overdue,Google Cloud,RES-5670,37.44,15.52,54.8,CC-480,215.46,10.77,5.48,0,Compliant
+INV-11114,Apollo Hospitals,Oncology,Networking,eu-west-1,290.54,165.56,46.89,2023-08-20,Overdue,Azure,RES-9015,4.26,83.36,46.47,CC-702,136.06,6.8,12.16,0,Compliant
+INV-10228,Narayana Health,Pediatrics,AI Services,ap-southeast-1,670.1,287.45,265.66,2023-08-21,Paid,AWS,RES-9409,33.24,44.61,244.86,CC-219,478.57,23.93,31.41,0,Compliant
+INV-10313,Manipal Hospitals,Emergency,Backup,ap-south-1,40.76,370.21,13.52,2023-08-21,Paid,Google Cloud,RES-8287,18.57,24.95,14.14,CC-340,298.39,14.92,1.6,0,Compliant
+INV-10404,Tata Memorial,Pharmacy,Backup,eu-west-1,11.39,213.56,5.98,2023-08-21,Pending,Google Cloud,RES-5489,13.79,65.25,5.96,CC-516,65.25,3.26,0.99,0,Compliant
+INV-11054,Fortis Healthcare,Pediatrics,Backup,eu-west-1,92.4,377.49,21.41,2023-08-21,Paid,Azure,RES-1735,5.37,36.94,19.41,CC-916,212.1,10.61,3.84,1,Compliant
+INV-10243,Max Healthcare,Oncology,Backup,us-east-1,448.59,136.07,216.98,2023-08-22,Paid,Google Cloud,RES-5622,12.83,25.96,230.11,CC-204,138.25,6.91,17.85,0,Compliant
+INV-10293,Max Healthcare,Neurology,Database,eu-west-1,644.44,347.7,155.43,2023-08-22,Pending,Azure,RES-6821,18.68,62.98,159.66,CC-493,116.74,5.84,17.75,0,Compliant
+INV-10446,Apollo Hospitals,Radiology,Security,us-east-1,628.08,200.9,318.83,2023-08-22,Overdue,AWS,RES-5072,16.87,88.63,337.7,CC-869,187.37,9.37,22.55,0,Compliant
+INV-10632,Max Healthcare,Orthopedics,AI Services,eu-west-1,135.98,489.69,75.48,2023-08-22,Overdue,Google Cloud,RES-9561,33.65,33.59,84.54,CC-235,154.87,7.74,3.46,0,Compliant
+INV-10825,Fortis Healthcare,Cardiology,Networking,us-west-2,61.6,470.15,18.64,2023-08-22,Paid,Google Cloud,RES-8041,5.04,90.99,18.2,CC-153,256.99,12.85,2.61,0,Compliant
+INV-10004,Narayana Health,Orthopedics,Analytics,eu-central-1,111.44,69.82,18.11,2023-08-23,Paid,Google Cloud,RES-4593,76.3,55.81,18.63,CC-470,498.68,24.93,1.94,0,Non-Compliant
+INV-10229,AIIMS,Pharmacy,Analytics,us-west-2,493.93,448.26,83.05,2023-08-23,Pending,Azure,RES-4767,86.72,50.97,84.28,CC-325,401.08,20.05,14.17,0,Compliant
+INV-10263,Tata Memorial,Neurology,Database,us-west-2,408.09,356.23,102.51,2023-08-23,Pending,Google Cloud,RES-6681,1.76,88.39,107.33,CC-118,343.73,17.19,10.67,3,Review Pending
+INV-10546,Apollo Hospitals,Radiology,Database,eu-central-1,206.6,490.88,61.21,2023-08-23,Pending,Google Cloud,RES-9405,7.8,82.75,61.49,CC-499,36.07,1.8,8.67,0,Compliant
+INV-10607,Apollo Hospitals,Neurology,Backup,us-west-2,291.16,230.29,48.28,2023-08-23,Paid,Azure,RES-4331,13.51,27.03,47.91,CC-978,221.09,11.05,11.72,0,Compliant
+INV-10945,Manipal Hospitals,Cardiology,Storage,eu-central-1,277.65,4247.93,126.61,2023-08-23,Pending,Azure,RES-9081,3.99,37.89,137.99,CC-174,110.2,5.51,15.57,1,Compliant
+INV-11027,Fortis Healthcare,Cardiology,Database,eu-central-1,37.75,200.11,59.27,2023-08-23,Pending,AWS,RES-9521,11.5,86.65,58.15,CC-467,56.67,2.83,1.36,0,Compliant
+INV-10400,Medanta,Orthopedics,Security,ap-south-1,690.88,164.23,106.92,2023-08-24,Paid,AWS,RES-3843,18.37,21.37,115.76,CC-109,209.52,10.48,32.28,0,Compliant
+INV-11022,Christian Medical College,Pharmacy,Analytics,eu-central-1,661.94,347.4,106.24,2023-08-24,Paid,AWS,RES-5897,41.36,60.44,112.61,CC-809,178.22,8.91,21.16,0,Compliant
+INV-11178,Medanta,Radiology,Database,eu-west-1,547.45,284.21,131.7,2023-08-24,Pending,AWS,RES-1682,14.23,41.17,141.23,CC-501,29.52,1.48,21.94,0,Review Pending
+INV-10043,Tata Memorial,Emergency,Compute,us-west-2,682.41,323.85,130.61,2023-08-25,Paid,AWS,RES-8736,23.7,89.28,145.19,CC-594,125.65,6.28,22.69,2,Compliant
+INV-10156,Christian Medical College,Research,IoT Hub,us-west-2,82.35,396.9,20.29,2023-08-25,Paid,AWS,RES-7098,3.31,15.24,19.61,CC-510,344.71,17.24,4.44,0,Review Pending
+INV-10757,Fortis Healthcare,Pediatrics,Database,ap-southeast-1,402.94,184.47,96.2,2023-08-25,Paid,AWS,RES-5461,4.4,55.36,109.29,CC-275,259.06,12.95,4.92,0,Compliant
+INV-11123,Apollo Hospitals,Research,Analytics,eu-central-1,462.77,130.46,72.02,2023-08-25,Paid,Google Cloud,RES-9220,63.89,20.78,70.25,CC-195,274.9,13.74,18.0,0,Compliant
+INV-10372,Fortis Healthcare,Research,Networking,eu-central-1,479.21,284.24,77.57,2023-08-26,Paid,AWS,RES-8583,5.81,31.66,81.53,CC-777,93.88,4.69,9.02,0,Non-Compliant
+INV-10511,Fortis Healthcare,Orthopedics,Analytics,us-east-1,303.18,410.21,201.27,2023-08-26,Paid,Azure,RES-5333,72.64,73.0,194.66,CC-774,157.16,7.86,15.88,0,Compliant
+INV-10302,Max Healthcare,Neurology,Database,ap-south-1,478.94,37.86,108.9,2023-08-28,Paid,Azure,RES-6298,9.62,94.6,120.62,CC-888,132.38,6.62,19.83,0,Compliant
+INV-10411,Narayana Health,Orthopedics,Analytics,eu-west-1,435.83,165.57,68.69,2023-08-28,Paid,Google Cloud,RES-1691,61.48,91.86,70.45,CC-565,250.49,12.52,20.98,0,Compliant
+INV-10604,Fortis Healthcare,Research,Database,eu-central-1,426.64,186.14,447.21,2023-08-28,Pending,AWS,RES-3600,8.18,60.01,486.94,CC-108,213.6,10.68,10.65,0,Review Pending
+INV-10838,Max Healthcare,Orthopedics,Security,eu-central-1,396.73,39.58,60.3,2023-08-28,Paid,AWS,RES-3676,1.2,82.21,57.24,CC-717,5.23,0.26,5.91,0,Compliant
+INV-11093,Christian Medical College,Pharmacy,Storage,eu-west-1,89.49,2106.73,55.56,2023-08-28,Paid,AWS,RES-3533,9.11,56.96,62.99,CC-954,69.24,3.46,8.75,0,Compliant
+INV-11138,Christian Medical College,Radiology,Networking,ap-south-1,103.28,438.42,24.26,2023-08-28,Pending,Azure,RES-5864,15.35,44.35,28.39,CC-476,441.72,22.09,2.48,0,Compliant
+INV-11190,Max Healthcare,Oncology,Analytics,eu-central-1,165.02,469.62,34.15,2023-08-28,Paid,Azure,RES-8833,46.86,71.71,31.08,CC-405,19.0,0.95,7.42,0,Compliant
+INV-10494,Christian Medical College,Oncology,IoT Hub,eu-west-1,302.18,168.67,48.7,2023-08-29,Pending,Azure,RES-3843,15.85,69.1,46.11,CC-132,254.13,12.71,3.88,0,Non-Compliant
+INV-10566,Narayana Health,Radiology,Networking,eu-west-1,679.16,147.03,104.81,2023-08-29,Paid,Azure,RES-4464,1.59,41.31,99.05,CC-208,404.98,20.25,21.27,0,Compliant
+INV-10635,Max Healthcare,IT Dept,Storage,ap-south-1,362.01,935.04,73.0,2023-08-29,Paid,Google Cloud,RES-9824,15.45,67.2,84.58,CC-803,412.17,20.61,7.77,0,Compliant
+INV-10639,Max Healthcare,Radiology,Analytics,eu-west-1,685.95,473.35,112.36,2023-08-29,Paid,Google Cloud,RES-7144,79.53,43.16,124.94,CC-721,34.36,1.72,9.52,0,Compliant
+INV-10220,Medanta,Neurology,AI Services,eu-central-1,625.78,85.28,238.93,2023-08-30,Paid,Google Cloud,RES-9369,83.9,61.07,273.85,CC-775,135.94,6.8,24.59,0,Compliant
+INV-10608,Apollo Hospitals,IT Dept,Database,ap-south-1,400.38,197.02,96.0,2023-08-30,Paid,AWS,RES-7350,5.04,50.15,99.75,CC-198,68.61,3.43,16.53,0,Non-Compliant
+INV-11151,Fortis Healthcare,Pharmacy,Networking,us-east-1,298.36,66.22,46.08,2023-08-30,Paid,AWS,RES-3870,11.59,55.08,44.79,CC-158,497.16,24.86,8.26,1,Compliant
+INV-10029,Manipal Hospitals,Cardiology,Database,us-west-2,485.32,281.98,117.66,2023-08-31,Paid,AWS,RES-2876,5.14,69.45,111.82,CC-865,390.01,19.5,8.67,0,Review Pending
+INV-10060,Narayana Health,Pediatrics,Security,us-west-2,57.66,415.89,16.97,2023-08-31,Paid,Google Cloud,RES-6400,2.77,18.21,19.41,CC-700,336.66,16.83,3.39,2,Compliant
+INV-10612,Fortis Healthcare,Pharmacy,Analytics,ap-southeast-1,515.54,422.08,85.77,2023-08-31,Pending,Azure,RES-2310,96.49,19.49,88.1,CC-991,79.44,3.97,14.11,0,Compliant
+INV-10714,Manipal Hospitals,Pediatrics,Database,ap-south-1,185.08,316.53,51.14,2023-08-31,Paid,AWS,RES-8941,7.22,80.11,48.27,CC-427,492.72,24.64,7.32,1,Compliant
+INV-10907,Christian Medical College,Emergency,Analytics,eu-west-1,230.54,67.17,113.45,2023-08-31,Overdue,Google Cloud,RES-7103,38.12,15.72,111.67,CC-194,455.81,22.79,10.45,0,Compliant
+INV-10292,AIIMS,Research,AI Services,eu-west-1,108.74,277.71,54.66,2023-09-01,Pending,AWS,RES-3200,85.06,40.62,53.92,CC-228,10.74,0.54,4.35,1,Compliant
+INV-10506,Max Healthcare,Orthopedics,Security,eu-central-1,390.21,391.93,66.37,2023-09-01,Pending,Azure,RES-4253,19.35,47.13,71.09,CC-674,43.52,2.18,15.69,0,Review Pending
+INV-10898,Manipal Hospitals,Emergency,Compute,us-west-2,521.0,447.22,366.74,2023-09-01,Paid,AWS,RES-1359,40.41,93.39,391.27,CC-440,455.45,22.77,14.88,0,Compliant
+INV-11174,Narayana Health,Orthopedics,Analytics,eu-west-1,348.96,136.32,55.07,2023-09-01,Paid,AWS,RES-3254,73.29,35.18,65.4,CC-644,459.67,22.98,16.17,0,Compliant
+INV-10104,Medanta,Radiology,AI Services,us-west-2,118.76,373.87,63.23,2023-09-02,Paid,AWS,RES-4578,63.91,45.35,65.84,CC-780,382.12,19.11,5.68,0,Compliant
+INV-10834,Tata Memorial,Pediatrics,Storage,us-east-1,544.16,54.84,82.72,2023-09-02,Paid,AWS,RES-2913,13.69,53.68,96.96,CC-156,417.69,20.88,22.22,0,Compliant
+INV-11108,Manipal Hospitals,Research,Backup,us-west-2,159.14,201.22,27.9,2023-09-02,Paid,AWS,RES-3412,16.91,48.71,25.61,CC-758,243.66,12.18,2.53,0,Compliant
+INV-10159,Tata Memorial,Cardiology,Networking,eu-west-1,396.61,242.34,64.34,2023-09-03,Paid,Azure,RES-1480,18.34,52.7,61.38,CC-324,448.4,22.42,16.62,3,Compliant
+INV-10287,Apollo Hospitals,Neurology,Analytics,us-east-1,337.48,85.4,52.33,2023-09-03,Pending,Azure,RES-2752,78.35,61.38,48.71,CC-915,166.31,8.32,12.5,0,Compliant
+INV-10796,Medanta,IT Dept,Networking,ap-south-1,166.6,452.4,34.04,2023-09-03,Overdue,AWS,RES-3370,1.33,29.93,32.87,CC-621,59.36,2.97,7.87,0,Compliant
+INV-10978,Narayana Health,Cardiology,Networking,us-west-2,623.79,122.32,96.01,2023-09-03,Pending,Google Cloud,RES-2712,17.25,19.75,97.84,CC-382,414.7,20.73,6.85,0,Compliant
+INV-10288,AIIMS,Orthopedics,AI Services,ap-southeast-1,282.51,170.36,114.46,2023-09-04,Pending,AWS,RES-4869,82.44,60.23,117.96,CC-657,90.68,4.53,11.07,0,Compliant
+INV-10542,Narayana Health,Pharmacy,Compute,ap-south-1,500.32,432.16,100.43,2023-09-04,Pending,Google Cloud,RES-3361,20.81,59.69,111.99,CC-628,283.21,14.16,25.03,1,Compliant
+INV-10877,Medanta,Neurology,Database,us-east-1,670.43,211.23,157.18,2023-09-04,Paid,AWS,RES-2007,7.87,23.77,164.8,CC-713,224.34,11.22,26.34,0,Compliant
+INV-11164,Narayana Health,Orthopedics,Compute,eu-west-1,478.94,157.87,90.0,2023-09-04,Paid,AWS,RES-9131,46.02,11.08,94.39,CC-175,495.34,24.77,11.79,0,Compliant
+INV-10569,Tata Memorial,Research,Compute,ap-south-1,439.71,224.48,84.54,2023-09-05,Paid,Google Cloud,RES-7678,47.28,58.39,79.26,CC-895,338.68,16.93,16.88,0,Compliant
+INV-10009,Fortis Healthcare,Research,AI Services,ap-south-1,162.11,66.16,64.1,2023-09-06,Pending,Google Cloud,RES-2545,93.26,58.54,72.78,CC-294,52.98,2.65,4.59,0,Compliant
+INV-10543,Max Healthcare,Pediatrics,Backup,eu-west-1,452.8,100.35,69.93,2023-09-06,Paid,AWS,RES-8761,2.28,23.01,73.84,CC-206,17.2,0.86,13.95,2,Compliant
+INV-10579,Max Healthcare,Pediatrics,AI Services,ap-south-1,358.06,315.01,150.02,2023-09-06,Overdue,Google Cloud,RES-5706,63.21,56.19,144.87,CC-873,212.7,10.63,10.61,0,Compliant
+INV-11176,Tata Memorial,Pediatrics,Storage,us-west-2,587.2,4540.72,178.89,2023-09-06,Overdue,Azure,RES-7444,1.11,87.08,163.6,CC-153,122.07,6.1,24.05,1,Compliant
+INV-10519,Fortis Healthcare,Pharmacy,Backup,us-west-2,317.76,223.08,52.13,2023-09-07,Paid,AWS,RES-6782,12.33,33.09,48.6,CC-304,190.11,9.51,11.5,0,Compliant
+INV-10662,Christian Medical College,Emergency,Database,eu-west-1,548.51,112.32,126.78,2023-09-07,Paid,Google Cloud,RES-9102,2.96,94.8,136.89,CC-990,419.17,20.96,26.92,0,Non-Compliant
+INV-10587,Fortis Healthcare,Neurology,IoT Hub,us-west-2,431.32,41.94,65.54,2023-09-08,Pending,AWS,RES-9084,8.66,81.24,75.5,CC-160,129.75,6.49,9.79,0,Compliant
+INV-10328,Christian Medical College,Neurology,IoT Hub,eu-central-1,235.61,302.54,41.39,2023-09-09,Pending,AWS,RES-7326,18.92,87.22,39.09,CC-478,189.55,9.48,5.77,3,Non-Compliant
+INV-10769,Narayana Health,Neurology,Backup,us-west-2,668.76,198.17,104.28,2023-09-09,Pending,Azure,RES-3608,5.07,46.56,101.46,CC-444,301.0,15.05,23.44,0,Compliant
+INV-11043,Narayana Health,IT Dept,Database,ap-southeast-1,243.3,354.99,65.39,2023-09-09,Pending,Azure,RES-3935,7.62,54.19,73.4,CC-152,76.01,3.8,7.91,0,Compliant
+INV-11070,Tata Memorial,Neurology,Compute,ap-southeast-1,217.02,423.19,187.4,2023-09-09,Pending,AWS,RES-4303,21.63,47.16,210.09,CC-943,199.55,9.98,12.0,1,Compliant
+INV-10720,AIIMS,Emergency,Storage,ap-southeast-1,26.69,3587.97,75.76,2023-09-10,Paid,Azure,RES-1117,8.88,15.78,69.0,CC-603,177.94,8.9,16.59,0,Compliant
+INV-10114,Narayana Health,Pediatrics,Backup,ap-south-1,340.86,401.41,59.16,2023-09-12,Paid,Google Cloud,RES-4625,14.73,74.74,56.85,CC-146,371.92,18.6,4.92,0,Compliant
+INV-10792,Fortis Healthcare,Emergency,Backup,eu-west-1,11.03,57.31,2.8,2023-09-12,Pending,Google Cloud,RES-2965,12.22,73.48,3.0,CC-694,483.75,24.19,0.44,0,Compliant
+INV-10042,Apollo Hospitals,Orthopedics,IoT Hub,ap-south-1,454.04,380.0,75.71,2023-09-13,Paid,Google Cloud,RES-1472,4.87,56.68,78.09,CC-224,486.71,24.34,16.34,0,Compliant
+INV-10091,Max Healthcare,Radiology,Security,us-west-2,717.14,233.41,112.24,2023-09-13,Paid,AWS,RES-4524,17.7,52.28,114.26,CC-346,293.76,14.69,9.06,0,Compliant
+INV-10145,Manipal Hospitals,IT Dept,Networking,us-east-1,463.04,35.51,70.17,2023-09-13,Paid,AWS,RES-7895,17.89,11.03,69.82,CC-959,185.88,9.29,17.42,3,Compliant
+INV-10244,Christian Medical College,Orthopedics,Security,eu-central-1,718.55,231.84,112.42,2023-09-13,Paid,Azure,RES-7429,16.04,38.07,133.27,CC-894,40.34,2.02,21.11,1,Compliant
+INV-10452,Christian Medical College,Radiology,Database,ap-south-1,492.79,73.71,113.09,2023-09-13,Paid,AWS,RES-6060,6.38,73.5,129.86,CC-427,253.68,12.68,18.66,1,Compliant
+INV-10507,Narayana Health,Cardiology,Database,eu-central-1,623.65,56.8,142.03,2023-09-13,Paid,AWS,RES-3059,19.43,44.54,127.98,CC-952,318.98,15.95,22.36,0,Compliant
+INV-10182,Christian Medical College,Cardiology,Compute,eu-central-1,95.07,340.35,25.28,2023-09-14,Overdue,AWS,RES-7704,57.16,45.11,23.9,CC-450,493.66,24.68,6.03,0,Non-Compliant
+INV-10218,Narayana Health,IT Dept,Analytics,ap-southeast-1,636.24,219.95,99.83,2023-09-14,Paid,AWS,RES-2938,30.47,53.74,94.35,CC-716,332.25,16.61,17.42,0,Compliant
+INV-10499,Manipal Hospitals,Orthopedics,Database,eu-west-1,376.57,364.36,95.66,2023-09-14,Paid,AWS,RES-8059,13.38,89.07,108.63,CC-468,24.81,1.24,15.86,0,Review Pending
+INV-10886,Max Healthcare,Cardiology,Backup,ap-southeast-1,36.91,294.82,11.43,2023-09-14,Pending,Google Cloud,RES-9074,13.29,60.82,13.42,CC-641,321.25,16.06,1.85,0,Compliant
+INV-11078,AIIMS,Oncology,Storage,ap-southeast-1,639.94,2509.56,146.18,2023-09-14,Paid,Azure,RES-7743,14.09,86.91,166.19,CC-297,159.23,7.96,35.48,3,Compliant
+INV-10087,Max Healthcare,Research,Database,us-west-2,656.61,27.71,148.57,2023-09-15,Pending,Azure,RES-9501,3.36,23.01,148.09,CC-454,447.99,22.4,28.84,0,Compliant
+INV-10348,Christian Medical College,Neurology,AI Services,ap-south-1,586.13,333.69,236.48,2023-09-15,Paid,Azure,RES-2234,24.83,35.46,227.15,CC-906,420.99,21.05,19.14,0,Review Pending
+INV-10364,Tata Memorial,Cardiology,Database,ap-south-1,359.92,169.59,86.07,2023-09-15,Paid,AWS,RES-1723,9.89,17.62,88.64,CC-420,489.37,24.47,11.62,0,Compliant
+INV-10896,Medanta,Research,IoT Hub,us-west-2,697.04,480.08,114.16,2023-09-15,Paid,AWS,RES-8141,15.79,32.6,126.6,CC-142,73.04,3.65,15.58,3,Compliant
+INV-10044,Max Healthcare,Neurology,Backup,eu-central-1,199.69,1.28,29.98,2023-09-17,Pending,Azure,RES-9824,14.79,81.19,32.92,CC-557,244.75,12.24,4.66,0,Review Pending
+INV-10648,Narayana Health,Emergency,AI Services,us-west-2,265.5,127.64,488.07,2023-09-17,Pending,AWS,RES-6904,19.97,48.84,497.88,CC-463,473.14,23.66,11.89,1,Compliant
+INV-10857,AIIMS,Emergency,Storage,ap-south-1,305.01,3783.74,121.43,2023-09-17,Pending,Google Cloud,RES-6526,11.24,33.76,114.32,CC-622,491.66,24.58,21.96,0,Compliant
+INV-10198,Apollo Hospitals,Research,Networking,ap-southeast-1,564.57,455.09,93.79,2023-09-18,Paid,Azure,RES-6273,14.14,24.76,87.32,CC-720,254.53,12.73,16.57,2,Compliant
+INV-11121,Medanta,IT Dept,Security,us-west-2,456.98,199.32,72.53,2023-09-18,Paid,Google Cloud,RES-8349,8.28,86.27,65.83,CC-223,405.28,20.26,8.95,0,Compliant
+INV-10657,Tata Memorial,Neurology,IoT Hub,us-west-2,148.36,420.01,30.65,2023-09-19,Paid,Azure,RES-9692,5.22,11.42,30.84,CC-255,264.9,13.24,7.26,0,Review Pending
+INV-10744,Tata Memorial,Pharmacy,Security,ap-south-1,356.33,378.71,61.02,2023-09-19,Paid,Azure,RES-3248,16.95,60.11,67.41,CC-904,237.32,11.87,5.98,0,Compliant
+INV-10431,Fortis Healthcare,Oncology,Database,us-east-1,86.46,163.57,24.36,2023-09-20,Overdue,Azure,RES-4807,11.68,26.11,25.88,CC-223,110.82,5.54,2.37,0,Compliant
+INV-10585,AIIMS,Orthopedics,Backup,ap-south-1,537.87,151.08,83.7,2023-09-20,Paid,Azure,RES-2524,9.72,18.47,89.8,CC-539,115.02,5.75,14.44,0,Compliant
+INV-10776,Narayana Health,Oncology,Storage,us-west-2,438.78,4787.46,161.57,2023-09-20,Paid,AWS,RES-6619,18.24,71.27,182.78,CC-828,401.1,20.06,15.77,0,Compliant
+INV-11158,Narayana Health,Research,Analytics,eu-central-1,339.43,247.72,55.87,2023-09-21,Paid,Google Cloud,RES-9604,64.37,41.63,50.49,CC-360,90.47,4.52,11.61,0,Compliant
+INV-10365,AIIMS,Pediatrics,Backup,ap-southeast-1,232.24,446.34,43.76,2023-09-22,Pending,Azure,RES-8208,7.0,94.54,41.37,CC-773,31.34,1.57,4.56,0,Compliant
+INV-10513,Max Healthcare,Emergency,Database,eu-central-1,122.49,115.48,31.02,2023-09-22,Paid,Azure,RES-5263,14.49,20.74,33.29,CC-880,419.48,20.97,2.27,0,Compliant
+INV-10578,Medanta,Oncology,AI Services,eu-west-1,618.58,374.72,250.7,2023-09-22,Paid,AWS,RES-5310,10.28,15.72,241.31,CC-528,308.62,15.43,22.53,0,Compliant
+INV-10656,Tata Memorial,IT Dept,Compute,eu-west-1,196.63,390.98,44.78,2023-09-23,Overdue,Azure,RES-2820,47.96,12.16,41.57,CC-949,64.54,3.23,8.16,0,Compliant
+INV-10153,Max Healthcare,Pediatrics,Compute,us-east-1,303.27,447.79,65.34,2023-09-24,Paid,AWS,RES-2226,50.8,73.57,68.71,CC-503,297.99,14.9,5.42,0,Compliant
+INV-10185,Apollo Hospitals,Pediatrics,Backup,eu-central-1,433.42,168.92,68.39,2023-09-24,Paid,Google Cloud,RES-3701,17.87,94.62,80.04,CC-292,474.3,23.72,20.69,0,Compliant
+INV-10217,Apollo Hospitals,Cardiology,Security,us-east-1,459.83,136.75,71.71,2023-09-24,Paid,Google Cloud,RES-2275,15.1,59.18,72.64,CC-701,260.75,13.04,12.15,0,Compliant
+INV-10226,Apollo Hospitals,Emergency,Networking,ap-southeast-1,213.39,481.76,41.64,2023-09-24,Paid,Google Cloud,RES-9489,2.09,75.76,43.65,CC-970,146.57,7.33,4.06,0,Compliant
+INV-10577,Narayana Health,Cardiology,Networking,us-east-1,235.44,420.72,186.68,2023-09-24,Paid,Google Cloud,RES-4607,13.56,84.59,168.46,CC-485,338.31,16.92,5.53,1,Compliant
+INV-10949,Apollo Hospitals,Oncology,Analytics,ap-south-1,142.44,127.92,23.92,2023-09-24,Overdue,Azure,RES-2488,97.51,85.64,22.43,CC-217,401.57,20.08,6.46,0,Compliant
+INV-11038,Fortis Healthcare,Neurology,AI Services,us-west-2,662.1,490.2,272.8,2023-09-24,Paid,Google Cloud,RES-2119,48.01,13.18,289.3,CC-670,179.55,8.98,12.79,0,Compliant
+INV-10509,AIIMS,Radiology,Security,ap-southeast-1,701.59,167.91,108.6,2023-09-25,Paid,Azure,RES-7251,18.6,49.0,115.75,CC-546,146.09,7.3,26.15,0,Compliant
+INV-10665,Apollo Hospitals,Radiology,Analytics,eu-central-1,36.47,199.35,9.46,2023-09-25,Paid,Google Cloud,RES-1395,81.66,73.27,11.09,CC-285,317.11,15.86,1.28,0,Compliant
+INV-10259,Christian Medical College,Emergency,AI Services,ap-southeast-1,184.83,35.82,71.1,2023-09-26,Paid,Google Cloud,RES-6984,79.13,37.49,65.9,CC-533,177.41,8.87,4.34,0,Compliant
+INV-10715,Fortis Healthcare,Pediatrics,Storage,eu-west-1,577.18,1448.16,115.54,2023-09-26,Paid,AWS,RES-5851,16.02,45.95,104.36,CC-247,17.52,0.88,26.68,0,Compliant
+INV-10759,AIIMS,Research,IoT Hub,eu-west-1,341.3,323.68,57.67,2023-09-26,Paid,Azure,RES-9576,10.87,76.84,66.39,CC-357,468.75,23.44,7.13,0,Compliant
+INV-10826,AIIMS,Research,Database,ap-southeast-1,600.29,145.2,139.42,2023-09-26,Pending,AWS,RES-4179,19.3,19.85,148.67,CC-558,174.59,8.73,12.35,2,Compliant
+INV-10860,Fortis Healthcare,Pediatrics,Backup,ap-south-1,448.01,192.91,71.06,2023-09-26,Paid,Google Cloud,RES-7931,12.78,70.92,84.49,CC-327,227.26,11.36,16.43,2,Compliant
+INV-10414,Manipal Hospitals,Radiology,Security,eu-west-1,703.74,498.85,115.54,2023-09-27,Overdue,AWS,RES-4107,17.75,84.66,108.99,CC-913,99.88,4.99,18.93,0,Review Pending
+INV-11163,Apollo Hospitals,IT Dept,Networking,eu-central-1,315.74,166.6,50.69,2023-09-27,Overdue,AWS,RES-1110,10.13,74.4,56.76,CC-397,158.26,7.91,13.57,0,Compliant
+INV-10468,Tata Memorial,Radiology,AI Services,eu-west-1,495.7,21.18,186.95,2023-09-28,Overdue,Google Cloud,RES-2230,49.93,24.33,211.09,CC-279,186.69,9.33,7.65,0,Compliant
+INV-10835,Narayana Health,Cardiology,Storage,us-east-1,49.75,3259.01,72.64,2023-09-28,Paid,Azure,RES-3903,2.52,63.54,81.45,CC-517,432.13,21.61,16.16,2,Compliant
+INV-11148,Medanta,Orthopedics,Compute,ap-south-1,421.73,377.8,84.98,2023-09-28,Pending,Google Cloud,RES-3325,90.36,14.4,98.18,CC-694,451.12,22.56,15.77,0,Review Pending
+INV-11159,Manipal Hospitals,Neurology,Security,us-west-2,539.69,488.02,90.71,2023-09-28,Paid,Google Cloud,RES-5744,12.39,23.15,81.91,CC-168,152.26,7.61,21.25,0,Compliant
+INV-10024,Fortis Healthcare,IT Dept,Database,eu-central-1,711.4,297.73,169.0,2023-09-29,Paid,Google Cloud,RES-9976,19.05,85.77,188.57,CC-950,225.73,11.29,12.97,0,Compliant
+INV-10529,Max Healthcare,Pediatrics,Storage,eu-central-1,331.38,1364.61,77.0,2023-09-29,Paid,Google Cloud,RES-6467,18.61,17.15,72.78,CC-620,31.31,1.57,8.83,0,Compliant
+INV-10878,AIIMS,Orthopedics,Database,us-west-2,471.57,450.56,119.62,2023-09-29,Paid,Azure,RES-1124,7.51,32.19,137.36,CC-757,114.81,5.74,19.08,0,Compliant
+INV-10904,Apollo Hospitals,Pharmacy,Backup,us-west-2,699.61,125.11,107.44,2023-09-29,Paid,Azure,RES-8125,1.89,88.24,118.69,CC-858,218.51,10.93,18.77,0,Compliant
+INV-10957,AIIMS,Pharmacy,Storage,us-west-2,164.9,4723.36,119.2,2023-09-29,Paid,Google Cloud,RES-7342,1.55,31.08,126.63,CC-734,198.98,9.95,8.9,1,Review Pending
+INV-11087,Christian Medical College,Orthopedics,IoT Hub,ap-southeast-1,114.19,124.54,19.62,2023-09-29,Paid,AWS,RES-9199,17.29,46.47,19.64,CC-394,437.84,21.89,3.65,0,Compliant
+INV-10669,AIIMS,Pediatrics,Database,eu-west-1,261.2,66.52,60.77,2023-09-30,Pending,Azure,RES-2346,8.32,81.83,70.67,CC-728,165.3,8.27,5.25,0,Compliant
+INV-10804,AIIMS,Cardiology,Database,ap-south-1,134.32,421.45,42.87,2023-09-30,Paid,AWS,RES-4756,8.99,17.21,39.52,CC-545,351.35,17.57,3.86,0,Non-Compliant
+INV-10503,Fortis Healthcare,Radiology,Analytics,eu-central-1,649.09,232.43,102.01,2023-10-01,Pending,Google Cloud,RES-7578,17.64,72.2,120.04,CC-304,167.72,8.39,15.89,0,Compliant
+INV-11145,Christian Medical College,Neurology,Analytics,eu-west-1,310.25,415.23,54.84,2023-10-01,Paid,AWS,RES-9774,64.36,24.59,51.95,CC-812,345.05,17.25,13.38,0,Compliant
+INV-10019,Medanta,Radiology,IoT Hub,eu-central-1,245.12,13.8,37.04,2023-10-02,Paid,Google Cloud,RES-8119,17.66,32.2,44.27,CC-710,176.12,8.81,10.2,3,Compliant
+INV-10170,Tata Memorial,Cardiology,Networking,ap-southeast-1,497.82,468.18,84.04,2023-10-02,Pending,Azure,RES-9226,11.88,30.03,85.59,CC-135,287.75,14.39,16.81,3,Compliant
+INV-10462,Fortis Healthcare,Pediatrics,Networking,eu-west-1,154.67,314.78,29.5,2023-10-02,Paid,AWS,RES-9379,6.12,63.82,32.87,CC-763,304.45,15.22,4.65,3,Compliant
+INV-10829,Christian Medical College,Neurology,IoT Hub,ap-south-1,566.31,289.64,90.74,2023-10-02,Paid,AWS,RES-9199,13.1,58.34,97.06,CC-890,444.23,22.21,19.77,1,Review Pending
+INV-10874,Manipal Hospitals,Emergency,Networking,ap-south-1,19.52,89.42,4.72,2023-10-02,Paid,AWS,RES-5621,13.36,66.54,4.99,CC-903,92.19,4.61,0.36,0,Compliant
+INV-11026,Narayana Health,Orthopedics,Networking,eu-west-1,583.98,53.41,88.67,2023-10-02,Paid,Google Cloud,RES-3730,8.24,75.99,86.86,CC-911,333.13,16.66,18.0,0,Review Pending
+INV-11055,Apollo Hospitals,Pharmacy,Database,us-west-2,552.11,139.11,128.4,2023-10-02,Overdue,Google Cloud,RES-4885,12.66,48.62,127.88,CC-214,416.42,20.82,22.9,1,Compliant
+INV-11094,AIIMS,Pediatrics,Analytics,eu-central-1,150.56,169.42,25.97,2023-10-02,Pending,AWS,RES-3982,30.17,48.03,30.1,CC-107,400.14,20.01,5.43,0,Compliant
+INV-10054,Medanta,IT Dept,Compute,us-east-1,106.32,226.82,24.58,2023-10-03,Pending,AWS,RES-7797,69.67,73.17,25.21,CC-258,329.19,16.46,5.39,2,Compliant
+INV-10207,Narayana Health,Research,Compute,us-east-1,388.58,313.47,77.47,2023-10-03,Pending,AWS,RES-9810,28.76,63.51,85.65,CC-310,415.23,20.76,18.79,0,Compliant
+INV-10491,Manipal Hospitals,Emergency,Networking,ap-southeast-1,388.98,266.24,63.67,2023-10-03,Paid,Azure,RES-4593,16.61,42.69,65.36,CC-810,353.03,17.65,7.82,3,Compliant
+INV-10620,Medanta,Research,Analytics,us-west-2,103.51,303.56,21.6,2023-10-03,Paid,Azure,RES-3606,85.62,18.24,25.87,CC-282,384.6,19.23,6.6,0,Compliant
+INV-10807,Apollo Hospitals,Research,IoT Hub,us-east-1,402.12,169.56,63.71,2023-10-03,Paid,AWS,RES-9036,11.21,32.07,59.94,CC-537,425.87,21.29,8.04,0,Compliant
+INV-10903,Fortis Healthcare,Emergency,Storage,us-west-2,544.42,2798.43,137.63,2023-10-03,Paid,Google Cloud,RES-9432,8.5,45.81,164.16,CC-202,291.74,14.59,22.09,0,Compliant
+INV-11013,Fortis Healthcare,Research,Security,ap-south-1,51.53,154.65,10.82,2023-10-03,Pending,Google Cloud,RES-9232,6.81,21.35,9.74,CC-281,458.21,22.91,2.09,0,Compliant
+INV-10240,Medanta,Research,Analytics,us-west-2,135.7,298.79,26.33,2023-10-04,Paid,Google Cloud,RES-6688,66.16,64.05,27.83,CC-417,243.42,12.17,3.0,0,Compliant
+INV-10312,Fortis Healthcare,Research,Compute,ap-southeast-1,370.35,232.11,72.23,2023-10-04,Paid,Azure,RES-8772,65.76,27.69,67.45,CC-964,251.27,12.56,7.16,0,Compliant
+INV-11000,Manipal Hospitals,Pediatrics,Database,us-east-1,220.16,34.05,50.56,2023-10-04,Pending,AWS,RES-8441,19.47,59.43,60.66,CC-193,360.26,18.01,10.76,0,Compliant
+INV-11028,Apollo Hospitals,Radiology,Analytics,ap-south-1,401.26,309.43,66.38,2023-10-04,Paid,Google Cloud,RES-4875,75.58,32.26,79.55,CC-525,12.21,0.61,19.73,0,Compliant
+INV-11169,Apollo Hospitals,Pediatrics,Security,ap-south-1,206.17,9.19,31.11,2023-10-04,Paid,AWS,RES-9841,15.46,61.36,33.09,CC-923,16.95,0.85,3.81,0,Compliant
+INV-10012,Manipal Hospitals,Pediatrics,AI Services,us-east-1,53.28,156.8,27.82,2023-10-05,Paid,Google Cloud,RES-2312,14.46,50.53,29.47,CC-620,426.41,21.32,0.88,1,Compliant
+INV-10562,Apollo Hospitals,Pediatrics,Backup,us-east-1,220.04,285.54,38.72,2023-10-05,Paid,AWS,RES-1202,1.73,33.31,37.76,CC-890,66.53,3.33,7.86,0,Compliant
+INV-10694,Manipal Hospitals,Emergency,Database,eu-central-1,473.09,150.16,110.95,2023-10-05,Paid,AWS,RES-3567,16.82,75.84,101.55,CC-664,331.53,16.58,22.87,2,Compliant
+INV-10845,Medanta,Orthopedics,Networking,ap-southeast-1,215.05,273.36,37.72,2023-10-05,Paid,Google Cloud,RES-4765,1.31,23.46,34.38,CC-134,332.85,16.64,8.15,0,Compliant
+INV-11074,Christian Medical College,Pharmacy,Storage,eu-central-1,574.56,1717.35,120.53,2023-10-05,Overdue,AWS,RES-8864,11.32,81.62,139.38,CC-535,499.99,25.0,16.67,0,Compliant
+INV-11116,Medanta,Orthopedics,Storage,ap-south-1,416.42,221.24,66.89,2023-10-05,Paid,Azure,RES-3748,5.28,86.39,64.06,CC-106,126.12,6.31,5.64,0,Compliant
+INV-11125,Apollo Hospitals,Oncology,Security,eu-central-1,482.51,480.02,81.98,2023-10-05,Pending,Google Cloud,RES-9639,6.22,85.09,86.16,CC-852,267.55,13.38,22.36,3,Compliant
+INV-10948,Narayana Health,IT Dept,Security,ap-southeast-1,330.31,428.6,58.12,2023-10-06,Paid,Google Cloud,RES-7475,17.35,17.46,62.66,CC-271,27.98,1.4,16.74,0,Non-Compliant
+INV-10504,Christian Medical College,Neurology,Backup,eu-central-1,120.58,234.98,95.75,2023-10-07,Overdue,AWS,RES-8046,13.16,37.22,97.1,CC-470,489.39,24.47,2.67,0,Compliant
+INV-10900,Tata Memorial,Pharmacy,IoT Hub,eu-west-1,394.14,453.78,68.2,2023-10-07,Paid,AWS,RES-5437,1.05,44.06,64.36,CC-553,209.78,10.49,17.95,0,Compliant
+INV-10350,Medanta,Pharmacy,IoT Hub,eu-central-1,138.23,9.3,20.92,2023-10-08,Overdue,Google Cloud,RES-8656,14.36,83.33,20.16,CC-860,137.63,6.88,4.95,1,Review Pending
+INV-10085,Fortis Healthcare,Radiology,Security,eu-west-1,394.94,445.67,68.15,2023-10-09,Pending,AWS,RES-4673,17.18,70.5,74.37,CC-620,65.07,3.25,7.82,0,Compliant
+INV-10417,AIIMS,Emergency,Database,ap-south-1,70.18,375.81,27.06,2023-10-09,Paid,Azure,RES-7981,6.61,54.1,24.69,CC-444,228.32,11.42,2.84,0,Compliant
+INV-10832,Fortis Healthcare,Oncology,Networking,ap-south-1,581.26,392.04,95.03,2023-10-09,Paid,AWS,RES-7265,8.72,74.86,89.71,CC-195,288.59,14.43,15.21,2,Compliant
+INV-10864,Tata Memorial,Orthopedics,Compute,eu-central-1,627.01,359.14,121.48,2023-10-09,Paid,AWS,RES-4559,95.47,64.86,125.99,CC-553,463.27,23.16,24.46,3,Review Pending
+INV-10951,Manipal Hospitals,Research,Security,ap-south-1,67.9,294.27,16.07,2023-10-09,Pending,Google Cloud,RES-7254,6.95,73.72,16.73,CC-196,280.23,14.01,1.15,3,Compliant
+INV-10968,Max Healthcare,Oncology,Compute,us-east-1,327.11,458.08,69.87,2023-10-09,Paid,Azure,RES-3887,59.57,37.06,79.98,CC-856,219.31,10.97,17.04,0,Compliant
+INV-10117,Christian Medical College,IT Dept,Storage,us-east-1,302.05,132.79,47.96,2023-10-10,Paid,Google Cloud,RES-3937,14.72,55.54,50.39,CC-540,57.97,2.9,4.4,0,Compliant
+INV-10250,AIIMS,Orthopedics,IoT Hub,eu-west-1,119.43,141.56,20.75,2023-10-10,Paid,Azure,RES-3926,8.79,37.37,22.78,CC-232,437.38,21.87,2.58,0,Compliant
+INV-10015,Max Healthcare,Pediatrics,Compute,us-east-1,120.37,140.88,25.05,2023-10-11,Paid,Google Cloud,RES-1832,28.75,39.14,28.95,CC-357,50.69,2.53,3.54,0,Compliant
+INV-10021,AIIMS,Radiology,Networking,eu-west-1,100.37,210.22,19.26,2023-10-11,Paid,Azure,RES-1006,18.87,67.57,20.89,CC-661,155.42,7.77,2.72,0,Compliant
+INV-10750,Tata Memorial,Radiology,AI Services,us-west-2,424.73,381.18,178.33,2023-10-11,Paid,AWS,RES-2493,25.29,92.14,189.48,CC-264,287.76,14.39,16.55,1,Compliant
+INV-11170,Apollo Hospitals,Orthopedics,IoT Hub,ap-south-1,293.53,474.26,208.15,2023-10-11,Paid,Google Cloud,RES-3579,12.94,68.94,221.09,CC-429,306.0,15.3,9.22,0,Compliant
+INV-11173,Fortis Healthcare,Neurology,Security,ap-southeast-1,250.34,23.52,38.02,2023-10-11,Paid,Azure,RES-1529,4.1,43.94,35.58,CC-512,151.16,7.56,7.15,3,Compliant
+INV-10264,Medanta,Cardiology,Backup,eu-central-1,683.87,112.79,104.84,2023-10-12,Paid,AWS,RES-4726,7.49,43.39,117.31,CC-794,211.58,10.58,22.82,0,Compliant
+INV-10866,Narayana Health,Orthopedics,IoT Hub,us-west-2,677.18,133.39,104.24,2023-10-12,Paid,Azure,RES-7440,3.32,71.61,117.07,CC-265,148.47,7.42,32.72,0,Compliant
+INV-10123,Max Healthcare,Neurology,Database,eu-central-1,403.87,204.02,96.99,2023-10-13,Paid,Azure,RES-1202,1.5,40.08,104.69,CC-494,149.46,7.47,10.58,2,Review Pending
+INV-10643,Narayana Health,Neurology,Compute,ap-southeast-1,564.22,265.88,107.94,2023-10-13,Paid,AWS,RES-2197,81.07,81.94,127.02,CC-295,384.72,19.24,15.93,0,Non-Compliant
+INV-10181,Fortis Healthcare,IT Dept,Database,eu-west-1,551.67,91.53,126.87,2023-10-14,Pending,Azure,RES-7889,13.91,38.53,127.71,CC-414,395.1,19.76,13.01,0,Non-Compliant
+INV-11079,Medanta,Neurology,Database,ap-southeast-1,684.8,275.83,162.35,2023-10-14,Paid,AWS,RES-6363,7.31,56.66,191.81,CC-905,176.25,8.81,8.35,1,Compliant
+INV-10588,AIIMS,Cardiology,Backup,eu-west-1,574.23,272.79,91.59,2023-10-15,Paid,AWS,RES-2334,6.95,65.42,101.91,CC-979,461.01,23.05,15.88,0,Compliant
+INV-11143,Fortis Healthcare,IT Dept,Storage,ap-south-1,310.04,3515.79,116.82,2023-10-15,Paid,Google Cloud,RES-4060,2.48,83.47,120.66,CC-310,420.27,21.01,21.73,0,Review Pending
+INV-10254,AIIMS,Emergency,Security,ap-southeast-1,397.39,187.53,63.36,2023-10-16,Overdue,AWS,RES-1567,11.45,73.29,65.62,CC-100,491.56,24.58,14.02,3,Compliant
+INV-10713,Manipal Hospitals,Pharmacy,AI Services,us-west-2,343.52,9.7,129.31,2023-10-16,Paid,Azure,RES-8580,55.48,18.12,140.57,CC-602,303.29,15.16,15.72,0,Compliant
+INV-10985,Narayana Health,IT Dept,Networking,ap-south-1,464.46,399.77,254.78,2023-10-16,Paid,Azure,RES-6065,6.4,10.59,303.3,CC-413,274.65,13.73,20.0,0,Compliant
+INV-11101,Fortis Healthcare,Oncology,AI Services,ap-southeast-1,363.4,49.23,138.74,2023-10-16,Pending,Azure,RES-8567,42.24,23.15,151.48,CC-931,84.58,4.23,14.36,0,Compliant
+INV-11160,Fortis Healthcare,Pediatrics,AI Services,us-east-1,60.21,150.26,30.09,2023-10-16,Overdue,Azure,RES-9905,11.48,53.91,29.98,CC-963,237.69,11.88,1.2,0,Compliant
+INV-10140,Medanta,Radiology,IoT Hub,ap-southeast-1,615.22,394.15,425.94,2023-10-17,Paid,AWS,RES-3588,17.99,74.79,490.26,CC-978,223.44,11.17,8.07,0,Compliant
+INV-11120,AIIMS,Oncology,Backup,eu-west-1,154.24,224.07,27.62,2023-10-17,Paid,AWS,RES-4753,12.82,77.73,26.36,CC-819,54.44,2.72,4.71,0,Compliant
+INV-10235,Narayana Health,IT Dept,Backup,ap-south-1,43.87,49.49,7.57,2023-10-18,Paid,Google Cloud,RES-6483,4.1,28.31,8.72,CC-862,133.59,6.68,1.23,1,Compliant
+INV-10797,Tata Memorial,Pediatrics,Networking,us-east-1,689.58,53.56,104.51,2023-10-18,Overdue,AWS,RES-9682,18.08,31.43,124.09,CC-976,461.3,23.07,24.47,0,Review Pending
+INV-10865,Narayana Health,Oncology,Database,us-west-2,655.85,107.05,150.78,2023-10-18,Paid,Google Cloud,RES-2234,8.83,24.55,155.02,CC-974,321.98,16.1,13.1,0,Compliant
+INV-11051,AIIMS,Emergency,AI Services,ap-southeast-1,142.02,173.36,61.93,2023-10-18,Paid,Azure,RES-3195,88.07,18.61,63.04,CC-143,419.97,21.0,7.1,0,Compliant
+INV-11183,Manipal Hospitals,Pharmacy,Security,ap-south-1,198.4,354.83,36.86,2023-10-18,Pending,Azure,RES-8660,19.4,72.21,34.25,CC-811,293.84,14.69,5.53,0,Compliant
+INV-10032,Fortis Healthcare,Pediatrics,Analytics,us-west-2,443.34,189.49,70.29,2023-10-19,Pending,Azure,RES-5581,12.55,82.33,67.73,CC-448,440.76,22.04,17.27,0,Review Pending
+INV-10039,Apollo Hospitals,Oncology,Backup,ap-southeast-1,664.05,219.58,104.0,2023-10-19,Paid,Google Cloud,RES-2317,9.91,35.85,102.09,CC-548,301.03,15.05,31.13,0,Compliant
+INV-10175,Medanta,Research,Networking,us-west-2,30.55,96.38,6.51,2023-10-19,Overdue,Google Cloud,RES-4262,16.83,81.14,6.75,CC-821,140.62,7.03,1.6,0,Compliant
+INV-10932,Apollo Hospitals,Radiology,AI Services,eu-central-1,106.68,21.93,41.1,2023-10-19,Paid,AWS,RES-5201,51.15,78.82,45.38,CC-595,453.5,22.68,4.69,1,Compliant
+INV-11065,Medanta,Emergency,Compute,eu-central-1,128.7,403.87,115.46,2023-10-19,Paid,AWS,RES-4695,95.83,50.29,112.4,CC-248,380.99,19.05,4.47,2,Compliant
+INV-10237,Max Healthcare,Radiology,Networking,eu-west-1,297.39,453.54,53.68,2023-10-20,Pending,Google Cloud,RES-7479,2.5,39.21,58.83,CC-719,139.27,6.96,10.29,0,Compliant
+INV-10393,Medanta,Neurology,Database,eu-west-1,457.38,385.8,114.48,2023-10-20,Overdue,AWS,RES-1866,6.87,64.84,105.96,CC-654,478.86,23.94,15.66,0,Compliant
+INV-10616,Medanta,Neurology,Networking,us-east-1,195.29,151.6,32.33,2023-10-20,Paid,AWS,RES-4525,10.77,82.61,36.85,CC-584,381.56,19.08,5.97,0,Compliant
+INV-10839,Narayana Health,Oncology,Analytics,eu-central-1,703.27,187.99,109.25,2023-10-21,Paid,Google Cloud,RES-1805,26.94,48.04,116.19,CC-706,364.36,18.22,12.4,0,Non-Compliant
+INV-11048,Fortis Healthcare,Cardiology,AI Services,ap-southeast-1,709.18,153.69,273.63,2023-10-21,Paid,AWS,RES-9701,67.52,36.79,305.66,CC-160,167.4,8.37,22.48,0,Compliant
+INV-10644,Max Healthcare,Radiology,Compute,us-west-2,251.26,263.86,51.56,2023-10-22,Paid,Google Cloud,RES-7388,71.64,79.72,46.74,CC-106,14.34,0.72,5.49,0,Compliant
+INV-11198,Narayana Health,Emergency,Backup,eu-central-1,435.62,486.23,75.07,2023-10-22,Paid,Google Cloud,RES-5412,19.4,43.27,74.87,CC-554,285.85,14.29,19.1,0,Compliant
+INV-10040,Manipal Hospitals,Pharmacy,Storage,eu-west-1,38.56,3793.53,81.65,2023-10-23,Paid,Azure,RES-9056,9.94,65.38,77.93,CC-750,484.68,24.23,11.1,0,Compliant
+INV-10061,Apollo Hospitals,Pediatrics,Backup,ap-south-1,370.26,77.37,57.09,2023-10-23,Paid,AWS,RES-4705,10.16,82.02,60.91,CC-385,404.57,20.23,16.6,1,Compliant
+INV-10132,Manipal Hospitals,Orthopedics,Backup,eu-west-1,82.24,435.99,21.06,2023-10-23,Pending,AWS,RES-6134,4.55,37.71,20.61,CC-640,300.5,15.03,4.29,0,Compliant
+INV-10421,Christian Medical College,Research,Storage,ap-south-1,630.36,1562.58,125.81,2023-10-23,Paid,AWS,RES-7608,15.02,52.48,126.62,CC-535,382.61,19.13,27.15,0,Compliant
+INV-10655,Christian Medical College,IT Dept,Security,us-west-2,298.02,496.35,54.63,2023-10-23,Paid,Google Cloud,RES-6527,9.61,32.34,61.38,CC-626,171.94,8.6,14.62,1,Compliant
+INV-10766,Christian Medical College,Radiology,Security,eu-central-1,406.58,444.59,69.88,2023-10-23,Paid,Azure,RES-9520,16.47,38.1,73.93,CC-955,342.89,17.14,19.01,0,Compliant
+INV-11175,Fortis Healthcare,Pharmacy,Security,eu-west-1,203.33,438.2,39.26,2023-10-23,Paid,AWS,RES-7159,10.23,42.94,45.61,CC-434,461.81,23.09,7.14,0,Compliant
+INV-10095,Apollo Hospitals,Pharmacy,Analytics,ap-south-1,420.12,360.7,70.23,2023-10-24,Pending,Google Cloud,RES-4968,61.93,24.49,76.26,CC-251,20.63,1.03,20.65,0,Compliant
+INV-10916,Medanta,Research,Networking,ap-southeast-1,312.17,293.16,52.69,2023-10-24,Paid,Google Cloud,RES-8884,10.78,23.18,58.34,CC-422,291.49,14.57,5.64,0,Compliant
+INV-10139,Medanta,Radiology,Analytics,eu-central-1,11.76,387.07,9.51,2023-10-25,Paid,Azure,RES-9756,75.21,72.13,10.45,CC-164,201.87,10.09,2.24,0,Compliant
+INV-10212,Medanta,Neurology,Backup,us-east-1,355.91,165.43,56.7,2023-10-25,Overdue,AWS,RES-8960,3.44,65.72,61.57,CC-425,228.07,11.4,12.7,0,Compliant
+INV-10342,Manipal Hospitals,Emergency,Analytics,ap-south-1,431.49,378.15,72.29,2023-10-25,Overdue,Google Cloud,RES-9379,81.29,90.17,79.52,CC-596,143.05,7.15,18.11,0,Compliant
+INV-10959,AIIMS,Radiology,Security,us-east-1,213.73,381.53,39.69,2023-10-25,Overdue,Azure,RES-6016,5.84,65.76,40.86,CC-801,304.31,15.22,4.47,0,Compliant
+INV-11037,Medanta,Neurology,Analytics,us-east-1,223.2,402.89,41.54,2023-10-25,Paid,Azure,RES-4790,60.83,26.95,48.62,CC-441,246.72,12.34,7.76,0,Compliant
+INV-10103,Manipal Hospitals,IT Dept,Backup,ap-south-1,523.25,5.72,78.6,2023-10-26,Paid,Azure,RES-9233,13.42,68.89,73.53,CC-515,461.94,23.1,23.84,0,Compliant
+INV-10771,Max Healthcare,Pediatrics,Security,us-east-1,68.47,19.76,10.67,2023-10-26,Pending,AWS,RES-2761,1.0,88.42,12.47,CC-602,137.33,6.87,1.57,0,Compliant
+INV-10876,Manipal Hospitals,Pharmacy,Security,us-west-2,362.56,8.54,54.55,2023-10-26,Paid,Google Cloud,RES-6351,2.85,92.36,53.6,CC-467,272.12,13.61,9.28,0,Compliant
+INV-10946,Fortis Healthcare,IT Dept,IoT Hub,ap-south-1,53.42,93.39,9.88,2023-10-26,Paid,AWS,RES-2560,18.99,69.71,11.23,CC-976,39.52,1.98,2.21,0,Non-Compliant
+INV-10809,Fortis Healthcare,Radiology,Database,eu-west-1,67.55,343.98,25.52,2023-10-27,Paid,Google Cloud,RES-1423,10.13,78.46,29.81,CC-158,361.02,18.05,4.12,0,Compliant
+INV-11100,AIIMS,Pediatrics,Database,eu-central-1,568.94,427.76,140.84,2023-10-27,Pending,Google Cloud,RES-2821,3.32,50.16,140.32,CC-984,72.72,3.64,25.2,2,Compliant
+INV-11156,Christian Medical College,Pharmacy,IoT Hub,eu-central-1,62.32,186.42,13.08,2023-10-27,Paid,Azure,RES-3210,6.9,79.41,15.13,CC-278,375.5,18.78,3.32,0,Compliant
+INV-10120,Apollo Hospitals,Oncology,Security,us-east-1,112.38,410.35,25.06,2023-10-28,Paid,AWS,RES-7375,16.6,88.95,26.79,CC-969,340.13,17.01,4.59,0,Compliant
+INV-10464,Fortis Healthcare,Oncology,IoT Hub,eu-west-1,593.15,244.81,93.87,2023-10-29,Paid,Azure,RES-3797,11.05,69.54,100.01,CC-149,162.41,8.12,24.19,1,Compliant
+INV-10966,Christian Medical College,Pediatrics,Database,us-west-2,710.98,132.85,163.96,2023-10-29,Overdue,Azure,RES-9920,8.31,89.32,196.64,CC-766,293.84,14.69,14.77,2,Compliant
+INV-11194,Fortis Healthcare,Pediatrics,IoT Hub,eu-central-1,535.47,444.37,89.21,2023-10-29,Paid,AWS,RES-7831,16.46,11.21,99.08,CC-246,388.66,19.43,15.53,0,Compliant
+INV-10251,AIIMS,IT Dept,IoT Hub,ap-southeast-1,191.72,183.18,32.42,2023-10-30,Paid,Google Cloud,RES-2310,12.51,16.02,31.21,CC-952,236.69,11.83,7.26,0,Non-Compliant
+INV-10271,Narayana Health,IT Dept,Storage,us-west-2,646.6,4484.18,186.67,2023-10-30,Pending,Azure,RES-3024,17.77,17.67,204.32,CC-267,50.14,2.51,40.59,0,Compliant
+INV-10346,Narayana Health,Pediatrics,Security,us-east-1,42.03,418.47,70.18,2023-10-30,Paid,AWS,RES-6855,7.63,73.07,70.35,CC-453,208.91,10.45,1.34,0,Compliant
+INV-10981,Fortis Healthcare,Pharmacy,Networking,ap-southeast-1,237.94,273.56,41.16,2023-10-30,Paid,AWS,RES-3764,7.8,25.71,37.05,CC-359,220.13,11.01,4.18,0,Compliant
+INV-11196,Christian Medical College,Emergency,Database,us-west-2,700.24,351.6,168.1,2023-10-30,Paid,AWS,RES-7515,6.78,52.31,196.15,CC-449,358.99,17.95,29.24,0,Compliant
+INV-10406,Fortis Healthcare,Cardiology,Analytics,eu-central-1,576.03,467.53,95.76,2023-10-31,Pending,AWS,RES-6465,84.81,31.01,113.73,CC-941,262.24,13.11,11.82,0,Compliant
+INV-11118,Max Healthcare,Pediatrics,AI Services,eu-central-1,313.0,3.62,117.56,2023-10-31,Paid,AWS,RES-3069,57.83,39.48,124.79,CC-225,416.67,20.83,13.02,0,Non-Compliant
+INV-10716,Max Healthcare,IT Dept,Networking,ap-southeast-1,325.34,157.04,51.94,2023-11-01,Paid,AWS,RES-3105,18.8,48.76,56.2,CC-700,164.79,8.24,3.66,0,Compliant
+INV-10745,Fortis Healthcare,Pediatrics,Backup,ap-south-1,374.6,156.53,59.32,2023-11-01,Paid,Azure,RES-6488,18.21,87.11,59.59,CC-945,261.25,13.06,10.23,0,Compliant
+INV-10805,Tata Memorial,Pharmacy,Security,eu-central-1,388.32,283.65,63.92,2023-11-01,Paid,AWS,RES-4508,19.12,46.12,72.77,CC-366,463.48,23.17,17.51,0,Compliant
+INV-10296,Medanta,Pediatrics,Database,us-east-1,542.09,363.49,132.87,2023-11-02,Paid,Google Cloud,RES-1447,11.71,15.22,126.32,CC-398,146.97,7.35,8.31,1,Compliant
+INV-10539,AIIMS,Emergency,Compute,ap-south-1,230.62,281.95,48.28,2023-11-02,Paid,Azure,RES-7820,70.42,37.41,53.35,CC-238,279.37,13.97,5.46,0,Compliant
+INV-10430,Fortis Healthcare,Emergency,Backup,eu-central-1,13.31,386.2,9.72,2023-11-03,Paid,AWS,RES-1457,15.58,88.95,9.44,CC-531,494.7,24.73,1.0,0,Compliant
+INV-10661,Tata Memorial,Pediatrics,IoT Hub,us-east-1,344.49,330.21,58.28,2023-11-03,Paid,Google Cloud,RES-6593,6.68,20.61,60.4,CC-872,438.24,21.91,16.91,1,Compliant
+INV-10728,Manipal Hospitals,Cardiology,Backup,ap-south-1,270.78,410.36,48.82,2023-11-03,Paid,AWS,RES-6681,11.35,41.73,54.57,CC-428,206.47,10.32,10.01,3,Compliant
+INV-10354,Tata Memorial,Pediatrics,Analytics,us-east-1,96.82,403.34,22.59,2023-11-04,Paid,AWS,RES-4571,39.31,59.67,25.4,CC-533,76.42,3.82,3.61,0,Compliant
+INV-10517,Fortis Healthcare,Radiology,Security,eu-central-1,398.0,79.19,61.28,2023-11-04,Paid,Google Cloud,RES-3496,15.09,88.76,55.7,CC-624,112.07,5.6,10.15,0,Compliant
+INV-10565,Apollo Hospitals,Radiology,IoT Hub,eu-west-1,176.63,54.58,27.59,2023-11-04,Paid,AWS,RES-7815,10.63,19.62,26.52,CC-949,40.34,2.02,4.9,0,Compliant
+INV-10678,Manipal Hospitals,Radiology,Compute,eu-west-1,275.66,88.46,51.74,2023-11-04,Pending,AWS,RES-1497,49.22,81.91,54.44,CC-555,312.93,15.65,13.47,0,Compliant
+INV-10410,Tata Memorial,Oncology,Database,eu-central-1,253.46,184.41,62.56,2023-11-05,Paid,Azure,RES-1894,1.15,59.85,57.38,CC-955,213.92,10.7,4.85,2,Compliant
+INV-10445,Fortis Healthcare,Orthopedics,IoT Hub,us-east-1,379.25,481.03,66.51,2023-11-05,Paid,Azure,RES-6620,6.05,51.3,71.92,CC-798,499.73,24.99,18.48,0,Compliant
+INV-10195,Apollo Hospitals,Research,IoT Hub,us-east-1,693.85,318.77,110.45,2023-11-06,Paid,AWS,RES-1889,17.91,57.8,114.52,CC-945,409.21,20.46,31.11,0,Compliant
+INV-10419,Medanta,Pediatrics,Backup,us-west-2,718.58,499.2,117.77,2023-11-06,Paid,Google Cloud,RES-6679,15.3,72.88,106.29,CC-942,392.65,19.63,20.1,0,Compliant
+INV-10760,Fortis Healthcare,Pharmacy,Security,ap-south-1,651.96,191.29,101.62,2023-11-06,Paid,AWS,RES-3411,6.69,12.03,114.33,CC-893,227.72,11.39,22.69,0,Compliant
+INV-10867,Christian Medical College,Pharmacy,Compute,us-west-2,595.66,430.31,117.55,2023-11-06,Paid,Azure,RES-8676,49.05,25.88,108.26,CC-352,381.07,19.05,29.32,0,Compliant
+INV-10167,Christian Medical College,Cardiology,Networking,eu-west-1,641.72,78.55,97.83,2023-11-07,Pending,AWS,RES-9849,2.92,27.47,108.51,CC-847,136.31,6.82,13.8,0,Compliant
+INV-10557,Narayana Health,Pharmacy,AI Services,ap-south-1,292.45,328.79,126.11,2023-11-07,Pending,AWS,RES-6848,68.44,16.49,121.29,CC-932,449.33,22.47,13.88,0,Compliant
+INV-10710,Tata Memorial,Pediatrics,AI Services,us-west-2,523.85,216.43,207.27,2023-11-07,Overdue,Azure,RES-6296,94.31,23.58,190.26,CC-168,354.48,17.72,18.31,0,Compliant
+INV-10758,Apollo Hospitals,IT Dept,Database,us-west-2,602.34,286.93,144.13,2023-11-08,Paid,AWS,RES-1692,6.31,30.89,134.47,CC-755,38.2,1.91,15.4,0,Compliant
+INV-10950,Manipal Hospitals,Emergency,Database,us-east-1,525.15,85.46,120.72,2023-11-08,Overdue,Google Cloud,RES-1070,7.7,87.38,127.56,CC-840,344.77,17.24,17.37,0,Compliant
+INV-10381,Apollo Hospitals,IT Dept,Analytics,us-east-1,442.86,429.19,75.01,2023-11-09,Paid,AWS,RES-6925,19.07,57.81,71.27,CC-310,82.73,4.14,10.79,0,Compliant
+INV-10751,Manipal Hospitals,Emergency,AI Services,us-west-2,127.61,86.77,52.19,2023-11-09,Paid,Azure,RES-7335,29.61,19.13,51.8,CC-714,225.85,11.29,2.84,0,Compliant
+INV-10997,Narayana Health,Cardiology,Database,us-west-2,680.47,211.06,159.44,2023-11-09,Overdue,Google Cloud,RES-4259,7.43,48.12,185.21,CC-263,104.52,5.23,21.31,0,Compliant
+INV-11089,Apollo Hospitals,Neurology,Networking,us-east-1,538.22,263.95,86.01,2023-11-09,Pending,Azure,RES-9277,1.08,90.41,80.0,CC-993,195.6,9.78,27.12,0,Compliant
+INV-10096,Max Healthcare,Emergency,AI Services,eu-central-1,663.57,436.41,270.66,2023-11-10,Paid,Google Cloud,RES-8837,75.49,15.29,260.43,CC-778,265.11,13.26,15.7,2,Compliant
+INV-10233,Manipal Hospitals,Emergency,Compute,ap-south-1,621.91,93.58,114.19,2023-11-10,Paid,Azure,RES-4449,33.39,32.9,114.52,CC-534,212.45,10.62,25.16,0,Compliant
+INV-10360,Manipal Hospitals,Cardiology,Storage,ap-southeast-1,454.91,4538.88,159.01,2023-11-10,Paid,Google Cloud,RES-5262,19.51,26.85,151.16,CC-539,78.88,3.94,29.61,0,Compliant
+INV-10544,Christian Medical College,Oncology,AI Services,ap-southeast-1,493.74,429.66,206.64,2023-11-10,Pending,Azure,RES-4943,64.93,46.75,197.43,CC-773,89.53,4.48,20.95,0,Compliant
+INV-10554,Apollo Hospitals,Radiology,Compute,eu-central-1,669.85,443.76,131.22,2023-11-10,Paid,Google Cloud,RES-6738,52.61,21.0,122.19,CC-330,218.6,10.93,16.78,3,Compliant
+INV-10895,AIIMS,Research,AI Services,eu-west-1,314.81,132.82,124.69,2023-11-10,Paid,Azure,RES-3332,55.54,22.89,117.94,CC-495,84.1,4.21,15.34,0,Compliant
+INV-10923,Medanta,Pharmacy,Analytics,us-east-1,20.68,386.5,10.83,2023-11-11,Paid,Google Cloud,RES-7639,77.66,46.54,10.7,CC-647,83.86,4.19,2.31,0,Compliant
+INV-10374,Christian Medical College,Emergency,Analytics,ap-south-1,266.12,336.9,46.66,2023-11-12,Paid,Google Cloud,RES-1260,71.44,43.57,43.75,CC-214,349.54,17.48,5.04,0,Compliant
+INV-10380,Apollo Hospitals,Neurology,Security,eu-central-1,170.95,280.99,31.26,2023-11-13,Pending,AWS,RES-5382,10.24,94.46,35.35,CC-670,448.68,22.43,8.81,0,Compliant
+INV-10965,Apollo Hospitals,Research,Storage,ap-southeast-1,661.12,1566.43,130.5,2023-11-13,Paid,Azure,RES-7247,2.66,39.04,140.78,CC-480,201.55,10.08,31.64,1,Compliant
+INV-11005,Max Healthcare,Radiology,Compute,ap-southeast-1,188.79,177.48,38.24,2023-11-13,Paid,Google Cloud,RES-3328,63.24,72.49,35.67,CC-279,453.13,22.66,9.74,0,Compliant
+INV-11046,Narayana Health,Pharmacy,Storage,us-east-1,476.25,4339.01,158.22,2023-11-13,Paid,Google Cloud,RES-1769,17.03,58.69,181.96,CC-690,188.35,9.42,26.87,2,Compliant
+INV-11132,Manipal Hospitals,Emergency,Compute,us-east-1,193.87,356.28,43.45,2023-11-13,Paid,Google Cloud,RES-5713,95.88,35.47,48.43,CC-382,62.57,3.13,8.76,0,Compliant
+INV-10037,Christian Medical College,Pediatrics,Networking,ap-south-1,52.76,480.05,17.52,2023-11-14,Paid,Google Cloud,RES-3847,2.89,74.83,17.16,CC-345,278.24,13.91,2.12,0,Compliant
+INV-10398,Tata Memorial,IT Dept,Storage,us-east-1,215.37,4861.8,129.54,2023-11-14,Pending,Azure,RES-6757,1.01,89.35,139.82,CC-489,422.01,21.1,25.2,0,Compliant
+INV-10528,Max Healthcare,Orthopedics,Security,eu-central-1,374.56,390.01,63.98,2023-11-14,Pending,Azure,RES-2672,4.57,33.62,63.48,CC-763,77.91,3.9,18.43,0,Non-Compliant
+INV-10541,Medanta,Orthopedics,IoT Hub,ap-south-1,395.72,282.79,65.01,2023-11-14,Paid,AWS,RES-9487,6.57,74.2,66.37,CC-926,232.81,11.64,5.16,1,Compliant
+INV-10724,Manipal Hospitals,Neurology,Compute,us-east-1,45.52,5.61,8.33,2023-11-14,Overdue,AWS,RES-1877,34.41,10.0,9.32,CC-199,187.18,9.36,1.66,0,Compliant
+INV-10849,Medanta,Cardiology,Security,eu-central-1,245.63,228.32,41.41,2023-11-14,Paid,Azure,RES-6613,1.73,67.21,48.45,CC-864,426.98,21.35,5.49,0,Compliant
+INV-11084,AIIMS,Oncology,Database,ap-south-1,634.32,441.94,155.98,2023-11-15,Pending,AWS,RES-8754,8.77,56.39,179.89,CC-400,236.21,11.81,9.11,0,Compliant
+INV-11090,Fortis Healthcare,Pharmacy,Analytics,ap-southeast-1,439.12,478.98,228.34,2023-11-15,Overdue,Google Cloud,RES-2913,17.14,78.64,225.91,CC-932,124.15,6.21,19.0,0,Compliant
+INV-11165,Max Healthcare,Cardiology,Database,eu-west-1,538.39,291.91,129.9,2023-11-15,Paid,Azure,RES-5886,14.72,60.22,124.45,CC-294,367.22,18.36,24.12,0,Compliant
+INV-10373,Medanta,Radiology,Analytics,eu-west-1,583.56,170.67,90.95,2023-11-16,Overdue,Azure,RES-2742,91.71,78.85,83.99,CC-365,219.73,10.99,6.69,0,Compliant
+INV-10537,Max Healthcare,IT Dept,Database,ap-southeast-1,406.28,81.3,93.85,2023-11-16,Paid,Azure,RES-3022,10.25,15.49,97.24,CC-945,31.33,1.57,9.25,0,Compliant
+INV-10897,Christian Medical College,Pharmacy,Compute,eu-central-1,601.44,44.59,109.33,2023-11-16,Overdue,AWS,RES-6861,16.57,94.89,127.79,CC-354,332.28,16.61,29.92,0,Compliant
+INV-11008,Narayana Health,Orthopedics,Analytics,eu-central-1,508.41,90.83,78.08,2023-11-16,Pending,Azure,RES-4820,48.02,65.92,90.83,CC-524,137.66,6.88,14.56,0,Compliant
+INV-10402,Medanta,Radiology,AI Services,us-east-1,225.26,358.9,102.42,2023-11-17,Overdue,Google Cloud,RES-4425,30.85,51.97,100.8,CC-823,8.53,0.43,12.4,0,Compliant
+INV-11067,Apollo Hospitals,Orthopedics,Database,eu-central-1,260.72,47.19,60.08,2023-11-17,Pending,Google Cloud,RES-1394,18.54,49.98,62.46,CC-837,485.4,24.27,9.77,0,Compliant
+INV-10079,Fortis Healthcare,Radiology,AI Services,eu-west-1,83.6,290.95,45.9,2023-11-18,Paid,Google Cloud,RES-8612,77.34,21.34,45.97,CC-950,490.51,24.53,2.94,0,Compliant
+INV-10149,Tata Memorial,Neurology,Backup,eu-west-1,64.72,227.6,14.26,2023-11-18,Paid,Google Cloud,RES-2889,7.84,52.47,14.41,CC-205,118.06,5.9,2.23,1,Compliant
+INV-10486,Max Healthcare,Orthopedics,Compute,ap-south-1,435.74,396.2,87.94,2023-11-18,Pending,AWS,RES-4314,10.84,77.29,100.73,CC-187,73.92,3.7,19.41,1,Compliant
+INV-10717,Max Healthcare,Radiology,Networking,ap-southeast-1,318.32,161.94,50.99,2023-11-18,Paid,AWS,RES-1645,4.38,62.11,55.74,CC-874,442.21,22.11,4.52,0,Compliant
+INV-10721,AIIMS,Orthopedics,Database,ap-southeast-1,538.42,140.71,125.37,2023-11-18,Paid,AWS,RES-4207,11.57,53.42,120.41,CC-442,166.89,8.34,11.2,0,Compliant
+INV-10376,AIIMS,Cardiology,Security,us-east-1,611.82,215.89,96.09,2023-11-19,Overdue,AWS,RES-8987,8.9,52.13,107.56,CC-137,202.84,10.14,19.52,2,Review Pending
+INV-10422,Apollo Hospitals,Oncology,Database,ap-south-1,577.39,456.88,143.62,2023-11-19,Paid,Google Cloud,RES-4085,11.9,43.23,170.13,CC-495,240.01,12.0,15.58,0,Compliant
+INV-10621,Manipal Hospitals,Emergency,Backup,ap-south-1,85.0,442.38,21.6,2023-11-19,Paid,Azure,RES-7618,19.24,74.75,22.91,CC-979,249.94,12.5,4.33,0,Review Pending
+INV-10984,Medanta,Orthopedics,Compute,ap-southeast-1,556.67,164.41,104.15,2023-11-19,Paid,AWS,RES-4820,26.77,91.07,118.28,CC-286,66.72,3.34,6.83,0,Compliant
+INV-11091,Tata Memorial,Emergency,Storage,eu-west-1,547.95,4426.33,170.72,2023-11-19,Overdue,AWS,RES-9312,3.96,93.95,190.28,CC-152,132.89,6.64,27.7,3,Compliant
+INV-10277,Max Healthcare,Pharmacy,Analytics,ap-southeast-1,363.4,403.99,62.59,2023-11-20,Paid,Google Cloud,RES-2932,88.65,29.78,59.97,CC-576,370.05,18.5,8.05,0,Compliant
+INV-10482,Tata Memorial,Neurology,Storage,eu-west-1,439.66,1877.1,103.49,2023-11-20,Paid,Azure,RES-5831,2.58,69.96,115.56,CC-726,165.69,8.28,13.41,1,Compliant
+INV-10711,Manipal Hospitals,Emergency,Analytics,us-east-1,122.61,315.23,24.7,2023-11-20,Paid,Azure,RES-7117,70.88,46.46,23.19,CC-842,404.53,20.23,6.25,3,Compliant
+INV-10126,AIIMS,Radiology,Backup,eu-west-1,358.62,287.94,59.55,2023-11-21,Paid,Google Cloud,RES-4273,5.61,41.96,60.61,CC-677,298.15,14.91,12.49,0,Review Pending
+INV-10808,Tata Memorial,Oncology,Analytics,us-east-1,398.18,368.87,67.1,2023-11-21,Paid,Azure,RES-1188,38.64,23.99,77.44,CC-883,391.12,19.56,17.72,1,Compliant
+INV-10031,AIIMS,IT Dept,Compute,eu-central-1,643.02,229.87,121.26,2023-11-22,Paid,Azure,RES-8921,23.62,24.97,132.8,CC-651,235.11,11.76,28.44,0,Compliant
+INV-10392,AIIMS,IT Dept,Database,us-west-2,337.26,224.96,82.63,2023-11-22,Paid,Google Cloud,RES-7344,9.53,83.64,94.19,CC-519,120.25,6.01,9.42,3,Non-Compliant
+INV-10433,Narayana Health,Emergency,Database,ap-south-1,550.82,343.81,134.25,2023-11-22,Overdue,AWS,RES-7264,19.58,66.64,121.54,CC-559,257.96,12.9,22.89,0,Compliant
+INV-10987,Max Healthcare,IT Dept,Analytics,us-east-1,411.46,179.05,65.3,2023-11-22,Paid,AWS,RES-1130,60.67,42.31,59.74,CC-577,93.73,4.69,10.17,0,Compliant
+INV-10409,Fortis Healthcare,Pharmacy,AI Services,ap-southeast-1,371.32,177.7,148.13,2023-11-23,Paid,AWS,RES-6106,52.84,62.77,139.44,CC-230,294.34,14.72,11.98,0,Compliant
+INV-10784,AIIMS,Orthopedics,Database,us-west-2,353.23,293.18,88.27,2023-11-23,Overdue,Google Cloud,RES-9099,14.25,92.97,101.54,CC-899,280.94,14.05,10.67,0,Non-Compliant
+INV-10947,AIIMS,Cardiology,Security,us-west-2,552.66,270.51,88.31,2023-11-23,Overdue,AWS,RES-7291,18.36,53.39,83.49,CC-190,199.33,9.97,10.81,2,Compliant
+INV-11036,Fortis Healthcare,Cardiology,Security,us-east-1,43.49,154.26,9.61,2023-11-23,Pending,Google Cloud,RES-4519,2.76,48.1,10.01,CC-753,181.53,9.08,1.11,0,Compliant
+INV-10311,AIIMS,IT Dept,Database,us-west-2,202.37,225.21,52.29,2023-11-24,Pending,AWS,RES-2442,5.55,24.84,56.41,CC-726,315.46,15.77,8.9,0,Compliant
+INV-11002,Max Healthcare,Pediatrics,Storage,eu-central-1,394.55,2707.27,113.33,2023-11-24,Paid,Azure,RES-2050,18.49,23.1,123.38,CC-993,94.04,4.7,12.08,3,Compliant
+INV-10088,Max Healthcare,Pediatrics,IoT Hub,us-east-1,129.73,470.8,28.88,2023-11-25,Pending,Google Cloud,RES-1674,3.93,65.99,31.23,CC-677,413.49,20.67,2.0,0,Compliant
+INV-10627,Christian Medical College,Orthopedics,Backup,us-east-1,502.54,229.12,79.96,2023-11-25,Paid,Azure,RES-8378,14.47,73.96,80.18,CC-438,351.28,17.56,17.22,0,Compliant
+INV-10931,Christian Medical College,Neurology,Storage,ap-south-1,505.59,4746.52,170.77,2023-11-25,Pending,Google Cloud,RES-2789,2.74,58.82,184.97,CC-926,490.62,24.53,29.07,0,Compliant
+INV-11141,Max Healthcare,Emergency,Networking,eu-central-1,209.66,40.64,32.26,2023-11-25,Paid,Google Cloud,RES-6398,1.31,53.51,33.94,CC-614,339.75,16.99,8.92,0,Compliant
+INV-10286,Christian Medical College,Neurology,Analytics,ap-south-1,514.25,232.7,81.79,2023-11-26,Overdue,Google Cloud,RES-4004,30.62,29.02,88.75,CC-501,351.31,17.57,19.79,1,Compliant
+INV-10969,Christian Medical College,Cardiology,Compute,eu-central-1,695.06,434.85,135.55,2023-11-26,Paid,AWS,RES-3418,93.1,67.52,138.71,CC-859,115.17,5.76,20.54,0,Compliant
+INV-10144,AIIMS,Radiology,Database,us-west-2,69.82,276.7,24.01,2023-11-27,Pending,Azure,RES-5942,12.4,61.65,26.58,CC-774,106.7,5.34,2.88,0,Compliant
+INV-10211,Medanta,Orthopedics,Security,us-west-2,614.54,71.23,93.61,2023-11-27,Paid,Azure,RES-1891,4.5,62.44,87.47,CC-680,426.44,21.32,29.42,0,Compliant
+INV-10242,AIIMS,Emergency,AI Services,us-west-2,286.7,189.18,116.97,2023-11-27,Overdue,Google Cloud,RES-5454,33.41,45.89,132.1,CC-926,145.92,7.3,12.19,0,Non-Compliant
+INV-10323,Max Healthcare,IT Dept,Security,eu-central-1,25.25,94.53,5.68,2023-11-27,Paid,Azure,RES-6616,1.42,78.17,6.0,CC-692,329.6,16.48,1.33,0,Compliant
+INV-10418,Apollo Hospitals,Oncology,Analytics,us-west-2,63.88,450.74,18.6,2023-11-27,Paid,Azure,RES-2612,36.21,52.65,17.18,CC-333,63.7,3.19,2.99,0,Compliant
+INV-10520,Tata Memorial,Pediatrics,Networking,ap-south-1,684.77,265.25,108.02,2023-11-27,Paid,Google Cloud,RES-2190,8.57,19.75,111.13,CC-351,111.52,5.58,17.45,0,Compliant
+INV-10547,Max Healthcare,Pediatrics,Backup,eu-central-1,353.46,481.28,62.64,2023-11-27,Paid,AWS,RES-3120,12.51,25.33,65.9,CC-365,350.4,17.52,13.46,0,Compliant
+INV-10371,Manipal Hospitals,Oncology,Analytics,ap-southeast-1,382.52,145.35,60.28,2023-11-28,Paid,Google Cloud,RES-5073,48.92,87.11,56.94,CC-407,263.93,13.2,8.52,0,Compliant
+INV-10435,Medanta,Radiology,Storage,ap-southeast-1,587.02,3765.23,163.36,2023-11-28,Paid,Azure,RES-5068,5.35,72.29,157.11,CC-780,401.72,20.09,29.33,1,Compliant
+INV-10649,Fortis Healthcare,Emergency,Analytics,us-east-1,647.11,22.68,393.71,2023-11-28,Paid,Azure,RES-2002,85.42,25.08,370.9,CC-139,300.12,15.01,11.99,0,Compliant
+INV-10501,Christian Medical College,Pediatrics,Analytics,ap-south-1,666.15,469.91,109.32,2023-11-29,Paid,Azure,RES-3113,96.48,51.5,107.79,CC-734,223.21,11.16,21.96,0,Compliant
+INV-10559,Max Healthcare,Cardiology,AI Services,eu-west-1,552.58,476.52,231.04,2023-11-29,Paid,Azure,RES-1978,11.89,81.09,248.71,CC-186,143.15,7.16,20.42,1,Compliant
+INV-10899,Medanta,Neurology,Compute,eu-central-1,32.41,96.62,8.15,2023-11-29,Paid,Azure,RES-8933,35.73,12.4,8.32,CC-873,448.8,22.44,1.65,0,Compliant
+INV-10930,Apollo Hospitals,Cardiology,Compute,eu-central-1,681.18,408.41,132.41,2023-11-30,Paid,Google Cloud,RES-2187,26.27,68.55,128.72,CC-529,197.8,9.89,34.18,0,Compliant
+INV-10136,Christian Medical College,Research,AI Services,eu-central-1,543.46,148.85,211.24,2023-12-01,Paid,AWS,RES-4882,98.94,48.23,241.87,CC-220,108.89,5.44,22.03,1,Compliant
+INV-10257,Narayana Health,Emergency,Networking,us-east-1,613.13,464.33,101.26,2023-12-01,Paid,AWS,RES-3450,13.04,63.74,107.06,CC-678,166.78,8.34,23.99,0,Review Pending
+INV-10304,Medanta,IT Dept,Storage,eu-central-1,464.64,4667.82,163.05,2023-12-01,Paid,AWS,RES-9039,13.63,32.65,190.99,CC-627,241.68,12.08,30.41,1,Compliant
+INV-10141,Max Healthcare,Pediatrics,Database,ap-south-1,265.91,41.21,61.07,2023-12-02,Pending,AWS,RES-4836,13.63,65.16,66.42,CC-873,217.47,10.87,3.69,0,Compliant
+INV-10179,Narayana Health,Pediatrics,Security,ap-south-1,514.88,446.19,86.16,2023-12-02,Pending,Azure,RES-7620,6.68,22.74,100.8,CC-921,331.96,16.6,20.9,0,Review Pending
+INV-10262,Manipal Hospitals,Pharmacy,Backup,us-east-1,681.08,33.3,102.83,2023-12-02,Paid,Azure,RES-7332,13.55,66.35,103.66,CC-399,119.43,5.97,17.35,0,Compliant
+INV-10885,Fortis Healthcare,Pediatrics,Storage,us-east-1,196.51,1217.96,53.84,2023-12-02,Paid,Google Cloud,RES-5416,15.6,56.92,57.55,CC-824,289.21,14.46,8.91,0,Compliant
+INV-10432,AIIMS,Orthopedics,Analytics,us-west-2,588.71,324.97,94.81,2023-12-03,Paid,AWS,RES-9784,42.84,15.72,93.91,CC-204,396.67,19.83,28.67,0,Compliant
+INV-10460,Medanta,Radiology,IoT Hub,us-west-2,10.06,150.3,4.52,2023-12-03,Paid,Azure,RES-9035,18.98,54.15,4.96,CC-690,349.08,17.45,1.05,0,Compliant
+INV-10483,Medanta,Oncology,Backup,us-east-1,704.92,389.09,113.52,2023-12-03,Paid,Google Cloud,RES-4377,15.83,19.05,115.18,CC-990,409.34,20.47,14.08,0,Compliant
+INV-10567,Narayana Health,Orthopedics,Networking,ap-southeast-1,525.64,190.54,82.66,2023-12-03,Paid,AWS,RES-9982,19.96,16.67,97.59,CC-615,368.31,18.42,16.87,1,Compliant
+INV-10216,Christian Medical College,Oncology,Database,ap-southeast-1,629.26,73.1,650.29,2023-12-04,Paid,Google Cloud,RES-1701,14.91,89.83,630.47,CC-339,335.95,16.8,19.63,0,Review Pending
+INV-10403,Tata Memorial,IT Dept,Database,ap-southeast-1,534.56,336.09,130.36,2023-12-04,Paid,AWS,RES-4734,12.46,24.92,146.5,CC-683,441.1,22.06,21.64,1,Compliant
+INV-10408,Fortis Healthcare,Pharmacy,Networking,us-west-2,453.05,226.71,72.49,2023-12-04,Paid,Google Cloud,RES-1425,9.82,46.39,67.44,CC-791,229.77,11.49,10.88,0,Compliant
+INV-10449,Tata Memorial,Orthopedics,AI Services,us-west-2,506.94,52.73,192.74,2023-12-04,Paid,AWS,RES-4610,98.41,12.48,192.34,CC-387,360.99,18.05,18.83,0,Compliant
+INV-10560,Apollo Hospitals,Orthopedics,AI Services,eu-central-1,316.07,26.13,119.83,2023-12-04,Paid,AWS,RES-5301,37.16,56.03,108.78,CC-444,406.07,20.3,10.74,0,Compliant
+INV-10973,Narayana Health,Oncology,Security,ap-southeast-1,494.85,454.77,83.32,2023-12-04,Paid,Azure,RES-4114,3.82,22.82,95.35,CC-730,447.34,22.37,17.66,0,Non-Compliant
+INV-11034,Apollo Hospitals,Cardiology,AI Services,eu-central-1,141.23,45.7,55.25,2023-12-04,Pending,AWS,RES-8590,87.33,88.99,53.65,CC-246,249.85,12.49,3.91,0,Compliant
+INV-10306,Manipal Hospitals,Oncology,IoT Hub,us-east-1,145.61,347.94,28.8,2023-12-05,Paid,Azure,RES-4104,18.03,63.6,26.65,CC-852,74.27,3.71,3.93,0,Compliant
+INV-10384,Max Healthcare,Emergency,Storage,eu-central-1,664.99,797.21,115.69,2023-12-05,Pending,AWS,RES-7869,11.92,93.11,131.85,CC-402,203.99,10.2,27.32,0,Compliant
+INV-10803,Manipal Hospitals,Oncology,Backup,eu-central-1,329.12,309.32,55.55,2023-12-05,Pending,AWS,RES-5908,1.6,71.69,56.11,CC-879,418.2,20.91,10.14,1,Compliant
+INV-10812,Medanta,Research,AI Services,ap-south-1,44.79,155.06,24.55,2023-12-05,Paid,Azure,RES-1868,25.15,59.03,26.16,CC-581,206.33,10.32,1.41,0,Compliant
+INV-10193,Fortis Healthcare,Emergency,AI Services,eu-central-1,490.17,192.44,193.44,2023-12-06,Paid,Azure,RES-9283,84.67,57.46,177.26,CC-260,425.18,21.26,22.47,0,Compliant
+INV-10295,Fortis Healthcare,Orthopedics,Analytics,eu-west-1,691.89,39.04,104.56,2023-12-06,Paid,Google Cloud,RES-1176,66.4,77.84,95.76,CC-897,237.09,11.85,21.22,0,Compliant
+INV-10538,Medanta,Oncology,Security,ap-south-1,690.55,280.37,109.19,2023-12-07,Paid,Google Cloud,RES-5764,19.12,70.62,122.28,CC-182,113.33,5.67,20.65,1,Compliant
+INV-10693,AIIMS,IT Dept,Security,ap-south-1,293.21,361.65,51.21,2023-12-07,Pending,Azure,RES-6954,4.91,28.44,49.08,CC-775,450.68,22.53,10.83,0,Compliant
+INV-10875,Tata Memorial,Oncology,Security,us-east-1,241.91,67.32,174.86,2023-12-07,Pending,Google Cloud,RES-7234,12.33,41.92,167.53,CC-458,420.62,21.03,3.33,0,Compliant
+INV-11076,Max Healthcare,Cardiology,AI Services,eu-west-1,18.55,181.51,16.03,2023-12-07,Paid,Azure,RES-5102,38.83,30.33,14.57,CC-688,145.27,7.26,1.23,0,Compliant
+INV-10017,Apollo Hospitals,Radiology,AI Services,eu-west-1,82.98,390.06,50.62,2023-12-08,Overdue,AWS,RES-3662,88.69,44.54,47.91,CC-985,488.22,24.41,5.29,0,Compliant
+INV-10664,Tata Memorial,Pharmacy,Networking,ap-southeast-1,281.64,300.83,48.26,2023-12-08,Paid,Google Cloud,RES-4909,12.22,77.46,51.77,CC-882,183.55,9.18,11.78,0,Compliant
+INV-11096,Tata Memorial,Radiology,Analytics,ap-south-1,345.23,194.47,55.67,2023-12-08,Paid,Azure,RES-6974,49.38,68.02,60.45,CC-691,350.01,17.5,17.36,0,Compliant
+INV-10078,Narayana Health,Orthopedics,Networking,us-west-2,70.79,487.33,20.37,2023-12-09,Paid,Google Cloud,RES-8702,2.29,54.72,24.37,CC-499,26.55,1.33,3.02,0,Compliant
+INV-10774,Christian Medical College,Emergency,Networking,us-east-1,679.23,276.06,107.41,2023-12-09,Paid,Google Cloud,RES-7402,12.17,89.68,111.92,CC-260,99.79,4.99,8.9,1,Compliant
+INV-10268,Apollo Hospitals,Pediatrics,Networking,us-west-2,711.65,378.89,114.33,2023-12-10,Paid,Google Cloud,RES-8496,2.26,88.8,132.64,CC-432,444.36,22.22,20.84,0,Compliant
+INV-10977,Medanta,Pediatrics,Database,ap-south-1,619.23,283.04,147.82,2023-12-10,Paid,Google Cloud,RES-7635,14.63,66.53,171.19,CC-462,33.29,1.66,12.01,3,Compliant
+INV-10110,Medanta,Orthopedics,Security,ap-southeast-1,591.05,118.45,91.03,2023-12-11,Paid,Google Cloud,RES-3869,17.65,93.78,93.22,CC-670,314.87,15.74,16.36,3,Review Pending
+INV-10230,Medanta,Orthopedics,Backup,us-east-1,541.64,171.0,84.67,2023-12-11,Paid,Azure,RES-4115,11.54,25.17,81.75,CC-287,252.0,12.6,10.42,1,Compliant
+INV-10401,Fortis Healthcare,Research,Storage,eu-west-1,97.63,4861.59,111.88,2023-12-11,Pending,Azure,RES-3044,8.15,61.11,128.86,CC-108,234.03,11.7,18.14,0,Compliant
+INV-11137,Manipal Hospitals,IT Dept,IoT Hub,us-east-1,313.41,152.36,50.06,2023-12-11,Paid,Azure,RES-5291,17.08,63.98,49.46,CC-635,141.52,7.08,9.26,0,Compliant
+INV-10102,Max Healthcare,Cardiology,Security,ap-south-1,547.67,87.75,83.91,2023-12-12,Paid,Google Cloud,RES-2562,17.27,86.25,88.49,CC-785,96.47,4.82,8.76,0,Compliant
+INV-10707,AIIMS,Neurology,Analytics,us-east-1,72.64,294.07,16.78,2023-12-12,Paid,Google Cloud,RES-6227,91.55,40.73,18.52,CC-368,228.14,11.41,3.74,0,Compliant
+INV-10921,Narayana Health,Pediatrics,Networking,ap-southeast-1,570.97,17.43,401.64,2023-12-13,Paid,Azure,RES-5570,4.77,75.71,410.19,CC-478,472.01,23.6,27.52,0,Compliant
+INV-10074,Manipal Hospitals,Pediatrics,Analytics,us-west-2,682.46,492.22,112.21,2023-12-14,Overdue,Azure,RES-4271,51.09,33.95,118.74,CC-936,401.62,20.08,11.59,0,Non-Compliant
+INV-10321,Manipal Hospitals,Radiology,Security,ap-south-1,310.28,27.23,47.09,2023-12-15,Paid,Google Cloud,RES-9730,8.08,48.45,54.1,CC-644,450.23,22.51,8.78,0,Compliant
+INV-10658,Tata Memorial,Oncology,Security,us-west-2,127.6,317.16,25.48,2023-12-15,Overdue,AWS,RES-7947,12.75,81.68,24.09,CC-724,429.86,21.49,4.23,2,Compliant
+INV-10695,Manipal Hospitals,Emergency,Database,ap-south-1,409.99,77.93,94.59,2023-12-15,Paid,Google Cloud,RES-3139,8.64,76.46,96.8,CC-988,382.5,19.12,12.35,0,Compliant
+INV-10777,Tata Memorial,Orthopedics,AI Services,us-west-2,477.65,368.27,197.53,2023-12-15,Paid,Azure,RES-4222,54.94,55.12,236.66,CC-726,220.29,11.01,24.47,0,Compliant
+INV-10477,Medanta,Neurology,Compute,eu-west-1,401.76,430.99,82.66,2023-12-16,Paid,AWS,RES-4903,39.48,73.01,93.71,CC-480,326.87,16.34,8.49,1,Compliant
+INV-10677,Apollo Hospitals,Pharmacy,Storage,ap-southeast-1,274.93,884.14,222.11,2023-12-16,Overdue,AWS,RES-7141,19.31,54.98,201.74,CC-676,430.38,21.52,14.81,0,Compliant
+INV-10971,Apollo Hospitals,Cardiology,Storage,us-west-2,136.51,683.72,34.15,2023-12-16,Paid,Azure,RES-5933,6.87,37.18,40.42,CC-127,117.22,5.86,7.35,0,Compliant
+INV-10378,Christian Medical College,Orthopedics,IoT Hub,us-west-2,250.8,301.05,43.64,2023-12-17,Pending,Google Cloud,RES-6902,17.01,65.84,43.12,CC-526,399.01,19.95,11.85,0,Compliant
+INV-10636,Medanta,Radiology,IoT Hub,eu-central-1,223.04,304.76,39.55,2023-12-17,Pending,AWS,RES-3587,11.85,23.14,44.69,CC-972,307.01,15.35,5.1,3,Compliant
+INV-10851,Narayana Health,Emergency,Database,ap-south-1,493.18,163.94,115.88,2023-12-17,Overdue,AWS,RES-7374,11.13,38.72,121.09,CC-451,88.0,4.4,16.71,0,Non-Compliant
+INV-10833,Tata Memorial,IT Dept,Networking,us-east-1,636.42,383.25,103.13,2023-12-18,Paid,Google Cloud,RES-4146,16.34,36.66,121.4,CC-963,389.72,19.49,17.12,0,Compliant
+INV-10423,Max Healthcare,Neurology,IoT Hub,us-west-2,438.39,13.42,66.03,2023-12-19,Paid,AWS,RES-2146,4.78,87.46,63.51,CC-636,230.06,11.5,10.86,0,Review Pending
+INV-10600,Christian Medical College,Cardiology,Backup,ap-southeast-1,368.88,86.48,202.43,2023-12-19,Paid,AWS,RES-2410,15.19,81.22,203.48,CC-681,285.26,14.26,10.65,0,Compliant
+INV-10734,Christian Medical College,Emergency,IoT Hub,us-east-1,426.86,440.32,72.84,2023-12-19,Overdue,Azure,RES-2422,19.03,68.21,73.86,CC-877,240.06,12.0,14.14,0,Compliant
+INV-10915,Apollo Hospitals,Research,AI Services,ap-southeast-1,56.83,301.38,36.38,2023-12-19,Paid,Azure,RES-6251,29.35,69.89,32.91,CC-873,124.26,6.21,2.4,0,Compliant
+INV-10030,AIIMS,Emergency,AI Services,us-east-1,599.71,121.42,230.96,2023-12-20,Pending,Google Cloud,RES-1672,72.05,35.63,263.68,CC-679,176.87,8.84,16.57,0,Compliant
+INV-10255,Medanta,Orthopedics,AI Services,ap-south-1,593.86,459.56,245.68,2023-12-20,Paid,AWS,RES-3267,55.5,58.51,228.06,CC-259,136.17,6.81,27.99,0,Compliant
+INV-11154,Medanta,Orthopedics,Networking,ap-south-1,228.92,175.97,37.86,2023-12-20,Paid,AWS,RES-8202,5.22,74.95,42.64,CC-934,395.94,19.8,9.79,0,Compliant
+INV-10315,Medanta,Orthopedics,Security,us-west-2,413.75,140.3,64.87,2023-12-21,Paid,AWS,RES-3568,3.11,49.57,73.18,CC-402,395.83,19.79,15.18,0,Review Pending
+INV-10487,Christian Medical College,Oncology,AI Services,us-east-1,199.89,271.81,88.55,2023-12-21,Pending,Google Cloud,RES-3323,11.89,13.78,82.42,CC-525,5.6,0.28,4.31,0,Compliant
+INV-10806,Tata Memorial,IT Dept,Compute,ap-southeast-1,100.01,26.9,18.65,2023-12-22,Paid,AWS,RES-3215,75.59,55.35,19.92,CC-765,31.15,1.56,1.84,0,Compliant
+INV-11106,AIIMS,Pharmacy,AI Services,us-west-2,247.57,185.26,102.1,2023-12-22,Overdue,AWS,RES-3372,30.94,10.51,112.94,CC-718,239.76,11.99,8.93,3,Compliant
+INV-11167,Apollo Hospitals,Research,Security,us-east-1,179.61,328.7,33.52,2023-12-22,Paid,Azure,RES-1606,17.41,60.41,33.7,CC-361,304.48,15.22,3.7,0,Compliant
+INV-11185,Christian Medical College,Cardiology,Database,us-west-2,349.57,237.02,85.76,2023-12-22,Paid,Google Cloud,RES-4041,14.89,56.08,77.34,CC-677,86.15,4.31,12.58,0,Compliant
+INV-10142,Manipal Hospitals,Research,Analytics,us-east-1,253.94,60.3,39.3,2023-12-23,Paid,AWS,RES-2678,86.57,68.99,38.07,CC-925,56.08,2.8,6.41,0,Compliant
+INV-10736,Fortis Healthcare,Research,Database,eu-central-1,411.19,400.65,104.54,2023-12-23,Paid,Azure,RES-8401,11.18,71.57,97.78,CC-278,150.23,7.51,7.65,0,Compliant
+INV-10955,Max Healthcare,IT Dept,Analytics,ap-south-1,631.83,121.85,97.21,2023-12-23,Paid,AWS,RES-1770,73.89,13.52,91.3,CC-443,206.54,10.33,16.45,3,Compliant
+INV-11139,Apollo Hospitals,Cardiology,Database,eu-central-1,128.53,421.56,41.57,2023-12-23,Paid,Azure,RES-7308,1.21,53.95,46.11,CC-957,15.11,0.76,7.34,0,Compliant
+INV-11142,AIIMS,Orthopedics,Backup,eu-west-1,375.68,308.96,62.53,2023-12-23,Pending,AWS,RES-6286,17.11,74.25,56.73,CC-917,424.84,21.24,17.53,0,Compliant
+INV-11134,Fortis Healthcare,IT Dept,AI Services,us-west-2,139.75,441.1,74.46,2023-12-24,Paid,Azure,RES-3756,35.55,28.63,84.25,CC-608,113.42,5.67,5.15,0,Compliant
+INV-11161,AIIMS,Pediatrics,Database,eu-west-1,106.16,454.3,37.52,2023-12-24,Paid,Google Cloud,RES-4803,7.26,92.42,34.39,CC-444,20.34,1.02,7.28,0,Review Pending
+INV-10572,AIIMS,IT Dept,Networking,ap-south-1,105.57,91.73,17.67,2023-12-25,Pending,Azure,RES-7060,15.55,87.89,16.35,CC-707,338.58,16.93,3.18,0,Compliant
+INV-10990,Medanta,Cardiology,IoT Hub,eu-west-1,408.56,73.05,62.74,2023-12-25,Paid,Google Cloud,RES-9735,1.91,37.9,67.86,CC-323,323.06,16.15,18.75,2,Compliant
+INV-10018,Narayana Health,Emergency,AI Services,ap-south-1,86.75,436.08,54.34,2023-12-26,Paid,AWS,RES-4728,86.41,28.91,56.41,CC-914,115.35,5.77,4.29,0,Compliant
+INV-10038,Apollo Hospitals,Orthopedics,Backup,eu-west-1,620.32,35.59,93.76,2023-12-26,Pending,Azure,RES-7965,5.44,32.49,100.97,CC-302,61.81,3.09,11.84,0,Compliant
+INV-10128,Tata Memorial,Emergency,IoT Hub,us-east-1,645.81,268.45,102.24,2023-12-26,Paid,Azure,RES-1725,13.13,17.22,112.19,CC-762,283.79,14.19,24.08,3,Compliant
+INV-10148,Max Healthcare,Neurology,Storage,eu-west-1,18.06,2507.24,52.85,2023-12-26,Paid,AWS,RES-5403,7.59,53.96,51.68,CC-867,367.8,18.39,11.8,0,Compliant
+INV-10187,AIIMS,Neurology,IoT Hub,ap-south-1,118.72,347.6,24.76,2023-12-26,Paid,Azure,RES-3247,12.98,35.59,27.2,CC-720,212.32,10.62,6.51,0,Compliant
+INV-10253,Fortis Healthcare,Pharmacy,Security,eu-west-1,482.32,441.41,81.18,2023-12-26,Paid,Azure,RES-8258,4.17,25.33,81.28,CC-714,467.09,23.35,23.65,3,Compliant
+INV-10603,AIIMS,Oncology,IoT Hub,ap-southeast-1,318.04,323.0,54.17,2023-12-26,Paid,AWS,RES-5406,13.96,34.54,64.49,CC-860,49.92,2.5,13.68,0,Compliant
+INV-10740,Manipal Hospitals,Orthopedics,Database,ap-south-1,287.4,185.93,70.24,2023-12-26,Paid,AWS,RES-3245,10.69,11.03,68.82,CC-410,163.17,8.16,6.22,0,Compliant
+INV-10155,Fortis Healthcare,Neurology,Database,eu-west-1,504.78,20.16,114.18,2023-12-27,Paid,Azure,RES-1802,16.88,37.86,111.26,CC-625,340.21,17.01,10.4,0,Compliant
+INV-10269,Narayana Health,Emergency,IoT Hub,ap-southeast-1,568.71,260.32,451.81,2023-12-27,Paid,Google Cloud,RES-1643,9.58,80.3,476.94,CC-852,281.06,14.05,18.35,0,Compliant
+INV-10285,Apollo Hospitals,Neurology,Networking,eu-central-1,433.25,296.38,70.92,2023-12-27,Pending,AWS,RES-9740,16.89,69.45,70.48,CC-830,43.88,2.19,21.53,0,Compliant
+INV-10580,Narayana Health,Neurology,Security,eu-west-1,100.92,441.09,23.96,2023-12-27,Paid,Azure,RES-9314,16.96,83.44,26.5,CC-374,111.48,5.57,5.61,0,Compliant
+INV-10861,Max Healthcare,Cardiology,Database,ap-south-1,129.07,184.42,34.57,2023-12-27,Paid,Google Cloud,RES-2734,4.97,91.49,39.47,CC-656,369.84,18.49,2.5,0,Compliant
+INV-10671,AIIMS,Pharmacy,Networking,eu-west-1,575.73,181.98,90.0,2023-12-28,Paid,Azure,RES-6850,16.23,46.66,105.99,CC-653,43.14,2.16,22.14,1,Compliant
+INV-10993,Christian Medical College,Radiology,Networking,ap-south-1,432.38,95.16,66.76,2023-12-28,Paid,Google Cloud,RES-2292,12.06,63.38,79.39,CC-540,461.74,23.09,15.32,0,Compliant
+INV-10481,Tata Memorial,Pediatrics,Backup,us-west-2,200.65,59.55,31.29,2023-12-29,Overdue,Azure,RES-3178,5.25,55.35,34.17,CC-384,138.87,6.94,8.56,0,Compliant
+INV-10514,Apollo Hospitals,Pharmacy,Database,us-east-1,396.01,486.2,103.69,2023-12-29,Paid,Google Cloud,RES-6867,11.86,12.15,123.91,CC-896,97.34,4.87,15.21,0,Compliant
+INV-10672,Tata Memorial,Pharmacy,Database,us-east-1,347.77,156.74,82.95,2023-12-29,Paid,Google Cloud,RES-4669,16.34,61.35,92.51,CC-667,235.32,11.77,11.66,0,Compliant
+INV-10755,AIIMS,Radiology,Storage,us-west-2,660.25,507.27,109.18,2023-12-29,Paid,AWS,RES-3320,14.21,14.26,128.79,CC-400,429.96,21.5,16.32,0,Compliant
+INV-10223,Tata Memorial,Emergency,Backup,us-west-2,537.99,3.56,80.77,2023-12-30,Pending,AWS,RES-6935,10.93,54.18,77.67,CC-518,57.76,2.89,14.56,0,Compliant
+INV-10775,Max Healthcare,IT Dept,Analytics,eu-west-1,622.43,224.81,97.86,2023-12-30,Overdue,Azure,RES-4014,82.6,73.35,107.4,CC-869,8.68,0.43,26.81,0,Compliant
+INV-10448,Fortis Healthcare,Emergency,Backup,ap-southeast-1,111.64,260.03,21.95,2023-12-31,Pending,AWS,RES-9990,11.87,82.83,20.6,CC-408,493.67,24.68,4.39,3,Compliant
+INV-10476,Fortis Healthcare,Pediatrics,Security,ap-south-1,306.83,159.92,49.22,2023-12-31,Paid,Azure,RES-5590,1.9,13.48,55.3,CC-583,454.7,22.73,4.58,2,Compliant
+INV-10641,Medanta,Cardiology,Database,us-east-1,534.73,478.6,134.67,2023-12-31,Paid,Google Cloud,RES-8549,7.86,75.68,129.88,CC-333,184.29,9.21,11.94,0,Compliant
+INV-10927,Tata Memorial,Oncology,Backup,us-east-1,430.48,469.98,73.97,2023-12-31,Paid,Google Cloud,RES-2219,9.28,25.05,87.5,CC-701,227.39,11.37,20.4,2,Compliant
+INV-11003,Narayana Health,Emergency,Networking,ap-southeast-1,190.85,253.57,33.7,2023-12-31,Paid,Azure,RES-2250,15.05,90.51,36.67,CC-887,398.24,19.91,3.01,3,Compliant
